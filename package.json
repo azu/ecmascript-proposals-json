@@ -1,0 +1,32 @@
+{
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "name": "ecmascript-proposals-json",
+  "version": "1.0.0",
+  "main": "lib/ecmascript-proposals-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/ecmascript-proposals-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/azu/ecmascript-proposals-json/issues"
+  },
+  "homepage": "https://github.com/azu/ecmascript-proposals-json",
+  "dependencies": {
+    "striptags": "^3.1.1",
+    "to-markdown": "^3.1.0"
+  }
+}
