@@ -55,14 +55,14 @@ console.log(changedItems);
 // table
 const newTable = tablemark(newItems.map(item => {
     return {
-        "Proposal": `[${toMarkdown(item.titleHtml)}](${item.href})}`,
+        "Proposal": `[${toMarkdown(item.titleHtml)}](${item.href})`,
         "Stage": item.stage
     }
 }));
 
 const updatedTable = tablemark(changedItems.map(item => {
     return {
-        "Proposal": `[${toMarkdown(item.titleHtml)}](${item.href})}`,
+        "Proposal": `[${toMarkdown(item.titleHtml)}](${item.href})`,
         "From": item.beforeState,
         "To": item.stage
     }
