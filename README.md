@@ -1,16 +1,21 @@
 # ecmascript-proposals-json
 
-
+Get latest ECMAScript as JSON.
+And diff between proposal JSON.
 
 ## Install
 
-Install with [npm](https://www.npmjs.com/):
-
-    npm install ecmascript-proposals-json
+    yarn
 
 ## Usage
 
-- [ ] Write usage instructions
+### Get latest json
+
+    node get-latest.js
+
+### Diff
+
+    node diff.js --before a.json --after b.json
 
 ## Changelog
 

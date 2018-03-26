@@ -1,15 +1,30 @@
-// MIT © 2017 azu
+#!/usr/bin/env node
 "use strict";
+const meow = require("meow");
 const striptags = require("striptags");
 const tablemark = require("tablemark");
 const toMarkdown = require("to-markdown");
 const path = require("path");
-const dataDir = path.join(__dirname, "data");
-const before = "2018-01-18.json";
-const after = "2018-01-28.json";
-const beforeData = require(`${dataDir}/${before}`);
-const afterData = require(`${dataDir}/${after}`);
-
+const cli = meow(
+    `
+	Usage
+	  $ diff --before a.json --after b.json
+`,
+    {
+        flags: {
+            before: {
+                type: "string"
+            },
+            after: {
+                type: "string"
+            }
+        }
+    }
+);
+const before = cli.flags.before;
+const after = cli.flags.after;
+const beforeData = require(path.resolve(process.cwd(), before));
+const afterData = require(path.resolve(process.cwd(), after));
 const plainTitle = title => {
     return striptags(title)
         .replace(/\s/g, "")

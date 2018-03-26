@@ -32,6 +32,7 @@
     "cheerio": "^1.0.0-rc.2",
     "contra": "^1.9.4",
     "lodash": "latest",
+    "meow": "^4.0.0",
     "moment": "^2.20.1",
     "request": "latest",
     "striptags": "^3.1.1",
