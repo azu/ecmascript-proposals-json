@@ -45,22 +45,22 @@ const equalItem = (aItem, bItem) => {
     if (plainTitle(aItem.titleHtml) === plainTitle(bItem.titleHtml)) {
         return true;
     }
-    if (aItem.href && normalizeTransfer(aItem.href) === normalizeTransfer(bItem.href)) {
+    if (aItem.href && bItem.href && normalizeTransfer(aItem.href) === normalizeTransfer(bItem.href)) {
         return true;
     }
     return false;
 };
 const newItems = [];
 const changedItems = [];
-afterData.forEach(item => {
+afterData.forEach(newItem => {
     const beforeItem = beforeData.find(beforeItem => {
-        return equalItem(beforeItem, item);
+        return equalItem(beforeItem, newItem);
     });
     if (!beforeItem) {
-        newItems.push(item);
-    } else if (beforeItem.stage !== item.stage) {
-        item.beforeState = beforeItem.stage;
-        changedItems.push(item);
+        newItems.push(newItem);
+    } else if (beforeItem.stage !== newItem.stage) {
+        newItem.beforeState = beforeItem.stage;
+        changedItems.push(newItem);
     }
 });
 // console.log("New");
