@@ -80,7 +80,6 @@ const newTable = tablemark(
 
 const updatedTable = tablemark(
     changedItems.map(item => {
-        console.log(item);
         return {
             Proposal: item.href ? `[${toMarkdown(item.titleHtml)}](${item.href})` : toMarkdown(item.titleHtml),
             From: item.before.stage,
