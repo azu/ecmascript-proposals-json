@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 "use strict";
 const meow = require("meow");
-const striptags = require("striptags");
+const html2plaintext = require("html2plaintext");
 const tablemark = require("tablemark");
 const toMarkdown = require("to-markdown");
 const path = require("path");
@@ -26,16 +26,16 @@ const after = cli.flags.after;
 const beforeData = require(path.resolve(process.cwd(), before));
 const afterData = require(path.resolve(process.cwd(), after));
 const plainTitle = title => {
-    return striptags(title)
+    return html2plaintext(title)
         .replace(/\s/g, "")
-        .toLocaleLowerCase();
+        .toLowerCase();
 };
 // same https://github.com/tc39/a === https://github.com/Foo/a
 const normalizeTransfer = url => {
     if (!url) {
-        return "";
+        throw new Error(`url is not found: ${url}`);
     }
-    return url.replace(/^https:\/\/github.com\/.*\//, "");
+    return url.replace(/^https:\/\/github.com\/.*?\//, "");
 };
 
 const equalItem = (aItem, bItem) => {
@@ -59,7 +59,7 @@ afterData.forEach(newItem => {
     if (!beforeItem) {
         newItems.push(newItem);
     } else if (beforeItem.stage !== newItem.stage) {
-        newItem.beforeState = beforeItem.stage;
+        newItem.before = beforeItem;
         changedItems.push(newItem);
     }
 });
@@ -80,9 +80,10 @@ const newTable = tablemark(
 
 const updatedTable = tablemark(
     changedItems.map(item => {
+        console.log(item);
         return {
             Proposal: item.href ? `[${toMarkdown(item.titleHtml)}](${item.href})` : toMarkdown(item.titleHtml),
-            From: item.beforeState,
+            From: item.before.stage,
             To: item.stage
         };
     })
