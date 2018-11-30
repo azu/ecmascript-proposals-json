@@ -1,0 +1,1074 @@
+[
+    {
+        "titleHtml": "<code>Array.prototype.includes</code>",
+        "href": "https://github.com/tc39/Array.prototype.includes",
+        "stage": 4,
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Exponentiation operator",
+        "href": "https://github.com/rwaldron/exponentiation-operator",
+        "stage": 4,
+        "champions": [
+            "Rick Waldron"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "<code>Object.values</code>/<code>Object.entries</code>",
+        "href": "https://github.com/tc39/proposal-object-values-entries",
+        "stage": 4,
+        "champions": [
+            "Jordan Harband"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "String padding",
+        "href": "https://github.com/tc39/proposal-string-pad-start-end",
+        "stage": 4,
+        "champions": [
+            "Jordan Harband"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "<code>Object.getOwnPropertyDescriptors</code>",
+        "href": "https://github.com/ljharb/proposal-object-getownpropertydescriptors",
+        "stage": 4,
+        "champions": [
+            "Jordan HarbandAndrea Giammarchi"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Trailing commas in function parameter lists and calls",
+        "href": "https://github.com/tc39/proposal-trailing-function-commas",
+        "stage": 4,
+        "champions": [
+            "Jeff Morrison"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Async functions",
+        "href": "https://github.com/tc39/ecmascript-asyncawait",
+        "stage": 4,
+        "champions": [
+            "Brian Terlson"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Shared memory and atomics",
+        "href": "https://github.com/tc39/ecmascript_sharedmem",
+        "stage": 4,
+        "champions": [
+            "Lars T Hansen"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Lifting template literal restriction",
+        "href": "https://github.com/tc39/proposal-template-literal-revision",
+        "stage": 4,
+        "champions": [
+            "Tim Disney"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "<code>s</code> (<code>dotAll</code>) flag for regular expressions",
+        "href": "https://github.com/tc39/proposal-regexp-dotall-flag",
+        "stage": 4,
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "RegExp named capture groups",
+        "href": "https://github.com/tc39/proposal-regexp-named-groups",
+        "stage": 4,
+        "champions": [
+            "Gorkem YakinDaniel Ehrenberg"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Rest/Spread Properties",
+        "href": "https://github.com/tc39/proposal-object-rest-spread",
+        "stage": 4,
+        "champions": [
+            "Sebastian Markbåge"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "RegExp Lookbehind Assertions",
+        "href": "https://github.com/tc39/proposal-regexp-lookbehind",
+        "stage": 4,
+        "champions": [
+            "Gorkem YakinNozomu KatōDaniel Ehrenberg"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "RegExp Unicode Property Escapes",
+        "href": "https://github.com/tc39/proposal-regexp-unicode-property-escapes",
+        "stage": 4,
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "<code>Promise.prototype.finally</code>",
+        "href": "https://github.com/tc39/proposal-promise-finally",
+        "stage": 4,
+        "champions": [
+            "Jordan Harband"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Asynchronous Iteration",
+        "href": "https://github.com/tc39/proposal-async-iteration",
+        "stage": 4,
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Optional <code>catch</code> binding",
+        "href": "https://github.com/tc39/proposal-optional-catch-binding",
+        "stage": 4,
+        "champions": [
+            "Michael Ficarra"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "JSON superset",
+        "href": "https://github.com/tc39/proposal-json-superset",
+        "stage": 4,
+        "champions": [
+            "Richard Gibson"
+        ],
+        "readyToAdvance": false,
+        "meeting": "2018-03-01T00:00:00.000Z",
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "<code>Symbol.prototype.description</code>",
+        "href": "https://github.com/tc39/proposal-Symbol-description",
+        "stage": 4,
+        "champions": [
+            "Michael Ficarra"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "<code>Function.prototype.toString</code> revision",
+        "href": "https://github.com/tc39/Function-prototype-toString-revision",
+        "stage": 4,
+        "champions": [
+            "Michael Ficarra"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "<code>Array.prototype.{flat,flatMap}</code>",
+        "href": "https://github.com/tc39/proposal-flatMap",
+        "stage": 3,
+        "champions": [
+            "Brian TerlsonMichael Ficarra"
+        ],
+        "readyToAdvance": true
+    },
+    {
+        "titleHtml": "<code>globalThis</code>",
+        "href": "https://github.com/tc39/proposal-global",
+        "stage": 3,
+        "champions": [
+            "Jordan Harband"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>import()</code>",
+        "href": "https://github.com/tc39/proposal-dynamic-import",
+        "stage": 3,
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Legacy RegExp features in JavaScript",
+        "href": "https://github.com/tc39/proposal-regexp-legacy-features",
+        "stage": 3,
+        "champions": [
+            "Claude Pache"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>BigInt</code>",
+        "href": "https://github.com/tc39/proposal-bigint",
+        "stage": 3,
+        "champions": [
+            "Daniel Ehrenberg"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>import.meta</code>",
+        "href": "https://github.com/tc39/proposal-import-meta",
+        "stage": 3,
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Private instance methods and accessors",
+        "href": "https://github.com/tc39/proposal-private-methods",
+        "stage": 3,
+        "champions": [
+            "Daniel Ehrenberg"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Class Public Instance Fields &amp; Private Instance Fields",
+        "href": "https://github.com/tc39/proposal-class-fields",
+        "stage": 3,
+        "champions": [
+            "Daniel EhrenbergKevin Gibbons"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Static class fields and private static methods",
+        "href": "http://github.com/tc39/proposal-static-class-features/",
+        "stage": 3,
+        "champions": [
+            "Daniel EhrenbergKevin GibbonsJeff MorrisonKevin Smith"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>String.prototype.{trimStart,trimEnd}</code>",
+        "href": "https://github.com/sebmarkbage/ecmascript-string-left-right-trim",
+        "stage": 3,
+        "champions": [
+            "Sebastian Markbåge"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>String.prototype.matchAll</code>",
+        "href": "https://github.com/tc39/String.prototype.matchAll",
+        "stage": 3,
+        "champions": [
+            "Jordan Harband"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>Object.fromEntries</code>",
+        "href": "https://github.com/bakkot/object-from-entries",
+        "stage": 3,
+        "champions": [
+            "Darien Maillet Valentine"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Well-formed <code>JSON.stringify</code>",
+        "href": "https://github.com/gibson042/ecma262-proposal-well-formed-stringify",
+        "stage": 3,
+        "champions": [
+            "Richard Gibson"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>throw</code> expressions",
+        "href": "https://github.com/rbuckton/proposal-throw-expressions",
+        "stage": 2,
+        "champions": [
+            "Ron Buckton"
+        ],
+        "readyToAdvance": true
+    },
+    {
+        "titleHtml": "Numeric separators",
+        "href": "https://github.com/tc39/proposal-numeric-separator",
+        "stage": 2,
+        "champions": [
+            "Sam GotoRick Waldron"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>function.sent</code> metaproperty",
+        "href": "https://github.com/allenwb/ESideas/blob/master/Generator%20metaproperty.md",
+        "stage": 2,
+        "champions": [
+            "Allen Wirfs-Brock"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Decorators",
+        "href": "http://github.com/tc39/proposal-decorators",
+        "stage": 2,
+        "champions": [
+            "Daniel Ehrenberg"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>Atomics.waitAsync</code>",
+        "href": "https://github.com/tc39/proposal-atomics-wait-async",
+        "stage": 2,
+        "champions": [
+            "Lars Hansen"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Hashbang Grammar",
+        "href": "https://github.com/bmeck/proposal-hashbang",
+        "stage": 2,
+        "champions": [
+            "Bradley Farias"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "WeakRefs",
+        "href": "https://github.com/tc39/proposal-weakrefs",
+        "stage": 2,
+        "champions": [
+            "Dean Tribble"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Top-level <code>await</code>",
+        "href": "https://github.com/tc39/proposal-top-level-await",
+        "stage": 2,
+        "champions": [
+            "Myles Borins"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>Function.prototype.toString()</code> censorship",
+        "href": "https://github.com/domenic/proposal-function-prototype-tostring-censorship",
+        "stage": 2,
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "New Set methods",
+        "href": "https://github.com/tc39/set-methods",
+        "stage": 2,
+        "champions": [
+            "Michał Wadas"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Realms",
+        "href": "https://github.com/caridy/proposal-realms",
+        "stage": 2,
+        "champions": [
+            "Caridy PatiñoJean-Francois Paradis"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>ArrayBuffer.prototype.transfer</code>",
+        "href": "https://github.com/domenic/proposal-arraybuffer-transfer/",
+        "stage": 2,
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "RegExp Match array offsets",
+        "href": "https://github.com/rbuckton/proposal-regexp-match-offsets",
+        "stage": 2,
+        "champions": [
+            "Ron Buckton"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Sequence properties in Unicode property escapes",
+        "href": "https://github.com/mathiasbynens/proposal-regexp-unicode-sequence-properties",
+        "stage": 2,
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>InterpreterDirective</code>",
+        "href": "https://gist.github.com/bmeck/59cf8c16959eccffd8b7e9828826a842",
+        "stage": 2,
+        "champions": [
+            "Bradley Farias"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Temporal",
+        "href": "https://github.com/maggiepint/proposal-temporal",
+        "stage": 2,
+        "champions": [
+            "Maggie PintMatt Johnson"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Observable",
+        "href": "https://github.com/tc39/proposal-observable",
+        "stage": 1,
+        "champions": [
+            "Jafar Husain"
+        ],
+        "readyToAdvance": true
+    },
+    {
+        "titleHtml": "Getting last element of Array",
+        "href": "https://github.com/keithamus/proposal-array-last",
+        "stage": 1,
+        "champions": [
+            "Keith Cirkel"
+        ],
+        "readyToAdvance": true
+    },
+    {
+        "titleHtml": "<code>export v from &quot;mod&quot;;</code> statements",
+        "href": "https://github.com/tc39/proposal-export-default-from",
+        "stage": 1,
+        "champions": [
+            "Lee Byron"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Frozen Realms",
+        "href": "https://github.com/FUDCo/frozen-realms",
+        "stage": 1,
+        "champions": [
+            "Mark MillerChip MorningstarCaridy Patiño"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>Math</code> Extensions",
+        "href": "https://github.com/rwaldron/proposal-math-extensions",
+        "stage": 1,
+        "champions": [
+            "Rick Waldron"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>of</code> and <code>from</code> on collection constructors",
+        "href": "https://github.com/leobalter/proposal-setmap-offrom",
+        "stage": 1,
+        "champions": [
+            "Leo Balter"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Generator arrow functions (<code>=&gt;*</code>)",
+        "stage": 1,
+        "champions": [
+            ""
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>Promise.try</code>",
+        "href": "https://github.com/ljharb/proposal-promise-try",
+        "stage": 1,
+        "champions": [
+            "Jordan Harband"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Optional Chaining",
+        "href": "https://github.com/tc39/proposal-optional-chaining",
+        "stage": 1,
+        "champions": [
+            "Gabriel IsenbergClaude Pache"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>Math.signbit</code>: IEEE-754 sign bit",
+        "href": "http://jfbastien.github.io/papers/Math.signbit.html",
+        "stage": 1,
+        "champions": [
+            "JF Bastien"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Error stacks",
+        "href": "https://github.com/ljharb/proposal-error-stacks",
+        "stage": 1,
+        "champions": [
+            "Jordan Harband"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>do</code> expressions",
+        "href": "https://github.com/tc39/proposal-do-expressions",
+        "stage": 1,
+        "champions": [
+            "Dave Herman"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Float16 on TypedArrays, DataView, <code>Math.hfround</code>",
+        "href": "https://docs.google.com/presentation/d/1Ta_IbravBUOvu7LUhlN49SvLU-8G8bIQnsS08P3Z4vY/edit?usp=sharing",
+        "stage": 1,
+        "champions": [
+            "Leo Balter"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Change <code>Number.parseInt</code>/<code>parseFloat</code> to not coerce <code>null</code>/<code>undefined</code>/<code>NaN</code> (repo link TBD)",
+        "stage": 1,
+        "champions": [
+            ""
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Binary AST",
+        "href": "https://github.com/syg/ecmascript-binary-ast",
+        "stage": 1,
+        "champions": [
+            "Shu-yu Guo"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Pipeline Operator",
+        "href": "https://github.com/tc39/proposal-pipeline-operator",
+        "stage": 1,
+        "champions": [
+            "Daniel Ehrenberg"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Extensible numeric literals",
+        "href": "https://github.com/littledan/proposal-extensible-numeric-literals",
+        "stage": 1,
+        "champions": [
+            "Daniel Ehrenberg"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "First-class protocols",
+        "href": "https://github.com/michaelficarra/proposal-first-class-protocols",
+        "stage": 1,
+        "champions": [
+            "Michael Ficarra"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Nullish coalescing Operator",
+        "href": "https://github.com/tc39/proposal-nullish-coalescing",
+        "stage": 1,
+        "champions": [
+            "Gabriel Isenberg"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Partial application",
+        "href": "https://github.com/tc39/proposal-partial-application",
+        "stage": 1,
+        "champions": [
+            "Ron Buckton"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Cancellation API",
+        "href": "https://github.com/tc39/proposal-cancellation",
+        "stage": 1,
+        "champions": [
+            "Ron Buckton"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>String.prototype.replaceAll</code>",
+        "href": "https://github.com/psmarshall/string-replace-all-proposal",
+        "stage": 1,
+        "champions": [
+            "Peter MarshallJakob GruberMathias Bynens"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>String.prototype.codePoints</code>",
+        "href": "https://github.com/RReverser/string-prototype-codepoints",
+        "stage": 1,
+        "champions": [
+            "Ingvar Stepanyan"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Distinguishing literal strings",
+        "href": "https://github.com/mikewest/tc39-proposal-literals",
+        "stage": 1,
+        "champions": [
+            "Mike West"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>Object.freeze</code> + <code>Object.seal</code> syntax",
+        "href": "https://github.com/keithamus/object-freeze-seal-syntax",
+        "stage": 1,
+        "champions": [
+            "Keith Cirkel"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Block Params",
+        "href": "https://github.com/samuelgoto/proposal-block-params",
+        "stage": 1,
+        "champions": [
+            "Sam Goto"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>{BigInt,Number}.fromString</code>",
+        "href": "https://github.com/mathiasbynens/proposal-number-fromstring",
+        "stage": 1,
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>Math.seededRandoms()</code>",
+        "href": "https://github.com/tabatkins/js-seeded-random",
+        "stage": 1,
+        "champions": [
+            "Tab Atkins"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Maximally minimal mixins",
+        "href": "https://github.com/justinfagnani/proposal-mixins",
+        "stage": 1,
+        "champions": [
+            "Justin Fagnani"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Collection methods",
+        "href": "https://github.com/tc39/collection-methods",
+        "stage": 1,
+        "champions": [
+            "Michał Wadas"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Richer Keys",
+        "href": "https://docs.google.com/presentation/d/1q3CGeXqskL1gHTATH_VE9Dhj0VGTIAOzJ1cR0dYqDBk/edit#slide=id.p",
+        "stage": 1,
+        "champions": [
+            "Bradley Farias"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Slice notation",
+        "href": "https://github.com/gsathya/proposal-slice-notation/",
+        "stage": 1,
+        "champions": [
+            "Sathya Gunasekaran"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Logical Assignment Operators",
+        "href": "https://github.com/jridgewell/proposal-logical-assignment",
+        "stage": 1,
+        "champions": [
+            "Justin Ridgewell"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Module Keys",
+        "href": "https://github.com/mikesamuel/tc39-module-keys",
+        "stage": 1,
+        "champions": [
+            "Mike Samuel"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Class Static Block",
+        "href": "https://github.com/rbuckton/proposal-class-static-block#readme",
+        "stage": 1,
+        "champions": [
+            "Ron Buckton"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "class Access Expressions",
+        "href": "https://github.com/rbuckton/proposal-class-access-expressions",
+        "stage": 1,
+        "champions": [
+            "Ron Buckton"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Pattern Matching",
+        "href": "https://github.com/tc39/proposal-pattern-matching",
+        "stage": 1,
+        "champions": [
+            "Kat MarchánBrian Terlson"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Explicit Resource Management",
+        "href": "https://github.com/rbuckton/proposal-using-statement",
+        "stage": 1,
+        "champions": [
+            "Ron Buckton"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Dynamic Modules",
+        "href": "https://github.com/guybedford/proposal-dynamic-modules",
+        "stage": 1,
+        "champions": [
+            "Bradley Farias"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "JavaScript Standard Library",
+        "href": "https://github.com/msaboff/JavaScript-Standard-Library",
+        "stage": 1,
+        "champions": [
+            "Michael SaboffMattijs Hoitink"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>&quot;use module&quot;</code>",
+        "href": "https://github.com/tc39/proposal-modules-pragma",
+        "stage": 1,
+        "champions": [
+            "Dave Herman"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>for-in</code> mechanics",
+        "href": "https://github.com/bakkot/for-in-exploration",
+        "stage": 1,
+        "champions": [
+            ""
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "uniform parsing of quasi-standard <code>Date.parse</code> input",
+        "href": "https://github.com/gibson042/ecma262-proposal-uniform-interchange-date-parsing",
+        "stage": 1,
+        "champions": [
+            "Richard Gibson"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "JSON.parse source text access",
+        "href": "https://github.com/gibson042/ecma262-proposal-JSON-parse-with-source",
+        "stage": 1,
+        "champions": [
+            "Richard Gibson"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Promise.allSettled",
+        "href": "https://github.com/tc39/proposal-promise-allSettled",
+        "stage": 1,
+        "champions": [
+            "Jason Williams"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "IDL for ECMAScript",
+        "href": "https://github.com/littledan/proposal-idl",
+        "stage": 1,
+        "champions": [
+            "Daniel Ehrenberg"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Additional metaproperties",
+        "href": "https://github.com/allenwb/ESideas/blob/master/ES7MetaProps.md",
+        "stage": 0,
+        "champions": [
+            "Allen Wirfs-Brock"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Annex B &#x2014; HTML Attribute Event Handlers",
+        "stage": 0,
+        "champions": [
+            "Allen Wirfs-Brock"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Defensible Classes",
+        "href": "https://web.archive.org/web/20160804042547/http://wiki.ecmascript.org/doku.php?id=strawman:defensible_classes",
+        "stage": 0,
+        "champions": [
+            "Mark MillerDoug Crockford"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Function bind syntax",
+        "href": "https://github.com/zenparsing/es-function-bind",
+        "stage": 0,
+        "champions": [
+            "Kevin Smith"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Function expression decorators",
+        "href": "https://goo.gl/8MmCMG",
+        "stage": 0,
+        "champions": [
+            "Igor Minar"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Method parameter decorators",
+        "href": "https://goo.gl/r1XT9b",
+        "stage": 0,
+        "champions": [
+            "Igor Minar"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Nested <code>import</code> declarations",
+        "href": "https://github.com/benjamn/reify/blob/master/PROPOSAL.md",
+        "stage": 0,
+        "champions": [
+            "Ben Newman"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Normative ICU Reference",
+        "href": "https://github.com/tc39/tc39-notes/blob/master/es8/2017-05/may-23.md#normative-icu-reference",
+        "stage": 0,
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Orthogonal Classes",
+        "href": "https://github.com/erights/Orthogonal-Classes",
+        "stage": 0,
+        "champions": [
+            "Mark MillerAllen Wirfs-Brock"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>Reflect.{isCallable,isConstructor}</code>",
+        "href": "https://github.com/caitp/TC39-Proposals/blob/master/tc39-reflect-isconstructor-iscallable.md",
+        "stage": 0,
+        "champions": [
+            "Caitlin Potter"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Relationships",
+        "href": "https://web.archive.org/web/20160804042554/http://wiki.ecmascript.org/doku.php?id=strawman:relationships",
+        "stage": 0,
+        "champions": [
+            "Mark MillerWaldemar Horwat"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>String.prototype.at</code>",
+        "href": "https://github.com/mathiasbynens/String.prototype.at",
+        "stage": 0,
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Structured Clone",
+        "href": "https://github.com/dslomov-chromium/ecmascript-structured-clone",
+        "stage": 0,
+        "champions": [
+            "Dmitry Lomov"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "WHATWG URL",
+        "href": "https://github.com/jasnell/proposal-url",
+        "stage": 0,
+        "champions": [
+            "James M Snell"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Zones",
+        "href": "https://github.com/domenic/zones",
+        "stage": 0,
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Object Shorthand Improvements",
+        "href": "https://github.com/rbuckton/proposal-shorthand-improvements",
+        "stage": 0,
+        "champions": [
+            "Ron Buckton"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Decimal",
+        "href": "https://docs.google.com/presentation/d/1jPsw7EGsS6BW59_BDRu9o0o3UwSXQeUhi38QG55ZoPI/edit?pli=1#slide=id.p",
+        "stage": 0,
+        "champions": [
+            "Andrew PaprockiDaniel Ehrenberg"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>deprecated</code>",
+        "href": "https://github.com/jasnell/proposal-deprecated",
+        "stage": 0,
+        "champions": [
+            "James M Snell"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>as</code> destructuring patterns",
+        "href": "https://github.com/zkat/proposal-as-patterns",
+        "stage": 0,
+        "champions": [
+            "Kat Marchán"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "<code>Symbol.thenable</code>",
+        "href": "https://github.com/devsnek/proposal-symbol-thenable",
+        "stage": 0,
+        "champions": [
+            "Gus Caplan"
+        ],
+        "readyToAdvance": false
+    }
+]
