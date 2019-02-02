@@ -23,8 +23,7 @@ describe("Snapshot testing", () => {
             server.close();
         }
     });
-    fs
-        .readdirSync(fixturesDir)
+    fs.readdirSync(fixturesDir)
         .filter(dirName => {
             const fixtureDir = path.join(fixturesDir, dirName);
             return fs.statSync(fixtureDir).isDirectory();

@@ -11,7 +11,7 @@ And diff between proposal JSON.
 
 ### Get latest json
 
-    node get-latest.js
+    node get-proposal.js
 
 ### Diff
 
