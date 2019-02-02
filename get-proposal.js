@@ -31,6 +31,6 @@ require("./proposals")
     .fetchAll(`https://github.com/tc39/proposals/blob/HEAD@{${ISODate}}/`)
     .then(result => {
         const fileNameByDate = momentDate.format("YYYY-MM-DD");
-        const output = path.join(__dirname, "docs/data", `${fileNameByDate}.json`);
+        const output = path.join(__dirname, "static/data", `${fileNameByDate}.json`);
         fs.writeFileSync(output, JSON.stringify(result, null, 4), "utf-8");
     });
