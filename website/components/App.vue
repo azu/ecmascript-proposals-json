@@ -31,6 +31,11 @@
         }
         return [year, month, day].join('-');
     };
+    const beforeDayDateFromToday = (before) => {
+        const d = new Date();
+        d.setDate(d.getDate() - before);
+        return d;
+    };
     const beforeMonthDateFromToday = (before) => {
         const d = new Date();
         d.setMonth(d.getMonth() - before);
@@ -44,7 +49,7 @@
         data() {
             return {
                 startDate: dateToYYYYMMHH(beforeMonthDateFromToday(2)),
-                endDate: dateToYYYYMMHH(new Date()),
+                endDate: dateToYYYYMMHH(beforeDayDateFromToday(1)),
                 diffMarkdown: "",
                 compiledHTML: "",
                 message: ""
