@@ -1,5 +1,6 @@
 <template>
     <div id="app">
+        <h1>ECMAScript Proposal Diff</h1>
         <label for="start-date">Start Date:</label>
         <input type="date" id="start-date"
                v-model="startDate">
