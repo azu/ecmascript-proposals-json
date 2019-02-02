@@ -1,7 +1,10 @@
-# ecmascript-proposals-json
+# ecmascript-proposals-json [![Build Status](https://travis-ci.org/asciidwango/js-primer.svg?branch=master)](https://travis-ci.org/asciidwango/js-primer)
 
-Get latest ECMAScript as JSON.
-And diff between proposal JSON.
+- Get ECMAScript proposal list at date
+- Save the proposal list as json file to [static/data](static/data)
+- Show diff between proposals
+
+See [tc39/proposals: Tracking ECMAScript Proposals](https://github.com/tc39/proposals).
 
 ## Install
 
