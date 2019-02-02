@@ -1,4 +1,4 @@
-# ecmascript-proposals-json [![Build Status](https://travis-ci.org/asciidwango/js-primer.svg?branch=master)](https://travis-ci.org/asciidwango/js-primer)
+# ecmascript-proposals-json [![Build Status](https://travis-ci.org/azu/ecmascript-proposals-json.svg?branch=master)](https://travis-ci.org/azu/ecmascript-proposals-json)
 
 - Get ECMAScript proposal list at date
 - Save the proposal list as json file to [static/data](static/data)
