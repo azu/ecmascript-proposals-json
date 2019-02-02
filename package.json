@@ -14,8 +14,8 @@
   "version": "1.0.0",
   "main": "lib/ecmascript-proposals-json.js",
   "scripts": {
-    "start": "parcel serve website/index.html --out-dir build/",
-    "build": "parcel build website/index.html --out-dir build/",
+    "start": "parcel serve website/index.html --out-dir build/ --public-url .",
+    "build": "parcel build website/index.html --out-dir build/ --public-url .",
     "test": "mocha \"test/*.js\"",
     "prettier": "prettier --write \"**/*.{js,jsx,ts,tsx,css}\""
   },
