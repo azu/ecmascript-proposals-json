@@ -17,6 +17,10 @@ And diff between proposal JSON.
 
     node diff.js --before a.json --after b.json
 
+### Website
+
+    yarn start
+
 ## Changelog
 
 See [Releases page](https://github.com/azu/ecmascript-proposals-json/releases).
