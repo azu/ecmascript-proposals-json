@@ -4,7 +4,7 @@
 - Save the proposal list as json file to [static/data](static/data)
 - Show diff between proposals
 
-See [tc39/proposals: Tracking ECMAScript Proposals](https://github.com/tc39/proposals).
+See also [tc39/proposals: Tracking ECMAScript Proposals](https://github.com/tc39/proposals).
 
 ## Install
 
