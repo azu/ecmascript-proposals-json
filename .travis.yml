@@ -12,9 +12,5 @@ before_script:
     --path-encrypted-key ".travis/github_deploy_key.enc"
 script:
   - yarn test
-  - if [ "${TRAVIS_EVENT_TYPE}" = "cron" ]; node ./get-proposal.js && git add static && git push; fi
-  - $(npm bin)/update-branch --commands "yarn run build" \
-    --commit-message "Deploy WebSite [skip ci]" \
-    --directory "build" \
-    --distribution-branch "gh-pages" \
-    --source-branch "master"
+  - if [ "${TRAVIS_EVENT_TYPE}" = "cron" ]; then node ./get-proposal.js && git add static && git push; fi
+  - $(npm bin)/update-branch --commands "yarn run build" --commit-message "Deploy WebSite [skip ci]" --directory "build" --distribution-branch "gh-pages" --source-branch "master"
