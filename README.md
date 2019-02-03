@@ -12,6 +12,9 @@ See ECMAScript Proposal Diff Tool:
 
 - <https://azu.github.io/ecmascript-proposals-json/>
 
+:warning: [static/data](static/data) is updated everyday.
+If you notice no-data at a day, please report it.
+
 ## Install
 
     yarn
