@@ -6,6 +6,12 @@
 
 See also [tc39/proposals: Tracking ECMAScript Proposals](https://github.com/tc39/proposals).
 
+## Online
+
+See ECMAScript Proposal Diff Tool:
+
+- <https://azu.github.io/ecmascript-proposals-json/>
+
 ## Install
 
     yarn
