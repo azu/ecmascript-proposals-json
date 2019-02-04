@@ -21,4 +21,4 @@ jobs:
       script:
         - git checkout master
         - node ./get-proposal.js
-        - bash scripts/push-if-updated.sh static/
+        - bash .travis/push-if-updated.sh static/
