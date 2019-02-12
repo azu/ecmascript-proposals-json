@@ -32,10 +32,6 @@ if [[ $# -le 0 ]] ; then
     usage_exit
 fi
 
-if [[ -z "$(git diff --name-only $@)" ]] ; then
-    echo "File unchanged. Do nothing."
-else
-    git add "$@"
-    git commit -m "$GIT_COMMIT_MESSAGE"
-    git push origin master
-fi
+git add "$@"
+git commit -m "$GIT_COMMIT_MESSAGE"
+git push origin master
