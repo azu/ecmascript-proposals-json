@@ -32,6 +32,7 @@ if [[ $# -le 0 ]] ; then
     usage_exit
 fi
 
+git config --global url.ssh://git@github.com/.insteadOf https://github.com/
 git add "$@"
 git commit -m "$GIT_COMMIT_MESSAGE"
 git push origin master
