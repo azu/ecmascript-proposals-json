@@ -1,0 +1,1026 @@
+[
+    {
+        "titleHtml": "<code>Array.prototype.includes</code>",
+        "href": "https://github.com/tc39/Array.prototype.includes",
+        "stage": 4,
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Exponentiation operator",
+        "href": "https://github.com/rwaldron/exponentiation-operator",
+        "stage": 4,
+        "champions": [
+            "Rick Waldron"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "<code>Object.values</code>/<code>Object.entries</code>",
+        "href": "https://github.com/tc39/proposal-object-values-entries",
+        "stage": 4,
+        "champions": [
+            "Jordan Harband"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "String padding",
+        "href": "https://github.com/tc39/proposal-string-pad-start-end",
+        "stage": 4,
+        "champions": [
+            "Jordan Harband"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "<code>Object.getOwnPropertyDescriptors</code>",
+        "href": "https://github.com/tc39/proposal-object-getownpropertydescriptors",
+        "stage": 4,
+        "champions": [
+            "Jordan HarbandAndrea Giammarchi"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Trailing commas in function parameter lists and calls",
+        "href": "https://github.com/tc39/proposal-trailing-function-commas",
+        "stage": 4,
+        "champions": [
+            "Jeff Morrison"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Async functions",
+        "href": "https://github.com/tc39/ecmascript-asyncawait",
+        "stage": 4,
+        "champions": [
+            "Brian Terlson"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Shared memory and atomics",
+        "href": "https://github.com/tc39/ecmascript_sharedmem",
+        "stage": 4,
+        "champions": [
+            "Lars T Hansen"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Lifting template literal restriction",
+        "href": "https://github.com/tc39/proposal-template-literal-revision",
+        "stage": 4,
+        "champions": [
+            "Tim Disney"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "<code>s</code> (<code>dotAll</code>) flag for regular expressions",
+        "href": "https://github.com/tc39/proposal-regexp-dotall-flag",
+        "stage": 4,
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "RegExp named capture groups",
+        "href": "https://github.com/tc39/proposal-regexp-named-groups",
+        "stage": 4,
+        "champions": [
+            "Gorkem YakinDaniel Ehrenberg"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Rest/Spread Properties",
+        "href": "https://github.com/tc39/proposal-object-rest-spread",
+        "stage": 4,
+        "champions": [
+            "Sebastian Markbåge"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "RegExp Lookbehind Assertions",
+        "href": "https://github.com/tc39/proposal-regexp-lookbehind",
+        "stage": 4,
+        "champions": [
+            "Gorkem YakinNozomu KatōDaniel Ehrenberg"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "RegExp Unicode Property Escapes",
+        "href": "https://github.com/tc39/proposal-regexp-unicode-property-escapes",
+        "stage": 4,
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "<code>Promise.prototype.finally</code>",
+        "href": "https://github.com/tc39/proposal-promise-finally",
+        "stage": 4,
+        "champions": [
+            "Jordan Harband"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Asynchronous Iteration",
+        "href": "https://github.com/tc39/proposal-async-iteration",
+        "stage": 4,
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Optional <code>catch</code> binding",
+        "href": "https://github.com/tc39/proposal-optional-catch-binding",
+        "stage": 4,
+        "champions": [
+            "Michael Ficarra"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "JSON superset",
+        "href": "https://github.com/tc39/proposal-json-superset",
+        "stage": 4,
+        "champions": [
+            "Richard Gibson"
+        ],
+        "readyToAdvance": false,
+        "meeting": "2019-03-01T00:00:00.000Z",
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "<code>Symbol.prototype.description</code>",
+        "href": "https://github.com/tc39/proposal-Symbol-description",
+        "stage": 4,
+        "champions": [
+            "Michael Ficarra"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "<code>Function.prototype.toString</code> revision",
+        "href": "https://github.com/tc39/Function-prototype-toString-revision",
+        "stage": 4,
+        "champions": [
+            "Michael Ficarra"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "<code>Object.fromEntries</code>",
+        "href": "https://github.com/tc39/proposal-object-from-entries",
+        "stage": 4,
+        "champions": [
+            "Darien Maillet Valentine"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Well-formed <code>JSON.stringify</code>",
+        "href": "https://github.com/tc39/proposal-well-formed-stringify",
+        "stage": 4,
+        "champions": [
+            "Richard Gibson"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "<code>String.prototype.{trimStart,trimEnd}</code>",
+        "href": "https://github.com/tc39/proposal-string-left-right-trim",
+        "stage": 4,
+        "champions": [
+            "Sebastian Markbåge"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "<code>Array.prototype.{flat,flatMap}</code>",
+        "href": "https://github.com/tc39/proposal-flatMap",
+        "stage": 4,
+        "champions": [
+            "Brian TerlsonMichael FicarraMathias Bynens"
+        ],
+        "readyToAdvance": false,
+        "meeting": null,
+        "publicationYear": null
+    },
+    {
+        "titleHtml": "Jordan Harband",
+        "stage": 3,
+        "champions": [
+            "Jordan Harband"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Domenic Denicola",
+        "stage": 3,
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Claude Pache",
+        "stage": 3,
+        "champions": [
+            "Mark MillerClaude Pache"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Daniel Ehrenberg",
+        "stage": 3,
+        "champions": [
+            "Daniel Ehrenberg"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Domenic Denicola",
+        "stage": 3,
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Daniel Ehrenberg",
+        "stage": 3,
+        "champions": [
+            "Daniel EhrenbergKevin Gibbons"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Daniel Ehrenberg<br>Kevin Gibbons",
+        "stage": 3,
+        "champions": [
+            "Daniel EhrenbergJeff MorrisonKevin SmithKevin Gibbons"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Daniel Ehrenberg<br>Kevin Gibbons<br>Jeff Morrison<br>Kevin Smith",
+        "stage": 3,
+        "champions": [
+            "Shu-Yu GuoDaniel Ehrenberg"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Jordan Harband",
+        "stage": 3,
+        "champions": [
+            "Jordan Harband"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Bradley Farias",
+        "stage": 3,
+        "champions": [
+            "Bradley Farias"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Sam Goto<br>Rick Waldron",
+        "stage": 2,
+        "champions": [
+            "Sam GotoRick Waldron"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Allen Wirfs-Brock",
+        "stage": 2,
+        "champions": [
+            "Allen Wirfs-Brock"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Daniel Ehrenberg",
+        "stage": 2,
+        "champions": [
+            "Yehuda KatzBrian TerlsonDaniel Ehrenberg"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Ron Buckton",
+        "stage": 2,
+        "champions": [
+            "Ron Buckton"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Lars Hansen",
+        "stage": 2,
+        "champions": [
+            "Shu-yu GuoLars Hansen"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Dean Tribble",
+        "stage": 2,
+        "champions": [
+            "Dean Tribble"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Myles Borins",
+        "stage": 2,
+        "champions": [
+            "Myles Borins"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Domenic Denicola",
+        "stage": 2,
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Micha&#x142; Wadas<br>Sathya Gunasekaran",
+        "stage": 2,
+        "champions": [
+            "Sathya Gunasekaran"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Caridy Pati&#xF1;o<br>Jean-Francois Paradis",
+        "stage": 2,
+        "champions": [
+            "Dave HermanMark MillerCaridy Patiño"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Domenic Denicola",
+        "stage": 2,
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Ron Buckton",
+        "stage": 2,
+        "champions": [
+            "Ron Buckton"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Mathias Bynens",
+        "stage": 2,
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Maggie Pint<br>Matt Johnson<br>Philipp Dunkel",
+        "stage": 2,
+        "champions": [
+            "Maggie PintPhilipp DunkelBrian Terlson"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Jason Williams<br>Robert Pamely",
+        "stage": 2,
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Bradley Farias",
+        "stage": 2,
+        "champions": [
+            "Bradley Farias"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Lee Byron",
+        "stage": 1,
+        "champions": [
+            "Ben NewmanJohn-David Dalton"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Jafar Husain",
+        "stage": 1,
+        "champions": [
+            "Jafar HusainMark Miller"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Mark Miller<br>Chip Morningstar<br>Caridy Pati&#xF1;o",
+        "stage": 1,
+        "champions": [
+            "Mark MillerChip MorningstarCaridy Patiño"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Rick Waldron",
+        "stage": 1,
+        "champions": [
+            "Rick Waldron"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Leo Balter",
+        "stage": 1,
+        "champions": [
+            "Leo Balter"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "",
+        "stage": 1,
+        "champions": [
+            "Brendan EichDomenic Denicola"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Jordan Harband",
+        "stage": 1,
+        "champions": [
+            "Jordan Harband"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Gabriel Isenberg<br>Claude Pache<br>Dustin Savery",
+        "stage": 1,
+        "champions": [
+            "Gabriel IsenbergDustin Savery"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "JF Bastien",
+        "stage": 1,
+        "champions": [
+            "JF Bastien"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Jordan Harband",
+        "stage": 1,
+        "champions": [
+            "Jordan Harband"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Dave Herman",
+        "stage": 1,
+        "champions": [
+            "Dave Herman"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Leo Balter",
+        "stage": 1,
+        "champions": [
+            "Leo Balter"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "",
+        "stage": 1,
+        "champions": [
+            "Brendan Eich"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Shu-yu Guo",
+        "stage": 1,
+        "champions": [
+            "Shu-yu Guo"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Daniel Ehrenberg",
+        "stage": 1,
+        "champions": [
+            "Daniel Ehrenberg"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Daniel Ehrenberg",
+        "stage": 1,
+        "champions": [
+            "Daniel Ehrenberg"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Michael Ficarra",
+        "stage": 1,
+        "champions": [
+            "Michael Ficarra"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Gabriel Isenberg",
+        "stage": 1,
+        "champions": [
+            "Gabriel Isenberg"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Ron Buckton",
+        "stage": 1,
+        "champions": [
+            "Ron Buckton"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Ron Buckton",
+        "stage": 1,
+        "champions": [
+            "Ron BucktonBrian Terlson"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Peter Marshall<br>Jakob Gruber<br>Mathias Bynens",
+        "stage": 1,
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Ingvar Stepanyan",
+        "stage": 1,
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Keith Cirkel",
+        "stage": 1,
+        "champions": [
+            "Keith Cirkel"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Sam Goto",
+        "stage": 1,
+        "champions": [
+            "Sam Goto"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Mathias Bynens",
+        "stage": 1,
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Tab Atkins",
+        "stage": 1,
+        "champions": [
+            "Tab Atkins"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Justin Fagnani",
+        "stage": 1,
+        "champions": [
+            "Justin Fagnani"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Keith Cirkel",
+        "stage": 1,
+        "champions": [
+            "Keith Cirkel"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Micha&#x142; Wadas",
+        "stage": 1,
+        "champions": [
+            "Sathya Gunasekaran"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Bradley Farias",
+        "stage": 1,
+        "champions": [
+            "Bradley Farias"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Sathya Gunasekaran",
+        "stage": 1,
+        "champions": [
+            "Sathya Gunasekaran"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Justin Ridgewell",
+        "stage": 1,
+        "champions": [
+            "Justin Ridgewell"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Mike Samuel",
+        "stage": 1,
+        "champions": [
+            "Mike Samuel"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Ron Buckton",
+        "stage": 1,
+        "champions": [
+            "Ron Buckton"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Ron Buckton",
+        "stage": 1,
+        "champions": [
+            "Ron Buckton"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Kat March&#xE1;n<br>Brian Terlson",
+        "stage": 1,
+        "champions": [
+            "Kat MarchánBrian TerlsonSebastian Markbåge"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Ron Buckton",
+        "stage": 1,
+        "champions": [
+            "Ron Buckton"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Bradley Farias",
+        "stage": 1,
+        "champions": [
+            "Bradley Farias"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Michael Saboff<br>Mattijs Hoitink",
+        "stage": 1,
+        "champions": [
+            "Michael SaboffMattijs Hoitink"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Dave Herman",
+        "stage": 1,
+        "champions": [
+            "Dave Herman"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Kevin Gibbons",
+        "stage": 1,
+        "champions": [
+            "Kevin Gibbons"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Richard Gibson",
+        "stage": 1,
+        "champions": [
+            "Richard Gibson"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Richard Gibson",
+        "stage": 1,
+        "champions": [
+            "Richard Gibson"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Daniel Ehrenberg",
+        "stage": 1,
+        "champions": [
+            "Daniel Ehrenberg"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Sebastian Markbage",
+        "stage": 1,
+        "champions": [
+            "Sebastian Markbage"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Kevin Gibbons",
+        "stage": 1,
+        "champions": [
+            "Kevin Gibbons"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Daniel Ehrenberg",
+        "stage": 1,
+        "champions": [
+            "Daniel Ehrenberg"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Gus Caplan",
+        "stage": 1,
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Allen Wirfs-Brock",
+        "stage": 0,
+        "champions": [
+            "Allen Wirfs-Brock"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Allen Wirfs-Brock",
+        "stage": 0,
+        "champions": [
+            "Allen Wirfs-Brock"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Mark Miller<br>Doug Crockford",
+        "stage": 0,
+        "champions": [
+            "Mark MillerDoug Crockford"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Kevin Smith",
+        "stage": 0,
+        "champions": [
+            "Brian TerlsonMatthew Podwysocki"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Igor Minar",
+        "stage": 0,
+        "champions": [
+            "Igor Minar"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Igor Minar",
+        "stage": 0,
+        "champions": [
+            "Igor Minar"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Ben Newman",
+        "stage": 0,
+        "champions": [
+            "Ben Newman"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Domenic Denicola",
+        "stage": 0,
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Mark Miller<br>Allen Wirfs-Brock",
+        "stage": 0,
+        "champions": [
+            "Mark MillerAllen Wirfs-Brock"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Caitlin Potter",
+        "stage": 0,
+        "champions": [
+            "Caitlin Potter"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Mark Miller<br>Waldemar Horwat",
+        "stage": 0,
+        "champions": [
+            "Mark MillerWaldemar Horwat"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Mathias Bynens",
+        "stage": 0,
+        "champions": [
+            "Mathias BynensRick Waldron"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Dmitry Lomov",
+        "stage": 0,
+        "champions": [
+            "Dmitry Lomov"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "James M Snell",
+        "stage": 0,
+        "champions": [
+            "James M Snell"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Domenic Denicola",
+        "stage": 0,
+        "champions": [
+            "Domenic DenicolaMiško Hevery"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Ron Buckton",
+        "stage": 0,
+        "champions": [
+            "Ron Buckton"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Andrew Paprocki<br>Daniel Ehrenberg",
+        "stage": 0,
+        "champions": [
+            "Andrew PaprockiDaniel Ehrenberg"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "James M Snell",
+        "stage": 0,
+        "champions": [
+            "James M Snell"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Kat March&#xE1;n",
+        "stage": 0,
+        "champions": [
+            "Kat Marchán"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Gus Caplan",
+        "stage": 0,
+        "champions": [
+            "Jordan HarbandMyles Borins"
+        ],
+        "readyToAdvance": false
+    },
+    {
+        "titleHtml": "Mathias Bynens",
+        "stage": 0,
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "readyToAdvance": false
+    }
+]
