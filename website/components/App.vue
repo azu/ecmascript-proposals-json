@@ -7,7 +7,7 @@
         <label for="end-date">End Date:</label>
         <input type="date" id="end-date"
                v-model="endDate">
-        <button @click="onClickUpdateButton">Update diff</button>
+        <button @click="updateDiff">Update diff</button>
         <div class="output-textarea">
             <label>
                 Diff Markdown:
@@ -55,8 +55,11 @@
                 message: ""
             }
         },
+        mounted(){
+            this.updateDiff();
+        },
         methods: {
-            onClickUpdateButton: function() {
+            updateDiff: function() {
                 const startDateString = this.startDate;
                 const endDateString = this.endDate;
                 const fetchData = (dateString) => {
