@@ -36,7 +36,7 @@ describe("Snapshot testing", () => {
                     const expectedFilePath = path.join(fixtureDir, "output.json");
                     // JSON.stringify remove undefined
                     const normalizedActual = JSON.parse(JSON.stringify(actual));
-                    if (process.env.UPDATE_SNAPSHOT) {
+                    if (!fs.existsSync(expectedFilePath) || process.env.UPDATE_SNAPSHOT) {
                         fs.writeFileSync(expectedFilePath, JSON.stringify(normalizedActual, null, 4));
                         this.skip();
                         return;
