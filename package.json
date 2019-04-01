@@ -17,6 +17,7 @@
     "start": "parcel serve website/index.html --out-dir build/",
     "build": "parcel build website/index.html --out-dir build/ --public-url .",
     "test": "mocha \"test/*.js\"",
+    "updateSnapshot": "UPDATE_SNAPSHOT=1 npm test",
     "prettier": "prettier --write \"**/*.{js,jsx,ts,tsx,css}\""
   },
   "description": "",
