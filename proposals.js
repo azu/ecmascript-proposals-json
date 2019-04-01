@@ -124,7 +124,6 @@ function parseStageTable($, table, stage) {
             const href = $titleLink.attr("href");
             const authors = splitNodeBySeparator($tr.find(`td:nth-child(${header.Author})`));
             const champions = splitNodeBySeparator($tr.find(`td:nth-child(${header.Champion})`));
-            console.log(champions);
             const proposalMeta = {
                 titleHtml,
                 href,

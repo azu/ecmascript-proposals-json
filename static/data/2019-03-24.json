@@ -557,14 +557,16 @@
         ]
     },
     {
-        "titleHtml": "<code>Function.prototype.toString()</code> censorship",
-        "href": "https://github.com/domenic/proposal-function-prototype-tostring-censorship",
+        "titleHtml": "Function implementation hiding",
+        "href": "https://github.com/domenic/proposal-function-implementation-hiding",
         "stage": 2,
         "authors": [
-            "Domenic Denicola"
+            "Domenic Denicola",
+            "Michael Ficarra"
         ],
         "champions": [
-            "Domenic Denicola"
+            "Domenic Denicola",
+            "Michael Ficarra"
         ]
     },
     {
