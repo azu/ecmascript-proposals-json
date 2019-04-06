@@ -1,15 +1,26 @@
 [
     {
-        "titleHtml": "Lifting template literal restriction",
-        "href": "https://github.com/tc39/proposal-template-literal-revision",
+        "titleHtml": "<code>Array.prototype.includes</code>",
+        "href": "https://github.com/tc39/Array.prototype.includes",
         "stage": 4,
         "authors": [],
         "champions": [
-            "Tim Disney"
+            "Domenic Denicola",
+            "Rick Waldron"
         ],
-        "meeting": "2017-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2017-03/mar-21.md#10ia-template-literal-updates",
-        "publicationYear": 2018
+        "meeting": "2015-11-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2015-11/nov-17.md#arrayprototypeincludes"
+    },
+    {
+        "titleHtml": "Exponentiation operator",
+        "href": "https://github.com/rwaldron/exponentiation-operator",
+        "stage": 4,
+        "authors": [],
+        "champions": [
+            "Rick Waldron"
+        ],
+        "meeting": "2016-01-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-01/2016-01-28.md#5xviii-exponentiation-operator-rw"
     },
     {
         "titleHtml": "<code>Object.values</code>/<code>Object.entries</code>",
@@ -20,8 +31,7 @@
             "Jordan Harband"
         ],
         "meeting": "2016-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-03/march-29.md#objectvalues--objectentries",
-        "publicationYear": 2017
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-03/march-29.md#objectvalues--objectentries"
     },
     {
         "titleHtml": "String padding",
@@ -33,8 +43,7 @@
             "Rick Waldron"
         ],
         "meeting": "2016-05-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-05/may-25.md#stringprototypepadstartend-jhd",
-        "publicationYear": 2017
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-05/may-25.md#stringprototypepadstartend-jhd"
     },
     {
         "titleHtml": "<code>Object.getOwnPropertyDescriptors</code>",
@@ -46,8 +55,7 @@
             "Andrea Giammarchi"
         ],
         "meeting": "2016-05-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-05/may-25.md#objectgetownpropertydescriptors-jhd",
-        "publicationYear": 2017
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-05/may-25.md#objectgetownpropertydescriptors-jhd"
     },
     {
         "titleHtml": "Trailing commas in function parameter lists and calls",
@@ -58,8 +66,7 @@
             "Jeff Morrison"
         ],
         "meeting": "2016-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-07/jul-26.md#9ie-trailing-commas-in-functions",
-        "publicationYear": 2017
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-07/jul-26.md#9ie-trailing-commas-in-functions"
     },
     {
         "titleHtml": "Async functions",
@@ -70,8 +77,7 @@
             "Brian Terlson"
         ],
         "meeting": "2016-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-07/jul-28.md#10iv-async-functions",
-        "publicationYear": 2017
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-07/jul-28.md#10iv-async-functions"
     },
     {
         "titleHtml": "Shared memory and atomics",
@@ -82,33 +88,18 @@
             "Lars T Hansen"
         ],
         "meeting": "2017-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2017-01/jan-24.md#13if-seeking-stage-4-for-sharedarraybuffer",
-        "publicationYear": 2017
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2017-01/jan-24.md#13if-seeking-stage-4-for-sharedarraybuffer"
     },
     {
-        "titleHtml": "<code>Array.prototype.includes</code>",
-        "href": "https://github.com/tc39/Array.prototype.includes",
+        "titleHtml": "Lifting template literal restriction",
+        "href": "https://github.com/tc39/proposal-template-literal-revision",
         "stage": 4,
         "authors": [],
         "champions": [
-            "Domenic Denicola",
-            "Rick Waldron"
+            "Tim Disney"
         ],
-        "meeting": "2015-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2015-11/nov-17.md#arrayprototypeincludes",
-        "publicationYear": 2016
-    },
-    {
-        "titleHtml": "Exponentiation operator",
-        "href": "https://github.com/rwaldron/exponentiation-operator",
-        "stage": 4,
-        "authors": [],
-        "champions": [
-            "Rick Waldron"
-        ],
-        "meeting": "2016-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-01/2016-01-28.md#5xviii-exponentiation-operator-rw",
-        "publicationYear": 2016
+        "meeting": "2017-03-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2017-03/mar-21.md#10ia-template-literal-updates"
     },
     {
         "titleHtml": "<code>Function.prototype.toString</code> revision",
@@ -117,7 +108,9 @@
         "authors": [],
         "champions": [
             "Michael Ficarra"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>global</code>",
@@ -126,7 +119,9 @@
         "authors": [],
         "champions": [
             "Jordan Harband"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Rest/Spread Properties",
@@ -135,7 +130,9 @@
         "authors": [],
         "champions": [
             "Sebastian Markbage"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Asynchronous Iteration",
@@ -144,7 +141,9 @@
         "authors": [],
         "champions": [
             "Domenic Denicola"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>import()</code>",
@@ -153,7 +152,9 @@
         "authors": [],
         "champions": [
             "Domenic Denicola"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "RegExp Lookbehind Assertions",
@@ -162,7 +163,9 @@
         "authors": [],
         "champions": [
             "Daniel Ehrenberg"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "RegExp Unicode Property Escapes",
@@ -173,7 +176,9 @@
             "Brian Terlson",
             "Daniel Ehrenberg",
             "Mathias Bynens"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "RegExp named capture groups",
@@ -183,7 +188,9 @@
         "champions": [
             "Daniel Ehrenberg",
             "Brian Terlson"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>s</code> (<code>dotAll</code>) flag for regular expressions",
@@ -193,7 +200,9 @@
         "champions": [
             "Mathias Bynens",
             "Brian Terlson"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Legacy RegExp features in JavaScript",
@@ -203,7 +212,9 @@
         "champions": [
             "Mark Miller",
             "Claude Pache"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>Promise.prototype.finally</code>",
@@ -212,7 +223,9 @@
         "authors": [],
         "champions": [
             "Jordan Harband"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "BigInt",
@@ -221,7 +234,9 @@
         "authors": [],
         "champions": [
             "Daniel Ehrenberg"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Class Fields",
@@ -231,7 +246,9 @@
         "champions": [
             "Daniel Ehrenberg",
             "Jeff Morrison"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Optional catch binding",
@@ -240,7 +257,9 @@
         "authors": [],
         "champions": [
             "Michael Ficarra"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>import.meta</code>",
@@ -249,7 +268,9 @@
         "authors": [],
         "champions": [
             "Domenic Denicola"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Private methods and accessors",
@@ -259,7 +280,9 @@
         "champions": [
             "Daniel Ehrenberg",
             "Kevin Gibbons"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>function.sent</code> metaproperty",
@@ -268,7 +291,9 @@
         "authors": [],
         "champions": [
             "Allen Wirfs-Brock"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>String.prototype.{trimStart,trimEnd}</code>",
@@ -277,7 +302,9 @@
         "authors": [],
         "champions": [
             "Sebastian Markbage"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Decorators",
@@ -288,7 +315,9 @@
             "Yehuda Katz",
             "Brian Terlson",
             "Daniel Ehrenberg"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Numeric separators",
@@ -298,7 +327,9 @@
         "champions": [
             "Sam Goto",
             "Rick Waldron"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Array.prototype.flat{Map,ten}",
@@ -308,7 +339,9 @@
         "champions": [
             "Brian Terlson",
             "Michael Ficarra"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Throw expressions",
@@ -317,7 +350,9 @@
         "authors": [],
         "champions": [
             "Rob Buckton"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>String#matchAll</code>",
@@ -326,7 +361,9 @@
         "authors": [],
         "champions": [
             "Jordan Harband"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>Date.parse</code> fallback semantics",
@@ -335,7 +372,9 @@
         "authors": [],
         "champions": [
             "Morgan Phillips"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>export v from &quot;mod&quot;;</code> statements",
@@ -345,7 +384,9 @@
         "champions": [
             "Ben Newman",
             "John-David Dalton"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Observable",
@@ -355,7 +396,9 @@
         "champions": [
             "Jafar Husain",
             "Mark Miller"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "WeakRefs",
@@ -364,7 +407,9 @@
         "authors": [],
         "champions": [
             "Dean Tribble"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Frozen Realms",
@@ -375,7 +420,9 @@
             "Mark S. Miller",
             "Chip Morningstar",
             "Caridy Patiño"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>Math</code> Extensions",
@@ -384,7 +431,9 @@
         "authors": [],
         "champions": [
             "Rick Waldron"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>of</code> and <code>from</code> on collection constructors",
@@ -393,7 +442,9 @@
         "authors": [],
         "champions": [
             "Leo Balter"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Generator arrow functions (<code>=&gt;*</code>)",
@@ -402,7 +453,9 @@
         "champions": [
             "Brendan Eich",
             "Domenic Denicola"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>Promise.try</code>",
@@ -411,7 +464,9 @@
         "authors": [],
         "champions": [
             "Jordan Harband"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Optional Chaining",
@@ -420,7 +475,9 @@
         "authors": [],
         "champions": [
             "Gabriel Isenberg"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>Math.signbit</code>: IEEE-754 sign bit",
@@ -429,7 +486,9 @@
         "authors": [],
         "champions": [
             "JF Bastien"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Error stacks",
@@ -438,7 +497,9 @@
         "authors": [],
         "champions": [
             "Jordan Harband"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>do</code> expressions",
@@ -447,7 +508,9 @@
         "authors": [],
         "champions": [
             "Dave Herman"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Realms",
@@ -458,7 +521,9 @@
             "Dave Herman",
             "Mark Miller",
             "Caridy Patiño"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Temporal",
@@ -468,7 +533,9 @@
         "champions": [
             "Maggie Pint",
             "Brian Terlson"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Float16 on TypedArrays, DataView, Math.hfround",
@@ -477,7 +544,9 @@
         "authors": [],
         "champions": [
             "Leo Balter"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Atomics.waitNonblocking",
@@ -487,7 +556,9 @@
         "champions": [
             "Shu-yu Guo",
             "Lars Hansen"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>Symbol.prototype.description</code>",
@@ -496,7 +567,9 @@
         "authors": [],
         "champions": [
             "Michael Ficarra"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "change Number.parseInt/parseFloat to not coerce null/undefined/NaN (repo link TBD)",
@@ -504,7 +577,9 @@
         "authors": [],
         "champions": [
             "Brendan Eich"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Binary AST",
@@ -513,7 +588,9 @@
         "authors": [],
         "champions": [
             "Shu-yu Guo"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Pipeline Operator",
@@ -522,7 +599,9 @@
         "authors": [],
         "champions": [
             "Daniel Ehrenberg"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Extensible numeric literals",
@@ -531,7 +610,9 @@
         "authors": [],
         "champions": [
             "Daniel Ehrenberg"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "First-Class Protocols",
@@ -540,7 +621,9 @@
         "authors": [],
         "champions": [
             "Michael Ficarra"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "JSON superset",
@@ -551,7 +634,9 @@
             "Mark Miller",
             "Richard Gibson",
             "Mathias Bynens"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Nullary coalescing operator",
@@ -560,7 +645,9 @@
         "authors": [],
         "champions": [
             "Gabriel Isenberg"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Partial application",
@@ -569,7 +656,9 @@
         "authors": [],
         "champions": [
             "Ron Buckton"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Additional metaproperties",
@@ -578,7 +667,9 @@
         "authors": [],
         "champions": [
             "Allen Wirfs-Brock"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Annex B &#x2014; HTML Attribute Event Handlers",
@@ -586,7 +677,9 @@
         "authors": [],
         "champions": [
             "Allen Wirfs-Brock"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Cancellation API",
@@ -596,7 +689,9 @@
         "champions": [
             "Ron Buckton",
             "Brian Terlson"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>%constructor%.construct(thisArg[, arguments])</code>",
@@ -605,7 +700,9 @@
         "authors": [],
         "champions": [
             "James M Snell"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Defensible Classes",
@@ -615,7 +712,9 @@
         "champions": [
             "Mark Miller",
             "Doug Crockford"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Function bind syntax",
@@ -625,7 +724,9 @@
         "champions": [
             "Brian Terlson",
             "Matthew Podwysocki"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Function expression decorators",
@@ -634,7 +735,9 @@
         "authors": [],
         "champions": [
             "Igor Minar"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>is{Type}</code> methods",
@@ -643,7 +746,9 @@
         "authors": [],
         "champions": [
             "James M Snell"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Method parameter decorators",
@@ -652,7 +757,9 @@
         "authors": [],
         "champions": [
             "Igor Minar"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Nested <code>import</code> declarations",
@@ -662,7 +769,9 @@
         "champions": [
             "Ben Newman",
             "Meteor Development Group"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Normative ICU Reference",
@@ -671,7 +780,9 @@
         "authors": [],
         "champions": [
             "Domenic Denicola"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Orthogonal classes",
@@ -681,7 +792,9 @@
         "champions": [
             "Mark S. Miller",
             "Allen Wirfs-Brock"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Pattern Matching",
@@ -691,7 +804,9 @@
         "champions": [
             "Brian Terlson",
             "Sebastian Markbåge"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>Reflect.isCallable</code>/<code>Reflect.isConstructor</code>",
@@ -700,7 +815,9 @@
         "authors": [],
         "champions": [
             "Caitlin Potter"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Relationships",
@@ -710,7 +827,9 @@
         "champions": [
             "Mark Miller",
             "Waldemar Horwat"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>String.prototype.at</code>",
@@ -720,7 +839,9 @@
         "champions": [
             "Mathias Bynens",
             "Rick Waldron"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Structured Clone",
@@ -729,7 +850,9 @@
         "authors": [],
         "champions": [
             "Dmitry Lomov"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "WHATWG URL",
@@ -738,7 +861,9 @@
         "authors": [],
         "champions": [
             "James M Snell"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Zones",
@@ -748,7 +873,9 @@
         "champions": [
             "Domenic Denicola",
             "Miško Hevery"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Object.shallowEqual",
@@ -757,7 +884,9 @@
         "authors": [],
         "champions": [
             "Sebastian Markbage"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Object Shorthand Improvements",
@@ -766,7 +895,9 @@
         "authors": [],
         "champions": [
             "Ron Buckton"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>Builtins.typeOf()</code> and <code>Builtins.is()</code>",
@@ -775,7 +906,9 @@
         "authors": [],
         "champions": [
             "James M Snell"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>ArrayBuffer.transfer</code>",
@@ -784,6 +917,8 @@
         "authors": [],
         "champions": [
             "Domenic Denicola"
-        ]
+        ],
+        "meeting": null,
+        "meetingHref": null
     }
 ]

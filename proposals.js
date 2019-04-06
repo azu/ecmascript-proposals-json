@@ -82,7 +82,12 @@ function parseStageTable($, table, stage) {
     const headerList = $(table)
         .find("thead th")
         .toArray();
-
+    const lastPresentedIndex = headerList.findIndex(element => {
+        return /Presented/i.test($(element).text());
+    });
+    const meetingIndex = headerList.findIndex(element => {
+        return /Meeting/i.test($(element).text());
+    });
     const header = {
         Proposal:
             headerList.findIndex(element => {
@@ -96,16 +101,10 @@ function parseStageTable($, table, stage) {
             headerList.findIndex(element => {
                 return /Champion/i.test($(element).text());
             }) + 1,
-        "Last Presented":
-            headerList.findIndex(element => {
-                return /Last Presented/i.test($(element).text());
-            }) + 1,
+        "Last Presented": lastPresentedIndex !== -1 ? lastPresentedIndex + 1 : null,
         // # Finish
         // TC39 meeting notes
-        Meeting:
-            headerList.findIndex(element => {
-                return /Meeting/i.test($(element).text());
-            }) + 1,
+        Meeting: meetingIndex !== -1 ? meetingIndex + 1 : null,
         // # Finish
         // Expected Publication Year
         Year:
@@ -124,36 +123,53 @@ function parseStageTable($, table, stage) {
             const href = $titleLink.attr("href");
             const authors = splitNodeBySeparator($tr.find(`td:nth-child(${header.Author})`));
             const champions = splitNodeBySeparator($tr.find(`td:nth-child(${header.Champion})`));
+            const { meeting, meetingHref } = (() => {
+                if (header.Meeting) {
+                    // Finished Proposal has Meeting
+                    const meeting = moment.utc(
+                        $tr
+                            .find(`td:nth-child(${header.Meeting})`)
+                            .text()
+                            .trim(),
+                        "MMMM YYYY"
+                    );
+                    const meetingHref = $tr.find(`td:nth-child(${header.Meeting}) a`).attr("href");
+                    return {
+                        meeting,
+                        meetingHref
+                    };
+                } else if (header["Last Presented"]) {
+                    // Processing Proposal has Last Presented
+                    const lastPresent = moment.utc(
+                        $tr
+                            .find(`td:nth-child(${header["Last Presented"]})`)
+                            .text()
+                            .trim(),
+                        "MMMM YYYY"
+                    );
+                    const lastPresentHref = $tr.find(`td:nth-child(${header["Last Presented"]}) a`).attr("href");
+                    return {
+                        meeting: lastPresent,
+                        meetingHref: lastPresentHref
+                    };
+                } else {
+                    return {
+                        meeting: null,
+                        meetingHref: null
+                    };
+                }
+            })();
             const proposalMeta = {
                 titleHtml,
                 href,
                 stage,
                 authors,
-                champions
+                champions,
+                meeting,
+                meetingHref
             };
-
             // finished proposals only
             if (stage === 4) {
-                const $title = $tr.find(`td:nth-child(${header.Proposal})`);
-                const $titleLink = $title.find("a");
-                const titleHtml = ($titleLink.length ? $titleLink : $title).html().trim();
-                const href = $titleLink.attr("href");
-                const champions = html2plaintext(
-                    ($tr.find(`td:nth-child(${header.Champion})`).html() || "").replace(/<br>/g, ", ")
-                )
-                    .trim()
-                    .split(rchampionseparator);
-                proposalMeta.titleHtml = titleHtml;
-                proposalMeta.href = href;
-                proposalMeta.champions = champions;
-                const meeting = moment.utc(
-                    $tr
-                        .find(`td:nth-child(${header.Meeting})`)
-                        .text()
-                        .trim(),
-                    "MMMM YYYY"
-                );
-                const meetingHref = $tr.find(`td:nth-child(${header.Meeting}) a`).attr("href");
                 const publicationYear = parseInt(
                     $tr
                         .find(`td:nth-child(${header.Year})`)
@@ -161,8 +177,6 @@ function parseStageTable($, table, stage) {
                         .trim()
                 );
                 proposalMeta.meeting = meeting.toISOString();
-                proposalMeta.meetingHref = meetingHref;
-                proposalMeta.publicationYear = publicationYear;
             }
             return proposalMeta;
         });
