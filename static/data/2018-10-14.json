@@ -3,1059 +3,1524 @@
         "titleHtml": "<code>Array.prototype.includes</code>",
         "href": "https://github.com/tc39/Array.prototype.includes",
         "stage": 4,
-        "champions": [
+        "authors": [
             "Domenic Denicola"
         ],
-        "readyToAdvance": false,
-        "meeting": null,
-        "publicationYear": null
+        "champions": [
+            "Domenic Denicola",
+            "Rick Waldron"
+        ],
+        "meeting": "2015-11-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2015-11/nov-17.md#arrayprototypeincludes"
     },
     {
         "titleHtml": "Exponentiation operator",
         "href": "https://github.com/rwaldron/exponentiation-operator",
         "stage": 4,
+        "authors": [
+            "Rick Waldron"
+        ],
         "champions": [
             "Rick Waldron"
         ],
-        "readyToAdvance": false,
-        "meeting": null,
-        "publicationYear": null
+        "meeting": "2016-01-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-01/2016-01-28.md#5xviii-exponentiation-operator-rw"
     },
     {
         "titleHtml": "<code>Object.values</code>/<code>Object.entries</code>",
         "href": "https://github.com/tc39/proposal-object-values-entries",
         "stage": 4,
+        "authors": [
+            "Jordan Harband"
+        ],
         "champions": [
             "Jordan Harband"
         ],
-        "readyToAdvance": false,
-        "meeting": null,
-        "publicationYear": null
+        "meeting": "2016-03-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-03/march-29.md#objectvalues--objectentries"
     },
     {
         "titleHtml": "String padding",
         "href": "https://github.com/tc39/proposal-string-pad-start-end",
         "stage": 4,
-        "champions": [
+        "authors": [
             "Jordan Harband"
         ],
-        "readyToAdvance": false,
-        "meeting": null,
-        "publicationYear": null
+        "champions": [
+            "Jordan Harband",
+            "Rick Waldron"
+        ],
+        "meeting": "2016-05-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-05/may-25.md#stringprototypepadstartend-jhd"
     },
     {
         "titleHtml": "<code>Object.getOwnPropertyDescriptors</code>",
         "href": "https://github.com/ljharb/proposal-object-getownpropertydescriptors",
         "stage": 4,
-        "champions": [
-            "Jordan HarbandAndrea Giammarchi"
+        "authors": [
+            "Jordan Harband",
+            "Andrea Giammarchi"
         ],
-        "readyToAdvance": false,
-        "meeting": null,
-        "publicationYear": null
+        "champions": [
+            "Jordan Harband",
+            "Andrea Giammarchi"
+        ],
+        "meeting": "2016-05-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-05/may-25.md#objectgetownpropertydescriptors-jhd"
     },
     {
         "titleHtml": "Trailing commas in function parameter lists and calls",
         "href": "https://github.com/tc39/proposal-trailing-function-commas",
         "stage": 4,
+        "authors": [
+            "Jeff Morrison"
+        ],
         "champions": [
             "Jeff Morrison"
         ],
-        "readyToAdvance": false,
-        "meeting": null,
-        "publicationYear": null
+        "meeting": "2016-07-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-07/jul-26.md#9ie-trailing-commas-in-functions"
     },
     {
         "titleHtml": "Async functions",
         "href": "https://github.com/tc39/ecmascript-asyncawait",
         "stage": 4,
+        "authors": [
+            "Brian Terlson"
+        ],
         "champions": [
             "Brian Terlson"
         ],
-        "readyToAdvance": false,
-        "meeting": null,
-        "publicationYear": null
+        "meeting": "2016-07-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-07/jul-28.md#10iv-async-functions"
     },
     {
         "titleHtml": "Shared memory and atomics",
         "href": "https://github.com/tc39/ecmascript_sharedmem",
         "stage": 4,
+        "authors": [
+            "Lars T Hansen"
+        ],
         "champions": [
             "Lars T Hansen"
         ],
-        "readyToAdvance": false,
-        "meeting": null,
-        "publicationYear": null
+        "meeting": "2017-01-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2017-01/jan-24.md#13if-seeking-stage-4-for-sharedarraybuffer"
     },
     {
         "titleHtml": "Lifting template literal restriction",
         "href": "https://github.com/tc39/proposal-template-literal-revision",
         "stage": 4,
+        "authors": [
+            "Tim Disney"
+        ],
         "champions": [
             "Tim Disney"
         ],
-        "readyToAdvance": false,
-        "meeting": null,
-        "publicationYear": null
+        "meeting": "2017-03-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2017-03/mar-21.md#10ia-template-literal-updates"
     },
     {
         "titleHtml": "<code>s</code> (<code>dotAll</code>) flag for regular expressions",
         "href": "https://github.com/tc39/proposal-regexp-dotall-flag",
         "stage": 4,
-        "champions": [
+        "authors": [
             "Mathias Bynens"
         ],
-        "readyToAdvance": false,
-        "meeting": null,
-        "publicationYear": null
+        "champions": [
+            "Brian Terlson",
+            "Mathias Bynens"
+        ],
+        "meeting": "2017-11-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2017-11/nov-28.md#9ie-regexp-dotall-status-update"
     },
     {
         "titleHtml": "RegExp named capture groups",
         "href": "https://github.com/tc39/proposal-regexp-named-groups",
         "stage": 4,
-        "champions": [
-            "Gorkem YakinDaniel Ehrenberg"
+        "authors": [
+            "Gorkem Yakin",
+            "Daniel Ehrenberg"
         ],
-        "readyToAdvance": false,
-        "meeting": null,
-        "publicationYear": null
+        "champions": [
+            "Daniel Ehrenberg",
+            "Brian Terlson",
+            "Mathias Bynens"
+        ],
+        "meeting": "2017-11-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2017-11/nov-28.md#9if-regexp-named-captures-status-update"
     },
     {
         "titleHtml": "Rest/Spread Properties",
         "href": "https://github.com/tc39/proposal-object-rest-spread",
         "stage": 4,
+        "authors": [
+            "Sebastian Markbåge"
+        ],
         "champions": [
             "Sebastian Markbåge"
         ],
-        "readyToAdvance": false,
-        "meeting": null,
-        "publicationYear": null
+        "meeting": "2018-01-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2018-01/jan-23.md#restspread-properties-for-stage-4"
     },
     {
         "titleHtml": "RegExp Lookbehind Assertions",
         "href": "https://github.com/tc39/proposal-regexp-lookbehind",
         "stage": 4,
-        "champions": [
-            "Gorkem YakinNozomu KatōDaniel Ehrenberg"
+        "authors": [
+            "Gorkem Yakin",
+            "Nozomu Katō",
+            "Daniel Ehrenberg"
         ],
-        "readyToAdvance": false,
-        "meeting": null,
-        "publicationYear": null
+        "champions": [
+            "Daniel Ehrenberg",
+            "Mathias Bynens"
+        ],
+        "meeting": "2018-01-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2018-01/jan-23.md#conclusionresolution-16"
     },
     {
         "titleHtml": "RegExp Unicode Property Escapes",
         "href": "https://github.com/tc39/proposal-regexp-unicode-property-escapes",
         "stage": 4,
-        "champions": [
+        "authors": [
             "Mathias Bynens"
         ],
-        "readyToAdvance": false,
-        "meeting": null,
-        "publicationYear": null
+        "champions": [
+            "Brian Terlson",
+            "Daniel Ehrenberg",
+            "Mathias Bynens"
+        ],
+        "meeting": "2018-01-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2018-01/jan-24.md#conclusionresolution-1"
     },
     {
         "titleHtml": "<code>Promise.prototype.finally</code>",
         "href": "https://github.com/tc39/proposal-promise-finally",
         "stage": 4,
+        "authors": [
+            "Jordan Harband"
+        ],
         "champions": [
             "Jordan Harband"
         ],
-        "readyToAdvance": false,
-        "meeting": null,
-        "publicationYear": null
+        "meeting": "2018-01-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2018-01/jan-24.md#conclusionresolution-2"
     },
     {
         "titleHtml": "Asynchronous Iteration",
         "href": "https://github.com/tc39/proposal-async-iteration",
         "stage": 4,
+        "authors": [
+            "Domenic Denicola"
+        ],
         "champions": [
             "Domenic Denicola"
         ],
-        "readyToAdvance": false,
-        "meeting": null,
-        "publicationYear": null
+        "meeting": "2018-01-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2018-01/jan-25.md#conclusionresolution"
     },
     {
         "titleHtml": "Optional <code>catch</code> binding",
         "href": "https://github.com/tc39/proposal-optional-catch-binding",
         "stage": 4,
+        "authors": [
+            "Michael Ficarra"
+        ],
         "champions": [
             "Michael Ficarra"
         ],
-        "readyToAdvance": false,
-        "meeting": null,
-        "publicationYear": null
+        "meeting": "2018-05-01T00:00:00.000Z"
     },
     {
         "titleHtml": "JSON superset",
         "href": "https://github.com/tc39/proposal-json-superset",
         "stage": 4,
-        "champions": [
+        "authors": [
             "Richard Gibson"
         ],
-        "readyToAdvance": false,
-        "meeting": "2018-03-01T00:00:00.000Z",
-        "publicationYear": null
+        "champions": [
+            "Mark Miller",
+            "Mathias Bynens"
+        ],
+        "meeting": "2018-05-01T00:00:00.000Z"
     },
     {
         "titleHtml": "<code>Function.prototype.toString</code> revision",
         "href": "https://github.com/tc39/Function-prototype-toString-revision",
         "stage": 3,
+        "authors": [
+            "Michael Ficarra"
+        ],
         "champions": [
             "Michael Ficarra"
         ],
-        "readyToAdvance": true
-    },
-    {
-        "titleHtml": "<code>Array.prototype.{flat,flatMap}</code>",
-        "href": "https://github.com/tc39/proposal-flatMap",
-        "stage": 3,
-        "champions": [
-            "Brian TerlsonMichael Ficarra"
-        ],
-        "readyToAdvance": true
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>globalThis</code>",
         "href": "https://github.com/tc39/proposal-global",
         "stage": 3,
+        "authors": [
+            "Jordan Harband"
+        ],
         "champions": [
             "Jordan Harband"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>import()</code>",
         "href": "https://github.com/tc39/proposal-dynamic-import",
         "stage": 3,
+        "authors": [
+            "Domenic Denicola"
+        ],
         "champions": [
             "Domenic Denicola"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Legacy RegExp features in JavaScript",
         "href": "https://github.com/tc39/proposal-regexp-legacy-features",
         "stage": 3,
-        "champions": [
+        "authors": [
             "Claude Pache"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Mark Miller",
+            "Claude Pache"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>BigInt</code>",
         "href": "https://github.com/tc39/proposal-bigint",
         "stage": 3,
+        "authors": [
+            "Daniel Ehrenberg"
+        ],
         "champions": [
             "Daniel Ehrenberg"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>import.meta</code>",
         "href": "https://github.com/tc39/proposal-import-meta",
         "stage": 3,
+        "authors": [
+            "Domenic Denicola"
+        ],
         "champions": [
             "Domenic Denicola"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Private instance methods and accessors",
         "href": "https://github.com/tc39/proposal-private-methods",
         "stage": 3,
-        "champions": [
+        "authors": [
             "Daniel Ehrenberg"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Daniel Ehrenberg",
+            "Kevin Gibbons"
+        ],
+        "meeting": null,
+        "meetingHref": null
+    },
+    {
+        "titleHtml": "<code>Array.prototype.{flat,flatMap}</code>",
+        "href": "https://github.com/tc39/proposal-flatMap",
+        "stage": 3,
+        "authors": [
+            "Brian Terlson",
+            "Michael Ficarra"
+        ],
+        "champions": [
+            "Brian Terlson",
+            "Michael Ficarra"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Class Public Instance Fields &amp; Private Instance Fields",
         "href": "https://github.com/tc39/proposal-class-fields",
         "stage": 3,
-        "champions": [
-            "Daniel EhrenbergKevin Gibbons"
+        "authors": [
+            "Daniel Ehrenberg",
+            "Kevin Gibbons"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Daniel Ehrenberg",
+            "Jeff Morrison",
+            "Kevin Smith",
+            "Kevin Gibbons"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Static class fields and private static methods",
         "href": "http://github.com/tc39/proposal-static-class-features/",
         "stage": 3,
-        "champions": [
-            "Daniel EhrenbergKevin GibbonsJeff MorrisonKevin Smith"
+        "authors": [
+            "Daniel Ehrenberg",
+            "Kevin Gibbons",
+            "Jeff Morrison",
+            "Kevin Smith"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Shu-Yu Guo",
+            "Daniel Ehrenberg"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>String.prototype.{trimStart,trimEnd}</code>",
         "href": "https://github.com/sebmarkbage/ecmascript-string-left-right-trim",
         "stage": 3,
+        "authors": [
+            "Sebastian Markbåge"
+        ],
         "champions": [
             "Sebastian Markbåge"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>String.prototype.matchAll</code>",
         "href": "https://github.com/tc39/String.prototype.matchAll",
         "stage": 3,
+        "authors": [
+            "Jordan Harband"
+        ],
         "champions": [
             "Jordan Harband"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>Symbol.prototype.description</code>",
         "href": "https://github.com/tc39/proposal-Symbol-description",
         "stage": 3,
+        "authors": [
+            "Michael Ficarra"
+        ],
         "champions": [
             "Michael Ficarra"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>Object.fromEntries</code>",
         "href": "https://github.com/bakkot/object-from-entries",
         "stage": 3,
-        "champions": [
+        "authors": [
             "Darien Maillet Valentine"
         ],
-        "readyToAdvance": false
-    },
-    {
-        "titleHtml": "<code>throw</code> expressions",
-        "href": "https://github.com/rbuckton/proposal-throw-expressions",
-        "stage": 2,
         "champions": [
-            "Ron Buckton"
+            "Jordan Harband",
+            "Kevin Gibbons"
         ],
-        "readyToAdvance": true
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Numeric separators",
         "href": "https://github.com/tc39/proposal-numeric-separator",
         "stage": 2,
-        "champions": [
-            "Sam GotoRick Waldron"
+        "authors": [
+            "Sam Goto",
+            "Rick Waldron"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Sam Goto",
+            "Rick Waldron"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>function.sent</code> metaproperty",
         "href": "https://github.com/allenwb/ESideas/blob/master/Generator%20metaproperty.md",
         "stage": 2,
+        "authors": [
+            "Allen Wirfs-Brock"
+        ],
         "champions": [
             "Allen Wirfs-Brock"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Decorators",
         "href": "http://github.com/tc39/proposal-decorators",
         "stage": 2,
-        "champions": [
+        "authors": [
             "Daniel Ehrenberg"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Yehuda Katz",
+            "Brian Terlson",
+            "Daniel Ehrenberg"
+        ],
+        "meeting": null,
+        "meetingHref": null
+    },
+    {
+        "titleHtml": "<code>throw</code> expressions",
+        "href": "https://github.com/rbuckton/proposal-throw-expressions",
+        "stage": 2,
+        "authors": [
+            "Ron Buckton"
+        ],
+        "champions": [
+            "Ron Buckton"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>Atomics.waitAsync</code>",
         "href": "https://github.com/tc39/proposal-atomics-wait-async",
         "stage": 2,
-        "champions": [
+        "authors": [
             "Lars Hansen"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Shu-yu Guo",
+            "Lars Hansen"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Hashbang Grammar",
         "href": "https://github.com/bmeck/proposal-hashbang",
         "stage": 2,
+        "authors": [
+            "Bradley Farias"
+        ],
         "champions": [
             "Bradley Farias"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "WeakRefs",
         "href": "https://github.com/tc39/proposal-weakrefs",
         "stage": 2,
+        "authors": [
+            "Dean Tribble"
+        ],
         "champions": [
             "Dean Tribble"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Top-level <code>await</code>",
         "href": "https://github.com/tc39/proposal-top-level-await",
         "stage": 2,
+        "authors": [
+            "Myles Borins"
+        ],
         "champions": [
             "Myles Borins"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>Function.prototype.toString()</code> censorship",
         "href": "https://github.com/domenic/proposal-function-prototype-tostring-censorship",
         "stage": 2,
+        "authors": [
+            "Domenic Denicola"
+        ],
         "champions": [
             "Domenic Denicola"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "New Set methods",
         "href": "https://github.com/tc39/set-methods",
         "stage": 2,
-        "champions": [
+        "authors": [
             "Michał Wadas"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Sathya Gunasekaran"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Well-formed <code>JSON.stringify</code>",
         "href": "https://github.com/gibson042/ecma262-proposal-well-formed-stringify",
         "stage": 2,
-        "champions": [
+        "authors": [
             "Richard Gibson"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Realms",
         "href": "https://github.com/caridy/proposal-realms",
         "stage": 2,
-        "champions": [
-            "Caridy PatiñoJean-Francois Paradis"
+        "authors": [
+            "Caridy Patiño",
+            "Jean-Francois Paradis"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Dave Herman",
+            "Mark Miller",
+            "Caridy Patiño"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>ArrayBuffer.prototype.transfer</code>",
         "href": "https://github.com/domenic/proposal-arraybuffer-transfer/",
         "stage": 2,
+        "authors": [
+            "Domenic Denicola"
+        ],
         "champions": [
             "Domenic Denicola"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "RegExp Match array offsets",
         "href": "https://github.com/rbuckton/proposal-regexp-match-offsets",
         "stage": 2,
+        "authors": [
+            "Ron Buckton"
+        ],
         "champions": [
             "Ron Buckton"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Sequence properties in Unicode property escapes",
         "href": "https://github.com/mathiasbynens/proposal-regexp-unicode-sequence-properties",
         "stage": 2,
+        "authors": [
+            "Mathias Bynens"
+        ],
         "champions": [
             "Mathias Bynens"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>InterpreterDirective</code>",
         "href": "https://gist.github.com/bmeck/59cf8c16959eccffd8b7e9828826a842",
         "stage": 2,
+        "authors": [
+            "Bradley Farias"
+        ],
         "champions": [
             "Bradley Farias"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Temporal",
         "href": "https://github.com/maggiepint/proposal-temporal",
         "stage": 2,
-        "champions": [
-            "Maggie PintMatt Johnson"
+        "authors": [
+            "Maggie Pint",
+            "Matt Johnson"
         ],
-        "readyToAdvance": false
-    },
-    {
-        "titleHtml": "Observable",
-        "href": "https://github.com/tc39/proposal-observable",
-        "stage": 1,
         "champions": [
-            "Jafar Husain"
+            "Maggie Pint",
+            "Brian Terlson"
         ],
-        "readyToAdvance": true
-    },
-    {
-        "titleHtml": "Getting last element of Array",
-        "href": "https://github.com/keithamus/proposal-array-last",
-        "stage": 1,
-        "champions": [
-            "Keith Cirkel"
-        ],
-        "readyToAdvance": true
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>export v from &quot;mod&quot;;</code> statements",
         "href": "https://github.com/tc39/proposal-export-default-from",
         "stage": 1,
-        "champions": [
+        "authors": [
             "Lee Byron"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Ben Newman",
+            "John-David Dalton"
+        ],
+        "meeting": null,
+        "meetingHref": null
+    },
+    {
+        "titleHtml": "Observable",
+        "href": "https://github.com/tc39/proposal-observable",
+        "stage": 1,
+        "authors": [
+            "Jafar Husain"
+        ],
+        "champions": [
+            "Jafar Husain",
+            "Mark Miller"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Frozen Realms",
         "href": "https://github.com/FUDCo/frozen-realms",
         "stage": 1,
-        "champions": [
-            "Mark MillerChip MorningstarCaridy Patiño"
+        "authors": [
+            "Mark Miller",
+            "Chip Morningstar",
+            "Caridy Patiño"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Mark Miller",
+            "Chip Morningstar",
+            "Caridy Patiño"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>Math</code> Extensions",
         "href": "https://github.com/rwaldron/proposal-math-extensions",
         "stage": 1,
+        "authors": [
+            "Rick Waldron"
+        ],
         "champions": [
             "Rick Waldron"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>of</code> and <code>from</code> on collection constructors",
         "href": "https://github.com/leobalter/proposal-setmap-offrom",
         "stage": 1,
+        "authors": [
+            "Leo Balter"
+        ],
         "champions": [
             "Leo Balter"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Generator arrow functions (<code>=&gt;*</code>)",
         "stage": 1,
+        "authors": [],
         "champions": [
-            ""
+            "Brendan Eich",
+            "Domenic Denicola"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>Promise.try</code>",
         "href": "https://github.com/ljharb/proposal-promise-try",
         "stage": 1,
+        "authors": [
+            "Jordan Harband"
+        ],
         "champions": [
             "Jordan Harband"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Optional Chaining",
         "href": "https://github.com/tc39/proposal-optional-chaining",
         "stage": 1,
-        "champions": [
-            "Gabriel IsenbergClaude Pache"
+        "authors": [
+            "Gabriel Isenberg",
+            "Claude Pache"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Gabriel Isenberg"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>Math.signbit</code>: IEEE-754 sign bit",
         "href": "http://jfbastien.github.io/papers/Math.signbit.html",
         "stage": 1,
+        "authors": [
+            "JF Bastien"
+        ],
         "champions": [
             "JF Bastien"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Error stacks",
         "href": "https://github.com/ljharb/proposal-error-stacks",
         "stage": 1,
+        "authors": [
+            "Jordan Harband"
+        ],
         "champions": [
             "Jordan Harband"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>do</code> expressions",
         "href": "https://github.com/tc39/proposal-do-expressions",
         "stage": 1,
+        "authors": [
+            "Dave Herman"
+        ],
         "champions": [
             "Dave Herman"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Float16 on TypedArrays, DataView, <code>Math.hfround</code>",
         "href": "https://docs.google.com/presentation/d/1Ta_IbravBUOvu7LUhlN49SvLU-8G8bIQnsS08P3Z4vY/edit?usp=sharing",
         "stage": 1,
+        "authors": [
+            "Leo Balter"
+        ],
         "champions": [
             "Leo Balter"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Change <code>Number.parseInt</code>/<code>parseFloat</code> to not coerce <code>null</code>/<code>undefined</code>/<code>NaN</code> (repo link TBD)",
         "stage": 1,
+        "authors": [],
         "champions": [
-            ""
+            "Brendan Eich"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Binary AST",
         "href": "https://github.com/syg/ecmascript-binary-ast",
         "stage": 1,
+        "authors": [
+            "Shu-yu Guo"
+        ],
         "champions": [
             "Shu-yu Guo"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Pipeline Operator",
         "href": "https://github.com/tc39/proposal-pipeline-operator",
         "stage": 1,
+        "authors": [
+            "Daniel Ehrenberg"
+        ],
         "champions": [
             "Daniel Ehrenberg"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Extensible numeric literals",
         "href": "https://github.com/littledan/proposal-extensible-numeric-literals",
         "stage": 1,
+        "authors": [
+            "Daniel Ehrenberg"
+        ],
         "champions": [
             "Daniel Ehrenberg"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "First-class protocols",
         "href": "https://github.com/michaelficarra/proposal-first-class-protocols",
         "stage": 1,
+        "authors": [
+            "Michael Ficarra"
+        ],
         "champions": [
             "Michael Ficarra"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Nullish coalescing Operator",
         "href": "https://github.com/tc39/proposal-nullish-coalescing",
         "stage": 1,
+        "authors": [
+            "Gabriel Isenberg"
+        ],
         "champions": [
             "Gabriel Isenberg"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Partial application",
         "href": "https://github.com/tc39/proposal-partial-application",
         "stage": 1,
+        "authors": [
+            "Ron Buckton"
+        ],
         "champions": [
             "Ron Buckton"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Cancellation API",
         "href": "https://github.com/tc39/proposal-cancellation",
         "stage": 1,
-        "champions": [
+        "authors": [
             "Ron Buckton"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Ron Buckton",
+            "Brian Terlson"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>String.prototype.replaceAll</code>",
         "href": "https://github.com/psmarshall/string-replace-all-proposal",
         "stage": 1,
-        "champions": [
-            "Peter MarshallJakob GruberMathias Bynens"
+        "authors": [
+            "Peter Marshall",
+            "Jakob Gruber",
+            "Mathias Bynens"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>String.prototype.codePoints</code>",
         "href": "https://github.com/RReverser/string-prototype-codepoints",
         "stage": 1,
-        "champions": [
+        "authors": [
             "Ingvar Stepanyan"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Distinguishing literal strings",
         "href": "https://github.com/mikewest/tc39-proposal-literals",
         "stage": 1,
-        "champions": [
+        "authors": [
             "Mike West"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Adam Klein",
+            "Mike West"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>Object.freeze</code> + <code>Object.seal</code> syntax",
         "href": "https://github.com/keithamus/object-freeze-seal-syntax",
         "stage": 1,
+        "authors": [
+            "Keith Cirkel"
+        ],
         "champions": [
             "Keith Cirkel"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Block Params",
         "href": "https://github.com/samuelgoto/proposal-block-params",
         "stage": 1,
+        "authors": [
+            "Sam Goto"
+        ],
         "champions": [
             "Sam Goto"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>{BigInt,Number}.fromString</code>",
         "href": "https://github.com/mathiasbynens/proposal-number-fromstring",
         "stage": 1,
+        "authors": [
+            "Mathias Bynens"
+        ],
         "champions": [
             "Mathias Bynens"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>Math.seededRandoms()</code>",
         "href": "https://github.com/tabatkins/js-seeded-random",
         "stage": 1,
+        "authors": [
+            "Tab Atkins"
+        ],
         "champions": [
             "Tab Atkins"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Maximally minimal mixins",
         "href": "https://github.com/justinfagnani/proposal-mixins",
         "stage": 1,
+        "authors": [
+            "Justin Fagnani"
+        ],
         "champions": [
             "Justin Fagnani"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
+    },
+    {
+        "titleHtml": "Getting last element of Array",
+        "href": "https://github.com/keithamus/proposal-array-last",
+        "stage": 1,
+        "authors": [
+            "Keith Cirkel"
+        ],
+        "champions": [
+            "Keith Cirkel"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Collection methods",
         "href": "https://github.com/tc39/collection-methods",
         "stage": 1,
-        "champions": [
+        "authors": [
             "Michał Wadas"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Sathya Gunasekaran"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Richer Keys",
         "href": "https://docs.google.com/presentation/d/1q3CGeXqskL1gHTATH_VE9Dhj0VGTIAOzJ1cR0dYqDBk/edit#slide=id.p",
         "stage": 1,
+        "authors": [
+            "Bradley Farias"
+        ],
         "champions": [
             "Bradley Farias"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Slice notation",
         "href": "https://github.com/gsathya/proposal-slice-notation/",
         "stage": 1,
+        "authors": [
+            "Sathya Gunasekaran"
+        ],
         "champions": [
             "Sathya Gunasekaran"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Logical Assignment Operators",
         "href": "https://github.com/jridgewell/proposal-logical-assignment",
         "stage": 1,
+        "authors": [
+            "Justin Ridgewell"
+        ],
         "champions": [
             "Justin Ridgewell"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Module Keys",
         "href": "https://github.com/mikesamuel/tc39-module-keys",
         "stage": 1,
+        "authors": [
+            "Mike Samuel"
+        ],
         "champions": [
             "Mike Samuel"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Class Static Block",
         "href": "https://github.com/rbuckton/proposal-class-static-block#readme",
         "stage": 1,
+        "authors": [
+            "Ron Buckton"
+        ],
         "champions": [
             "Ron Buckton"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "class Access Expressions",
         "href": "https://github.com/rbuckton/proposal-class-access-expressions",
         "stage": 1,
+        "authors": [
+            "Ron Buckton"
+        ],
         "champions": [
             "Ron Buckton"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Pattern Matching",
         "href": "https://github.com/tc39/proposal-pattern-matching",
         "stage": 1,
-        "champions": [
-            "Kat MarchánBrian Terlson"
+        "authors": [
+            "Kat Marchán",
+            "Brian Terlson"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Kat Marchán",
+            "Brian Terlson",
+            "Sebastian Markbåge"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Explicit Resource Management",
         "href": "https://github.com/rbuckton/proposal-using-statement",
         "stage": 1,
+        "authors": [
+            "Ron Buckton"
+        ],
         "champions": [
             "Ron Buckton"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Dynamic Modules",
         "href": "https://github.com/guybedford/proposal-dynamic-modules",
         "stage": 1,
+        "authors": [
+            "Bradley Farias"
+        ],
         "champions": [
             "Bradley Farias"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "JavaScript Standard Library",
         "href": "https://github.com/msaboff/JavaScript-Standard-Library",
         "stage": 1,
-        "champions": [
-            "Michael SaboffMattijs Hoitink"
+        "authors": [
+            "Michael Saboff",
+            "Mattijs Hoitink"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Michael Saboff",
+            "Mattijs Hoitink"
+        ],
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>&quot;use module&quot;</code>",
         "href": "https://github.com/tc39/proposal-modules-pragma",
         "stage": 1,
+        "authors": [
+            "Dave Herman"
+        ],
         "champions": [
             "Dave Herman"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "<code>for-in</code> mechanics",
         "href": "https://github.com/bakkot/for-in-exploration",
         "stage": 1,
+        "authors": [],
         "champions": [
-            ""
+            "Kevin Gibbons"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "uniform parsing of quasi-standard <code>Date.parse</code> input",
         "href": "https://github.com/gibson042/ecma262-proposal-uniform-interchange-date-parsing",
         "stage": 1,
+        "authors": [
+            "Richard Gibson"
+        ],
         "champions": [
             "Richard Gibson"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "JSON.parse source text access",
         "href": "https://github.com/gibson042/ecma262-proposal-JSON-parse-with-source",
         "stage": 1,
+        "authors": [
+            "Richard Gibson"
+        ],
         "champions": [
             "Richard Gibson"
         ],
-        "readyToAdvance": false
+        "meeting": null,
+        "meetingHref": null
     },
     {
         "titleHtml": "Additional metaproperties",
         "href": "https://github.com/allenwb/ESideas/blob/master/ES7MetaProps.md",
         "stage": 0,
+        "authors": [
+            "Allen Wirfs-Brock"
+        ],
         "champions": [
             "Allen Wirfs-Brock"
         ],
-        "readyToAdvance": false
+        "meeting": null
     },
     {
         "titleHtml": "Annex B &#x2014; HTML Attribute Event Handlers",
         "stage": 0,
+        "authors": [
+            "Allen Wirfs-Brock"
+        ],
         "champions": [
             "Allen Wirfs-Brock"
         ],
-        "readyToAdvance": false
+        "meeting": null
     },
     {
         "titleHtml": "Defensible Classes",
         "href": "https://web.archive.org/web/20160804042547/http://wiki.ecmascript.org/doku.php?id=strawman:defensible_classes",
         "stage": 0,
-        "champions": [
-            "Mark MillerDoug Crockford"
+        "authors": [
+            "Mark Miller",
+            "Doug Crockford"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Mark Miller",
+            "Doug Crockford"
+        ],
+        "meeting": null
     },
     {
         "titleHtml": "Function bind syntax",
         "href": "https://github.com/zenparsing/es-function-bind",
         "stage": 0,
-        "champions": [
+        "authors": [
             "Kevin Smith"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Brian Terlson",
+            "Matthew Podwysocki"
+        ],
+        "meeting": "2015-03-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/tc39/tc39-notes/blob/b8da60318b564f136cbe8385f17f42abc0666cdd/es6/2015-03/mar-25.md#6vi-function-bind-and-private-fields-redux-kevin-smith"
     },
     {
         "titleHtml": "Function expression decorators",
         "href": "https://goo.gl/8MmCMG",
         "stage": 0,
+        "authors": [
+            "Igor Minar"
+        ],
         "champions": [
             "Igor Minar"
         ],
-        "readyToAdvance": false
+        "meeting": null
     },
     {
         "titleHtml": "Method parameter decorators",
         "href": "https://goo.gl/r1XT9b",
         "stage": 0,
+        "authors": [
+            "Igor Minar"
+        ],
         "champions": [
             "Igor Minar"
         ],
-        "readyToAdvance": false
+        "meeting": null
     },
     {
         "titleHtml": "Nested <code>import</code> declarations",
         "href": "https://github.com/benjamn/reify/blob/master/PROPOSAL.md",
         "stage": 0,
+        "authors": [
+            "Ben Newman"
+        ],
         "champions": [
             "Ben Newman"
         ],
-        "readyToAdvance": false
+        "meeting": "2016-07-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/tc39/tc39-notes/blob/b8da60318b564f136cbe8385f17f42abc0666cdd/es7/2016-07/jul-27.md#10iiic-nested-import-declaration"
     },
     {
         "titleHtml": "Normative ICU Reference",
         "href": "https://github.com/tc39/tc39-notes/blob/master/es8/2017-05/may-23.md#normative-icu-reference",
         "stage": 0,
+        "authors": [
+            "Domenic Denicola"
+        ],
         "champions": [
             "Domenic Denicola"
         ],
-        "readyToAdvance": false
+        "meeting": "2017-05-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/tc39/tc39-notes/blob/master/es8/2017-05/may-23.md#normative-icu-reference"
     },
     {
         "titleHtml": "Orthogonal Classes",
         "href": "https://github.com/erights/Orthogonal-Classes",
         "stage": 0,
-        "champions": [
-            "Mark MillerAllen Wirfs-Brock"
+        "authors": [
+            "Mark Miller",
+            "Allen Wirfs-Brock"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Mark Miller",
+            "Allen Wirfs-Brock"
+        ],
+        "meeting": "2017-03-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/tc39/tc39-notes/blob/61dc2f45829a0663af0b4b1d6690717dc70d30d9/es8/2017-03/mar-22.md#10iiia-orthogonal-classes"
     },
     {
         "titleHtml": "Promise.allSettled",
         "href": "https://github.com/jasonwilliams/proposal-promise-allSettled",
         "stage": 0,
-        "champions": [
+        "authors": [
             "Jason Williams"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "meeting": null
     },
     {
         "titleHtml": "<code>Reflect.{isCallable,isConstructor}</code>",
         "href": "https://github.com/caitp/TC39-Proposals/blob/master/tc39-reflect-isconstructor-iscallable.md",
         "stage": 0,
+        "authors": [
+            "Caitlin Potter"
+        ],
         "champions": [
             "Caitlin Potter"
         ],
-        "readyToAdvance": false
+        "meeting": null
     },
     {
         "titleHtml": "Relationships",
         "href": "https://web.archive.org/web/20160804042554/http://wiki.ecmascript.org/doku.php?id=strawman:relationships",
         "stage": 0,
-        "champions": [
-            "Mark MillerWaldemar Horwat"
+        "authors": [
+            "Mark Miller",
+            "Waldemar Horwat"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Mark Miller",
+            "Waldemar Horwat"
+        ],
+        "meeting": null
     },
     {
         "titleHtml": "<code>String.prototype.at</code>",
         "href": "https://github.com/mathiasbynens/String.prototype.at",
         "stage": 0,
-        "champions": [
+        "authors": [
             "Mathias Bynens"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Mathias Bynens",
+            "Rick Waldron"
+        ],
+        "meeting": null
     },
     {
         "titleHtml": "Structured Clone",
         "href": "https://github.com/dslomov-chromium/ecmascript-structured-clone",
         "stage": 0,
+        "authors": [
+            "Dmitry Lomov"
+        ],
         "champions": [
             "Dmitry Lomov"
         ],
-        "readyToAdvance": false
+        "meeting": "2014-01-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/tc39/tc39-notes/blob/b8da60318b564f136cbe8385f17f42abc0666cdd/es6/2014-01/jan-30.md#structured-clone"
     },
     {
         "titleHtml": "WHATWG URL",
         "href": "https://github.com/jasnell/proposal-url",
         "stage": 0,
+        "authors": [
+            "James M Snell"
+        ],
         "champions": [
             "James M Snell"
         ],
-        "readyToAdvance": false
+        "meeting": null
     },
     {
         "titleHtml": "Zones",
         "href": "https://github.com/domenic/zones",
         "stage": 0,
-        "champions": [
+        "authors": [
             "Domenic Denicola"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Domenic Denicola",
+            "Miško Hevery"
+        ],
+        "meeting": "2016-03-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/tc39/tc39-notes/blob/61dc2f45829a0663af0b4b1d6690717dc70d30d9/es7/2016-03/march-29.md#zones-update"
     },
     {
         "titleHtml": "Object Shorthand Improvements",
         "href": "https://github.com/rbuckton/proposal-shorthand-improvements",
         "stage": 0,
+        "authors": [
+            "Ron Buckton"
+        ],
         "champions": [
             "Ron Buckton"
         ],
-        "readyToAdvance": false
+        "meeting": "2017-09-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/tc39/tc39-notes/blob/61dc2f45829a0663af0b4b1d6690717dc70d30d9/es8/2017-09/sep-28.md#13i-object-shorthand-improvements"
     },
     {
         "titleHtml": "Decimal",
         "href": "https://docs.google.com/presentation/d/1jPsw7EGsS6BW59_BDRu9o0o3UwSXQeUhi38QG55ZoPI/edit?pli=1#slide=id.p",
         "stage": 0,
-        "champions": [
-            "Andrew PaprockiDaniel Ehrenberg"
+        "authors": [
+            "Andrew Paprocki",
+            "Daniel Ehrenberg"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Andrew Paprocki",
+            "Daniel Ehrenberg"
+        ],
+        "meeting": "2017-11-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/rwaldron/tc39-notes/blob/b8da60318b564f136cbe8385f17f42abc0666cdd/es8/2017-11/nov-29.md#9ivb-decimal-for-stage-0"
     },
     {
         "titleHtml": "<code>deprecated</code>",
         "href": "https://github.com/jasnell/proposal-deprecated",
         "stage": 0,
+        "authors": [
+            "James M Snell"
+        ],
         "champions": [
             "James M Snell"
         ],
-        "readyToAdvance": false
+        "meeting": null
     },
     {
         "titleHtml": "<code>as</code> destructuring patterns",
         "href": "https://github.com/zkat/proposal-as-patterns",
         "stage": 0,
+        "authors": [
+            "Kat Marchán"
+        ],
         "champions": [
             "Kat Marchán"
         ],
-        "readyToAdvance": false
+        "meeting": null
     },
     {
         "titleHtml": "<code>Symbol.thenable</code>",
         "href": "https://github.com/devsnek/proposal-symbol-thenable",
         "stage": 0,
-        "champions": [
+        "authors": [
             "Gus Caplan"
         ],
-        "readyToAdvance": false
+        "champions": [
+            "Jordan Harband",
+            "Myles Borins"
+        ],
+        "meeting": null
     }
 ]
