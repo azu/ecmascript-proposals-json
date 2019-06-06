@@ -20,16 +20,16 @@
 </template>
 <script>
     const dateToYYYYMMHH = (date) => {
-        let month = '' + (date.getMonth() + 1);
-        let day = '' + date.getDate();
+        let month = "" + (date.getMonth() + 1);
+        let day = "" + date.getDate();
         const year = date.getFullYear();
         if (month.length < 2) {
-            month = '0' + month;
+            month = "0" + month;
         }
         if (day.length < 2) {
-            day = '0' + day;
+            day = "0" + day;
         }
-        return [year, month, day].join('-');
+        return [year, month, day].join("-");
     };
     const beforeDayDateFromToday = (before) => {
         const d = new Date();
@@ -49,13 +49,13 @@
         data() {
             return {
                 startDate: dateToYYYYMMHH(beforeMonthDateFromToday(2)),
-                endDate: dateToYYYYMMHH(beforeDayDateFromToday(1)),
+                endDate: dateToYYYYMMHH(new Date()),
                 diffMarkdown: "",
                 compiledHTML: "",
                 message: ""
-            }
+            };
         },
-        mounted(){
+        mounted() {
             this.updateDiff();
         },
         methods: {
@@ -75,7 +75,12 @@
                 };
                 this.message = "Fetching...";
                 this.compiledHTML = "";
-                Promise.all([fetchData(startDateString), fetchData(endDateString)])
+                const fetchToday = () => {
+                    return fetchData(endDateString).catch(() => {
+                        return fetchData(dateToYYYYMMHH(beforeDayDateFromToday(1)));
+                    });
+                };
+                Promise.all([fetchData(startDateString), fetchToday()])
                     .then(([beforeData, afterData]) => {
                         this.message = "Diff table is creating...";
                         const { newItems, updatedItems } = createDiff(beforeData, afterData);
@@ -83,11 +88,11 @@
                         const diffTable = `
 ## New Proposals
 
-${tablemark(newItems)}
+${newItems.length === 0 ? "No Data" : tablemark(newItems)}
 
 ## Updated Proposals
 
-${tablemark(updatedItems)}
+${updatedItems.length === 0 ? "No Data" : tablemark(updatedItems)}
 `;
                         this.diffMarkdown = diffTable;
                         this.compiledHTML = marked(diffTable);
@@ -98,5 +103,5 @@ ${tablemark(updatedItems)}
                 });
             }
         }
-    }
+    };
 </script>
