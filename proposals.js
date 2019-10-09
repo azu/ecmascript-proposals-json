@@ -10,7 +10,8 @@ function fetchAll(baseURL = "https://github.com/tc39/proposals/blob/master/") {
     return new Promise((resolve, reject) => {
         concurrent(
             {
-                proposed: fetchProposed(baseURL),
+                stage0: fetchStage0(baseURL),
+                stage1: fetchStage1(baseURL),
                 active: fetchActive(baseURL),
                 finished: fetchFinished(baseURL)
             },
@@ -31,15 +32,22 @@ function fetchedAll(done) {
             done(err);
             return;
         }
-        const proposals = sortProposals([...result.proposed, ...result.active, ...result.finished]);
+        const proposals = sortProposals([...result.stage0, ...result.stage1, ...result.active, ...result.finished]);
         done(null, proposals);
     };
 }
 
-function fetchProposed(baseURL) {
+function fetchStage0(baseURL) {
     const URL = `${baseURL}/stage-0-proposals.md`;
     return done => {
-        fetch(URL, parseProposed, done);
+        fetch(URL, parseStage0, done);
+    };
+}
+
+function fetchStage1(baseURL) {
+    const URL = `${baseURL}/stage-1-proposals.md`;
+    return done => {
+        fetch(URL, parseStage1, done);
     };
 }
 
@@ -191,9 +199,14 @@ function parseActive(html) {
     return sortProposals(flatten(proposals));
 }
 
-function parseProposed(html) {
+function parseStage0(html) {
     const $ = cheerio.load(html);
     return sortProposals(parseStageTable($, $("#readme table").eq(0), 0));
+}
+
+function parseStage1(html) {
+    const $ = cheerio.load(html);
+    return sortProposals(parseStageTable($, $("#readme table").eq(0), 1));
 }
 
 function parseFinished(html) {
@@ -217,5 +230,6 @@ module.exports = {
     fetchAll,
     fetchFinished,
     fetchActive,
-    fetchProposed
+    fetchStage0,
+    fetchStage1
 };
