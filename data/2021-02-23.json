@@ -528,7 +528,8 @@
         ],
         "champions": [
             "Sam Goto",
-            "Rick Waldron"
+            "Rick Waldron ",
+            "Leo Balter"
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
         "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-21.md#numericliteralseparator-for-stage-4"

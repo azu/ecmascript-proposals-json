@@ -528,7 +528,8 @@
         ],
         "champions": [
             "Sam Goto",
-            "Rick Waldron"
+            "Rick Waldron ",
+            "Leo Balter"
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
         "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-21.md#numericliteralseparator-for-stage-4"
@@ -713,6 +714,35 @@
         "meeting": "2021-01-01T00:00:00.000Z"
     },
     {
+        "titleHtml": "Error Cause",
+        "href": "https://github.com/tc39/proposal-error-cause",
+        "stage": 3,
+        "authors": [
+            "Chengzhong Wu"
+        ],
+        "champions": [
+            "Chengzhong Wu",
+            "Hemanth HM"
+        ],
+        "meeting": "2021-03-01T00:00:00.000Z"
+    },
+    {
+        "titleHtml": "Temporal",
+        "href": "https://github.com/tc39/proposal-temporal",
+        "stage": 3,
+        "authors": [
+            "Maggie Pint",
+            "Matt Johnson",
+            "Philipp Dunkel"
+        ],
+        "champions": [
+            "Maggie Pint",
+            "Philipp Dunkel",
+            "Brian Terlson"
+        ],
+        "meeting": "2021-03-01T00:00:00.000Z"
+    },
+    {
         "titleHtml": "<code>function.sent</code> metaproperty",
         "href": "https://github.com/tc39/proposal-function.sent",
         "stage": 2,
@@ -822,23 +852,6 @@
         ],
         "meeting": "2019-10-01T00:00:00.000Z",
         "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-10/october-2.md#update-on-sequence-property-escapes-in-unicode-regular-expressions"
-    },
-    {
-        "titleHtml": "Temporal",
-        "href": "https://github.com/tc39/proposal-temporal",
-        "stage": 2,
-        "authors": [
-            "Maggie Pint",
-            "Matt Johnson",
-            "Philipp Dunkel"
-        ],
-        "champions": [
-            "Maggie Pint",
-            "Philipp Dunkel",
-            "Brian Terlson"
-        ],
-        "meeting": "2020-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-11/nov-18.md#tour-of-temporal"
     },
     {
         "titleHtml": "collection normalization",
@@ -991,20 +1004,6 @@
         "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-24.md#resizable-and-growable-arraybuffers-for-stage-2"
     },
     {
-        "titleHtml": "Error Cause",
-        "href": "https://github.com/tc39/proposal-error-cause",
-        "stage": 2,
-        "authors": [
-            "Chengzhong Wu"
-        ],
-        "champions": [
-            "Chengzhong Wu",
-            "Hemanth HM"
-        ],
-        "meeting": "2020-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-11/nov-19.md#error-cause-for-stage-2"
-    },
-    {
         "titleHtml": "Module Blocks",
         "href": "https://github.com/tc39/proposal-js-module-blocks",
         "stage": 2,
@@ -1014,6 +1013,19 @@
         ],
         "champions": [
             "Surma"
+        ],
+        "meeting": "2021-01-01T00:00:00.000Z"
+    },
+    {
+        "titleHtml": "Array find from last",
+        "href": "https://github.com/tc39/proposal-array-find-from-last",
+        "stage": 2,
+        "authors": [
+            "Wenlu Wang"
+        ],
+        "champions": [
+            "Wenlu Wang",
+            "Daniel Rosenwasser"
         ],
         "meeting": "2021-01-01T00:00:00.000Z"
     },
@@ -1959,7 +1971,7 @@
     },
     {
         "titleHtml": "Extensions",
-        "href": "https://github.com/hax/proposal-extensions",
+        "href": "https://github.com/tc39/proposal-extensions",
         "stage": 1,
         "authors": [
             "HE Shi-Jun"
@@ -1985,7 +1997,7 @@
     },
     {
         "titleHtml": "<code>async do</code> expressions",
-        "href": "https://github.com/bakkot/proposal-async-do-expressions",
+        "href": "https://github.com/tc39/proposal-async-do-expressions",
         "stage": 1,
         "authors": [
             "Kevin Gibbons"
@@ -1997,7 +2009,7 @@
     },
     {
         "titleHtml": "Class Brand Checks",
-        "href": "https://github.com/hax/proposal-class-brand-check",
+        "href": "https://github.com/tc39/proposal-class-brand-check",
         "stage": 1,
         "authors": [
             "HE Shi-Jun"
@@ -2009,7 +2021,7 @@
     },
     {
         "titleHtml": "Adopting Unicode behavior for set notation in regular expressions",
-        "href": "https://github.com/mathiasbynens/proposal-regexp-set-notation",
+        "href": "https://github.com/tc39/proposal-regexp-set-notation",
         "stage": 1,
         "authors": [
             "Markus Scherer",
@@ -2022,7 +2034,7 @@
     },
     {
         "titleHtml": "Escaping Strings for RegExps",
-        "href": "https://github.com/benjamingr/RegExp.escape",
+        "href": "https://github.com/tc39/proposal-regex-escaping",
         "stage": 1,
         "authors": [
             "Domenic Denicola",
@@ -2035,28 +2047,29 @@
         "meeting": "2021-01-01T00:00:00.000Z"
     },
     {
-        "titleHtml": "Array find from last",
-        "href": "https://github.com/Kingwl/proposal-array-find-from-last",
+        "titleHtml": "defer module import eval",
+        "href": "https://github.com/tc39/proposal-defer-import-eval",
         "stage": 1,
         "authors": [
-            "Wenlu Wang"
+            "Yulia Startsev"
         ],
         "champions": [
-            "Wenlu Wang"
+            "Yulia Startsev"
         ],
         "meeting": "2021-01-01T00:00:00.000Z"
     },
     {
-        "titleHtml": "defer module import eval",
-        "href": "https://github.com/codehag/proposal-lazy-import",
+        "titleHtml": "JavaScript module fragments",
+        "href": "https://github.com/littledan/proposal-module-fragments",
         "stage": 1,
         "authors": [
-            "Yulia Startsev"
+            "Daniel Ehrenberg"
         ],
         "champions": [
-            "Yulia Startsev"
+            "Daniel Ehrenberg",
+            "Mark Miller"
         ],
-        "meeting": "2021-01-01T00:00:00.000Z"
+        "meeting": "2021-03-01T00:00:00.000Z"
     },
     {
         "titleHtml": "Additional metaproperties",
