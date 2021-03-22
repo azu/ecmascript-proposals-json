@@ -1,0 +1,28 @@
+name: cron
+on:
+  push:
+    branches:
+      - main  # Set a branch name to trigger deployment
+  schedule:
+    - cron:  '0 * * * *'
+jobs:
+  cron:
+    name: "daily cron"
+    runs-on: ubuntu-18.04
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
+      - name: Install
+        run: yarn install
+      - name: Fetch
+        run: node ./get-proposal.js
+      - name: Commit
+        uses: EndBug/add-and-commit@v7.0.0
+        with:
+          message: "Update Data"
+          add: 'static'
+          push: true
