@@ -528,7 +528,8 @@
         ],
         "champions": [
             "Sam Goto",
-            "Rick Waldron"
+            "Rick Waldron ",
+            "Leo Balter"
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
         "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-21.md#numericliteralseparator-for-stage-4"
@@ -1959,7 +1960,7 @@
     },
     {
         "titleHtml": "Extensions",
-        "href": "https://github.com/hax/proposal-extensions",
+        "href": "https://github.com/tc39/proposal-extensions",
         "stage": 1,
         "authors": [
             "HE Shi-Jun"
@@ -1985,7 +1986,7 @@
     },
     {
         "titleHtml": "<code>async do</code> expressions",
-        "href": "https://github.com/bakkot/proposal-async-do-expressions",
+        "href": "https://github.com/tc39/proposal-async-do-expressions",
         "stage": 1,
         "authors": [
             "Kevin Gibbons"
@@ -1997,7 +1998,7 @@
     },
     {
         "titleHtml": "Class Brand Checks",
-        "href": "https://github.com/hax/proposal-class-brand-check",
+        "href": "https://github.com/tc39/proposal-class-brand-check",
         "stage": 1,
         "authors": [
             "HE Shi-Jun"
@@ -2009,7 +2010,7 @@
     },
     {
         "titleHtml": "Adopting Unicode behavior for set notation in regular expressions",
-        "href": "https://github.com/mathiasbynens/proposal-regexp-set-notation",
+        "href": "https://github.com/tc39/proposal-regexp-set-notation",
         "stage": 1,
         "authors": [
             "Markus Scherer",
@@ -2022,7 +2023,7 @@
     },
     {
         "titleHtml": "Escaping Strings for RegExps",
-        "href": "https://github.com/benjamingr/RegExp.escape",
+        "href": "https://github.com/tc39/proposal-regex-escaping",
         "stage": 1,
         "authors": [
             "Domenic Denicola",
@@ -2036,7 +2037,7 @@
     },
     {
         "titleHtml": "Array find from last",
-        "href": "https://github.com/Kingwl/proposal-array-find-from-last",
+        "href": "https://github.com/tc39/proposal-array-find-from-last",
         "stage": 1,
         "authors": [
             "Wenlu Wang"
@@ -2048,7 +2049,7 @@
     },
     {
         "titleHtml": "defer module import eval",
-        "href": "https://github.com/codehag/proposal-lazy-import",
+        "href": "https://github.com/tc39/proposal-defer-import-eval",
         "stage": 1,
         "authors": [
             "Yulia Startsev"
