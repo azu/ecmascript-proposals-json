@@ -714,6 +714,18 @@
         "meeting": "2021-01-01T00:00:00.000Z"
     },
     {
+        "titleHtml": "Class Static Block",
+        "href": "https://github.com/tc39/proposal-class-static-block",
+        "stage": 3,
+        "authors": [
+            "Ron Buckton"
+        ],
+        "champions": [
+            "Ron Buckton"
+        ],
+        "meeting": "2021-03-01T00:00:00.000Z"
+    },
+    {
         "titleHtml": "Error Cause",
         "href": "https://github.com/tc39/proposal-error-cause",
         "stage": 3,
@@ -976,19 +988,6 @@
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
         "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-22.md#jsonparse-source-text-access-for-stage-2"
-    },
-    {
-        "titleHtml": "Class Static Block",
-        "href": "https://github.com/tc39/proposal-class-static-block",
-        "stage": 2,
-        "authors": [
-            "Ron Buckton"
-        ],
-        "champions": [
-            "Ron Buckton"
-        ],
-        "meeting": "2020-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-22.md#class-static-initialization-block-for-stage-2"
     },
     {
         "titleHtml": "Resizable and growable ArrayBuffers",
