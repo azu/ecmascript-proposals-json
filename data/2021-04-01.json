@@ -2276,5 +2276,17 @@
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
         "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-23.md#async-context-updates--for-stage-1"
+    },
+    {
+        "titleHtml": "Change Array by copy",
+        "href": "https://github.com/rricard/proposal-change-array-by-copy",
+        "stage": 0,
+        "authors": [
+            "Robin Ricard"
+        ],
+        "champions": [
+            "Robin Ricard"
+        ],
+        "meeting": null
     }
 ]
