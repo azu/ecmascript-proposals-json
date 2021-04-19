@@ -805,19 +805,6 @@
         "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-11/nov-17.md#realms-for-stage-3"
     },
     {
-        "titleHtml": "<code>ArrayBuffer.prototype.transfer</code>",
-        "href": "https://github.com/domenic/proposal-arraybuffer-transfer",
-        "stage": 2,
-        "authors": [
-            "Domenic Denicola"
-        ],
-        "champions": [
-            "Shu-yu Guo"
-        ],
-        "meeting": "2018-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-07/july-24.md#arraybufferprototypetransfer"
-    },
-    {
         "titleHtml": "Sequence properties in Unicode property escapes",
         "href": "https://github.com/tc39/proposal-regexp-unicode-sequence-properties",
         "stage": 2,
