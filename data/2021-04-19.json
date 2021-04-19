@@ -535,6 +535,19 @@
         "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-21.md#numericliteralseparator-for-stage-4"
     },
     {
+        "titleHtml": "Private instance methods and accessors",
+        "href": "https://github.com/tc39/proposal-private-methods",
+        "stage": 4,
+        "authors": [
+            "Daniel Ehrenberg"
+        ],
+        "champions": [
+            "Daniel Ehrenberg",
+            "Kevin Gibbons"
+        ],
+        "meeting": "2021-04-01T00:00:00.000Z"
+    },
+    {
         "titleHtml": "Legacy RegExp features in JavaScript",
         "href": "https://github.com/tc39/proposal-regexp-legacy-features",
         "stage": 3,
@@ -547,54 +560,6 @@
         ],
         "meeting": "2017-05-01T00:00:00.000Z",
         "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2017-05/may-25.md#15ia-regexp-legacy-features-for-stage-3"
-    },
-    {
-        "titleHtml": "Private instance methods and accessors",
-        "href": "https://github.com/tc39/proposal-private-methods",
-        "stage": 3,
-        "authors": [
-            "Daniel Ehrenberg"
-        ],
-        "champions": [
-            "Daniel Ehrenberg",
-            "Kevin Gibbons"
-        ],
-        "meeting": "2020-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-23.md#status-update-for-class-fields-private-methods-static-class-features"
-    },
-    {
-        "titleHtml": "Class Public Instance Fields &amp; Private Instance Fields",
-        "href": "https://github.com/tc39/proposal-class-fields",
-        "stage": 3,
-        "authors": [
-            "Daniel Ehrenberg",
-            "Kevin Gibbons"
-        ],
-        "champions": [
-            "Daniel Ehrenberg",
-            "Jeff Morrison",
-            "Kevin Smith",
-            "Kevin Gibbons"
-        ],
-        "meeting": "2020-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-23.md#status-update-for-class-fields-private-methods-static-class-features"
-    },
-    {
-        "titleHtml": "Static class fields and private static methods",
-        "href": "https://github.com/tc39/proposal-static-class-features",
-        "stage": 3,
-        "authors": [
-            "Daniel Ehrenberg",
-            "Kevin Gibbons",
-            "Jeff Morrison",
-            "Kevin Smith"
-        ],
-        "champions": [
-            "Shu-Yu Guo",
-            "Daniel Ehrenberg"
-        ],
-        "meeting": "2020-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-23.md#status-update-for-class-fields-private-methods-static-class-features"
     },
     {
         "titleHtml": "Hashbang Grammar",
