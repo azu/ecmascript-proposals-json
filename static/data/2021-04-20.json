@@ -981,6 +981,18 @@
         "meeting": "2021-01-01T00:00:00.000Z"
     },
     {
+        "titleHtml": "Object.hasOwn",
+        "href": "https://github.com/tc39-transfer/proposal-object-has",
+        "stage": 2,
+        "authors": [
+            "Jamie Kyle"
+        ],
+        "champions": [
+            "Tierney Cyren"
+        ],
+        "meeting": "2021-04-01T00:00:00.000Z"
+    },
+    {
         "titleHtml": "<code>export v from &quot;mod&quot;;</code> statements",
         "href": "https://github.com/tc39/proposal-export-default-from",
         "stage": 1,
