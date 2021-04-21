@@ -993,6 +993,28 @@
         "meeting": "2021-04-01T00:00:00.000Z"
     },
     {
+        "titleHtml": "Symbols as WeakMap keys",
+        "href": "https://github.com/tc39/proposal-symbols-as-weakmap-keys",
+        "stage": 2,
+        "authors": [
+            "Daniel Ehrenberg",
+            "Richard Button",
+            "Robin Ricard",
+            "Leo Balter",
+            "Rick Waldron",
+            "Caridy Patiño"
+        ],
+        "champions": [
+            "Daniel Ehrenberg",
+            "Richard Button",
+            "Robin Ricard",
+            "Leo Balter",
+            "Rick Waldron",
+            "Caridy Patiño"
+        ],
+        "meeting": "2021-04-01T00:00:00.000Z"
+    },
+    {
         "titleHtml": "<code>export v from &quot;mod&quot;;</code> statements",
         "href": "https://github.com/tc39/proposal-export-default-from",
         "stage": 1,
@@ -1391,14 +1413,24 @@
         "href": "https://github.com/tc39/proposal-pattern-matching",
         "stage": 1,
         "authors": [
-            "Kat Marchán",
-            "Brian Terlson"
+            "Jordan Harband",
+            "Mark Cohen",
+            "Tab Atkins",
+            "Yulia Startsev",
+            "Daniel Rosenwasser",
+            "Jack Works",
+            "Ross Kirsling"
         ],
         "champions": [
-            "Jordan Harband"
+            "Jordan Harband",
+            "Mark Cohen",
+            "Tab Atkins",
+            "Yulia Startsev",
+            "Daniel Rosenwasser",
+            "Jack Works",
+            "Ross Kirsling"
         ],
-        "meeting": "2020-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-03/march-31.md#pattern-matching-update"
+        "meeting": "2021-04-01T00:00:00.000Z"
     },
     {
         "titleHtml": "Dynamic Modules",
@@ -1789,23 +1821,6 @@
         ],
         "meeting": "2020-03-01T00:00:00.000Z",
         "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-03/april-1.md#compartments-for-stage-1"
-    },
-    {
-        "titleHtml": "Symbols as WeakMap keys",
-        "href": "https://github.com/tc39/proposal-symbols-as-weakmap-keys",
-        "stage": 1,
-        "authors": [
-            "Daniel Ehrenberg",
-            "Richard Button",
-            "Robin Ricard"
-        ],
-        "champions": [
-            "Daniel Ehrenberg",
-            "Richard Button",
-            "Robin Ricard"
-        ],
-        "meeting": "2020-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-22.md#symbols-as-weakmap-keys-for-stage-2"
     },
     {
         "titleHtml": "Deep Path Properties in Record Literals",
