@@ -981,8 +981,8 @@
         "meeting": "2021-01-01T00:00:00.000Z"
     },
     {
-        "titleHtml": "Object.hasOwn",
-        "href": "https://github.com/tc39-transfer/proposal-object-has",
+        "titleHtml": "Accessible <code>Object.prototype.hasOwnProperty</code>",
+        "href": "https://github.com/tc39-transfer/proposal-accessible-object-hasownproperty",
         "stage": 2,
         "authors": [
             "Jamie Kyle"
