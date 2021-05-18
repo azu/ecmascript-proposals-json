@@ -11,7 +11,7 @@
             "Rick Waldron"
         ],
         "meeting": "2015-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2015-11/nov-17.md#arrayprototypeincludes"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2015-11/nov-17.md#arrayprototypeincludes"
     },
     {
         "titleHtml": "Exponentiation operator",
@@ -24,7 +24,7 @@
             "Rick Waldron"
         ],
         "meeting": "2016-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2016-01/jan-28.md#5xviii-exponentiation-operator-rw"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2016-01/jan-28.md#5xviii-exponentiation-operator-rw"
     },
     {
         "titleHtml": "<code>Object.values</code>/<code>Object.entries</code>",
@@ -37,7 +37,7 @@
             "Jordan Harband"
         ],
         "meeting": "2016-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2016-03/march-29.md#objectvalues--objectentries"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2016-03/march-29.md#objectvalues--objectentries"
     },
     {
         "titleHtml": "String padding",
@@ -51,7 +51,7 @@
             "Rick Waldron"
         ],
         "meeting": "2016-05-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2016-05/may-25.md#stringprototypepadstartend-jhd"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2016-05/may-25.md#stringprototypepadstartend-jhd"
     },
     {
         "titleHtml": "<code>Object.getOwnPropertyDescriptors</code>",
@@ -66,7 +66,7 @@
             "Andrea Giammarchi"
         ],
         "meeting": "2016-05-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2016-05/may-25.md#objectgetownpropertydescriptors-jhd"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2016-05/may-25.md#objectgetownpropertydescriptors-jhd"
     },
     {
         "titleHtml": "Trailing commas in function parameter lists and calls",
@@ -79,7 +79,7 @@
             "Jeff Morrison"
         ],
         "meeting": "2016-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2016-07/jul-26.md#9ie-trailing-commas-in-functions"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2016-07/jul-26.md#9ie-trailing-commas-in-functions"
     },
     {
         "titleHtml": "Async functions",
@@ -92,7 +92,7 @@
             "Brian Terlson"
         ],
         "meeting": "2016-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2016-07/jul-28.md#10iv-async-functions"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2016-07/jul-28.md#10iv-async-functions"
     },
     {
         "titleHtml": "Shared memory and atomics",
@@ -105,7 +105,7 @@
             "Lars T Hansen"
         ],
         "meeting": "2017-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2017-01/jan-24.md#13if-seeking-stage-4-for-sharedarraybuffer"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2017-01/jan-24.md#13if-seeking-stage-4-for-sharedarraybuffer"
     },
     {
         "titleHtml": "Lifting template literal restriction",
@@ -118,7 +118,7 @@
             "Tim Disney"
         ],
         "meeting": "2017-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2017-03/mar-21.md#10ia-template-literal-updates"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2017-03/mar-21.md#10ia-template-literal-updates"
     },
     {
         "titleHtml": "<code>s</code> (<code>dotAll</code>) flag for regular expressions",
@@ -132,7 +132,7 @@
             "Mathias Bynens"
         ],
         "meeting": "2017-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2017-11/nov-28.md#9ie-regexp-dotall-status-update"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2017-11/nov-28.md#9ie-regexp-dotall-status-update"
     },
     {
         "titleHtml": "RegExp named capture groups",
@@ -148,7 +148,7 @@
             "Mathias Bynens"
         ],
         "meeting": "2017-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2017-11/nov-28.md#9if-regexp-named-captures-status-update"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2017-11/nov-28.md#9if-regexp-named-captures-status-update"
     },
     {
         "titleHtml": "Rest/Spread Properties",
@@ -161,7 +161,7 @@
             "Sebastian Markbåge"
         ],
         "meeting": "2018-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-01/jan-23.md#restspread-properties-for-stage-4"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-01/jan-23.md#restspread-properties-for-stage-4"
     },
     {
         "titleHtml": "RegExp Lookbehind Assertions",
@@ -177,7 +177,7 @@
             "Mathias Bynens"
         ],
         "meeting": "2018-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-01/jan-23.md#conclusionresolution-16"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-01/jan-23.md#conclusionresolution-16"
     },
     {
         "titleHtml": "RegExp Unicode Property Escapes",
@@ -192,7 +192,7 @@
             "Mathias Bynens"
         ],
         "meeting": "2018-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-01/jan-24.md#conclusionresolution-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-01/jan-24.md#conclusionresolution-1"
     },
     {
         "titleHtml": "<code>Promise.prototype.finally</code>",
@@ -205,7 +205,7 @@
             "Jordan Harband"
         ],
         "meeting": "2018-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-01/jan-24.md#conclusionresolution-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-01/jan-24.md#conclusionresolution-2"
     },
     {
         "titleHtml": "Asynchronous Iteration",
@@ -218,7 +218,7 @@
             "Domenic Denicola"
         ],
         "meeting": "2018-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-01/jan-25.md#conclusionresolution"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-01/jan-25.md#conclusionresolution"
     },
     {
         "titleHtml": "Optional <code>catch</code> binding",
@@ -231,7 +231,7 @@
             "Michael Ficarra"
         ],
         "meeting": "2018-05-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-05/may-22.md#conclusionresolution-7"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-05/may-22.md#conclusionresolution-7"
     },
     {
         "titleHtml": "JSON superset",
@@ -245,7 +245,7 @@
             "Mathias Bynens"
         ],
         "meeting": "2018-05-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-05/may-22.md#conclusionresolution-8"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-05/may-22.md#conclusionresolution-8"
     },
     {
         "titleHtml": "<code>Symbol.prototype.description</code>",
@@ -258,7 +258,7 @@
             "Michael Ficarra"
         ],
         "meeting": "2018-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-11/nov-27.md#conclusionresolution-12"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-11/nov-27.md#conclusionresolution-12"
     },
     {
         "titleHtml": "<code>Function.prototype.toString</code> revision",
@@ -271,7 +271,7 @@
             "Michael Ficarra"
         ],
         "meeting": "2018-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-11/nov-27.md#conclusionresolution-13"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-11/nov-27.md#conclusionresolution-13"
     },
     {
         "titleHtml": "<code>Object.fromEntries</code>",
@@ -285,7 +285,7 @@
             "Kevin Gibbons"
         ],
         "meeting": "2019-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-01/jan-29.md#objectfromentries-for-stage-4"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-01/jan-29.md#objectfromentries-for-stage-4"
     },
     {
         "titleHtml": "Well-formed <code>JSON.stringify</code>",
@@ -298,7 +298,7 @@
             "Mathias Bynens"
         ],
         "meeting": "2019-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-01/jan-29.md#well-formed-jsonstringify-for-stage-4"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-01/jan-29.md#well-formed-jsonstringify-for-stage-4"
     },
     {
         "titleHtml": "<code>String.prototype.{trimStart,trimEnd}</code>",
@@ -312,7 +312,7 @@
             "Mathias Bynens"
         ],
         "meeting": "2019-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-01/jan-29.md#stringprototypetrimstarttrimend-for-stage-4"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-01/jan-29.md#stringprototypetrimstarttrimend-for-stage-4"
     },
     {
         "titleHtml": "<code>Array.prototype.{flat,flatMap}</code>",
@@ -328,7 +328,7 @@
             "Michael Ficarra"
         ],
         "meeting": "2019-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-01/jan-29.md#arrayprototypeflatflatmap-for-stage-4"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-01/jan-29.md#arrayprototypeflatflatmap-for-stage-4"
     },
     {
         "titleHtml": "<code>String.prototype.matchAll</code>",
@@ -341,7 +341,7 @@
             "Jordan Harband"
         ],
         "meeting": "2019-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-03/mar-26.md#stringprototypematchall-for-stage-4"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-03/mar-26.md#stringprototypematchall-for-stage-4"
     },
     {
         "titleHtml": "<code>import()</code>",
@@ -354,7 +354,7 @@
             "Domenic Denicola"
         ],
         "meeting": "2019-06-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-06/june-4.md#dynamic-import-for-stage-4"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-06/june-4.md#dynamic-import-for-stage-4"
     },
     {
         "titleHtml": "<code>BigInt</code>",
@@ -367,7 +367,7 @@
             "Daniel Ehrenberg"
         ],
         "meeting": "2019-06-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-06/june-4.md#bigint-to-stage-4"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-06/june-4.md#bigint-to-stage-4"
     },
     {
         "titleHtml": "<code>Promise.allSettled</code>",
@@ -382,7 +382,7 @@
             "Mathias Bynens"
         ],
         "meeting": "2019-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-07/july-24.md#promiseallsettled"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-07/july-24.md#promiseallsettled"
     },
     {
         "titleHtml": "<code>globalThis</code>",
@@ -395,7 +395,7 @@
             "Jordan Harband"
         ],
         "meeting": "2019-10-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-10/october-1.md#globalthis-to-stage-4"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-10/october-1.md#globalthis-to-stage-4"
     },
     {
         "titleHtml": "<code>for-in</code> mechanics",
@@ -408,7 +408,7 @@
             "Kevin Gibbons"
         ],
         "meeting": "2019-12-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-4.md#for-in-order-for-stage-4"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-12/december-4.md#for-in-order-for-stage-4"
     },
     {
         "titleHtml": "Optional Chaining",
@@ -426,7 +426,7 @@
             "Daniel Rosenwasser"
         ],
         "meeting": "2019-12-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-4.md#optional-chaining-for-stage-4"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-12/december-4.md#optional-chaining-for-stage-4"
     },
     {
         "titleHtml": "Nullish coalescing Operator",
@@ -441,7 +441,7 @@
             "Daniel Rosenwasser"
         ],
         "meeting": "2019-12-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-4.md#nullish-coalescing-for-stage-4"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-12/december-4.md#nullish-coalescing-for-stage-4"
     },
     {
         "titleHtml": "<code>import.meta</code>",
@@ -454,7 +454,7 @@
             "Gus Caplan"
         ],
         "meeting": "2020-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-03/april-1.md#importmeta-for-stage-4-continued-from-previous-day"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-03/april-1.md#importmeta-for-stage-4-continued-from-previous-day"
     },
     {
         "titleHtml": "<code>String.prototype.replaceAll</code>",
@@ -469,7 +469,7 @@
             "Mathias Bynens"
         ],
         "meeting": "2020-06-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-06/june-2.md#stringprototypereplaceall-for-stage-4"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-06/june-2.md#stringprototypereplaceall-for-stage-4"
     },
     {
         "titleHtml": "<code>Promise.any</code>",
@@ -484,7 +484,7 @@
             "Mathias Bynens"
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-21.md#promiseany--aggregateerror-for-stage-4"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-07/july-21.md#promiseany--aggregateerror-for-stage-4"
     },
     {
         "titleHtml": "WeakRefs",
@@ -502,7 +502,7 @@
             "Daniel Ehrenberg"
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-21.md#weakrefs-for-stage-4--cleanupsome-for-stage-23"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-07/july-21.md#weakrefs-for-stage-4--cleanupsome-for-stage-23"
     },
     {
         "titleHtml": "Logical Assignment Operators",
@@ -516,7 +516,7 @@
             "Hemanth HM"
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-21.md#logical-assignment-for-stage-4"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-07/july-21.md#logical-assignment-for-stage-4"
     },
     {
         "titleHtml": "Numeric separators",
@@ -532,7 +532,7 @@
             "Leo Balter"
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-21.md#numericliteralseparator-for-stage-4"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-07/july-21.md#numericliteralseparator-for-stage-4"
     },
     {
         "titleHtml": "Private instance methods and accessors",
@@ -546,7 +546,7 @@
             "Kevin Gibbons"
         ],
         "meeting": "2021-04-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-04/apr-19.md#class-fields-private-methods-and-static-class-features-for-stage-4"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-04/apr-19.md#class-fields-private-methods-and-static-class-features-for-stage-4"
     },
     {
         "titleHtml": "Legacy RegExp features in JavaScript",
@@ -560,7 +560,7 @@
             "Claude Pache"
         ],
         "meeting": "2017-05-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2017-05/may-25.md#15ia-regexp-legacy-features-for-stage-3"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2017-05/may-25.md#15ia-regexp-legacy-features-for-stage-3"
     },
     {
         "titleHtml": "Hashbang Grammar",
@@ -573,7 +573,7 @@
             "Bradley Farias"
         ],
         "meeting": "2018-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-11/nov-28.md#hash-bang-grammar"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-11/nov-28.md#hash-bang-grammar"
     },
     {
         "titleHtml": "Top-level <code>await</code>",
@@ -586,7 +586,7 @@
             "Myles Borins"
         ],
         "meeting": "2019-06-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-06/june-6.md#top-level-await-for-stage-3"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-06/june-6.md#top-level-await-for-stage-3"
     },
     {
         "titleHtml": "RegExp Match Indices",
@@ -599,7 +599,7 @@
             "Ron Buckton"
         ],
         "meeting": "2020-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-11/nov-16.md#regexp-matches-indices-jsc-implementation-feedback"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-11/nov-16.md#regexp-matches-indices-jsc-implementation-feedback"
     },
     {
         "titleHtml": "<code>Atomics.waitAsync</code>",
@@ -613,7 +613,7 @@
             "Lars Hansen"
         ],
         "meeting": "2019-12-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-4.md#atomicswaitasync-for-stage-3"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-12/december-4.md#atomicswaitasync-for-stage-3"
     },
     {
         "titleHtml": "<code>.at()</code>",
@@ -628,7 +628,7 @@
             "Tab Atkins"
         ],
         "meeting": "2020-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-11/nov-17.md#item-rename--revisit-inclusion-on-string"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-11/nov-17.md#item-rename--revisit-inclusion-on-string"
     },
     {
         "titleHtml": "Import Assertions",
@@ -647,7 +647,7 @@
             "Daniel Ehrenberg"
         ],
         "meeting": "2020-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-11/nov-17.md#import-assertions-status-update"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-11/nov-17.md#import-assertions-status-update"
     },
     {
         "titleHtml": "JSON Modules",
@@ -666,7 +666,7 @@
             "Daniel Ehrenberg"
         ],
         "meeting": "2021-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-01/jan-25.md#json-modules-for-stage-3"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-01/jan-25.md#json-modules-for-stage-3"
     },
     {
         "titleHtml": "Ergonomic brand checks for Private Fields",
@@ -679,7 +679,7 @@
             "Jordan Harband"
         ],
         "meeting": "2021-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-01/jan-27.md#ergonomic-brand-checks"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-01/jan-27.md#ergonomic-brand-checks"
     },
     {
         "titleHtml": "Class Static Block",
@@ -692,7 +692,7 @@
             "Ron Buckton"
         ],
         "meeting": "2021-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-03/mar-9.md#class-static-initialization-blocks"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-03/mar-9.md#class-static-initialization-blocks"
     },
     {
         "titleHtml": "Error Cause",
@@ -706,7 +706,7 @@
             "Hemanth HM"
         ],
         "meeting": "2021-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-03/mar-10.md#errorprototypecause-for-stage-3"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-03/mar-10.md#errorprototypecause-for-stage-3"
     },
     {
         "titleHtml": "Temporal",
@@ -723,7 +723,7 @@
             "Brian Terlson"
         ],
         "meeting": "2021-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-03/mar-10.md#temporal-pt-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-03/mar-10.md#temporal-pt-2"
     },
     {
         "titleHtml": "<code>function.sent</code> metaproperty",
@@ -736,7 +736,7 @@
             "HE Shi-Jun"
         ],
         "meeting": "2019-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-07/july-23.md#making-functionsent-inactive"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-07/july-23.md#making-functionsent-inactive"
     },
     {
         "titleHtml": "Decorators",
@@ -751,7 +751,7 @@
             "Daniel Ehrenberg"
         ],
         "meeting": "2020-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-23.md#decorators-a-new-proposal-iteration"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-09/sept-23.md#decorators-a-new-proposal-iteration"
     },
     {
         "titleHtml": "<code>throw</code> expressions",
@@ -764,7 +764,7 @@
             "Ron Buckton"
         ],
         "meeting": "2018-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-01/jan-24.md#13iiii-throw-expressions-for-stage-3"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-01/jan-24.md#13iiii-throw-expressions-for-stage-3"
     },
     {
         "titleHtml": "Function implementation hiding",
@@ -778,7 +778,7 @@
             "Michael Ficarra"
         ],
         "meeting": "2020-06-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-06/june-2.md#function-implementation-hiding-for-stage-3"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-06/june-2.md#function-implementation-hiding-for-stage-3"
     },
     {
         "titleHtml": "New Set methods",
@@ -792,7 +792,7 @@
             "Sathya Gunasekaran"
         ],
         "meeting": "2019-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-01/jan-29.md#update-on-set-methods"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-01/jan-29.md#update-on-set-methods"
     },
     {
         "titleHtml": "Realms",
@@ -808,7 +808,7 @@
             "Caridy Patiño"
         ],
         "meeting": "2020-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-11/nov-17.md#realms-for-stage-3"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-11/nov-17.md#realms-for-stage-3"
     },
     {
         "titleHtml": "Sequence properties in Unicode property escapes",
@@ -821,7 +821,7 @@
             "Mathias Bynens"
         ],
         "meeting": "2019-10-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-10/october-2.md#update-on-sequence-property-escapes-in-unicode-regular-expressions"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-10/october-2.md#update-on-sequence-property-escapes-in-unicode-regular-expressions"
     },
     {
         "titleHtml": "collection normalization",
@@ -834,7 +834,7 @@
             "Bradley Farias"
         ],
         "meeting": "2019-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-01/jan-30.md#richer-keys-for-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-01/jan-30.md#richer-keys-for-stage-2"
     },
     {
         "titleHtml": "Array.isTemplateObject",
@@ -848,7 +848,7 @@
             "Krzysztof Kotowicz"
         ],
         "meeting": "2019-12-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-4.md#arrayistemplateobject-update"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-12/december-4.md#arrayistemplateobject-update"
     },
     {
         "titleHtml": "Iterator helpers",
@@ -862,7 +862,7 @@
             "Jonathan Keslin"
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-21.md#iterator-helpers-update"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-07/july-21.md#iterator-helpers-update"
     },
     {
         "titleHtml": "Explicit Resource Management",
@@ -875,7 +875,7 @@
             "Ron Buckton"
         ],
         "meeting": "2020-02-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-02/february-5.md#updates-on-explicit-resource-management"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-02/february-5.md#updates-on-explicit-resource-management"
     },
     {
         "titleHtml": "<code>Map.prototype.emplace</code>",
@@ -888,7 +888,7 @@
             "Erica Pramer"
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-22.md#upsert-now-renamed-emplace-updates--for-stage-3"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-07/july-22.md#upsert-now-renamed-emplace-updates--for-stage-3"
     },
     {
         "titleHtml": "Dynamic Import Host Adjustment",
@@ -902,7 +902,7 @@
             "Krzysztof Kotowicz"
         ],
         "meeting": "2019-12-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-5.md#dynamic-import-host-adjustment-for-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-12/december-5.md#dynamic-import-host-adjustment-for-stage-2"
     },
     {
         "titleHtml": "WeakRefs <code>cleanupSome</code>",
@@ -917,7 +917,7 @@
             "Daniel Ehrenberg"
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-21.md#weakrefs-for-stage-4--cleanupsome-for-stage-23"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-07/july-21.md#weakrefs-for-stage-4--cleanupsome-for-stage-23"
     },
     {
         "titleHtml": "Record &amp; Tuple",
@@ -932,7 +932,7 @@
             "Richard Button"
         ],
         "meeting": "2020-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-22.md#records--tuples"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-09/sept-22.md#records--tuples"
     },
     {
         "titleHtml": "JSON.parse source text access",
@@ -945,7 +945,7 @@
             "Richard Gibson"
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-22.md#jsonparse-source-text-access-for-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-07/july-22.md#jsonparse-source-text-access-for-stage-2"
     },
     {
         "titleHtml": "Resizable and growable ArrayBuffers",
@@ -958,7 +958,7 @@
             "Shu-yu Guo"
         ],
         "meeting": "2020-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-24.md#resizable-and-growable-arraybuffers-for-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-09/sept-24.md#resizable-and-growable-arraybuffers-for-stage-2"
     },
     {
         "titleHtml": "Module Blocks",
@@ -972,7 +972,7 @@
             "Surma"
         ],
         "meeting": "2021-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-01/jan-25.md#js-module-blocks"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-01/jan-25.md#js-module-blocks"
     },
     {
         "titleHtml": "Array find from last",
@@ -986,7 +986,7 @@
             "Daniel Rosenwasser"
         ],
         "meeting": "2021-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-03/mar-10.md#array-find-from-last"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-03/mar-10.md#array-find-from-last"
     },
     {
         "titleHtml": "Accessible <code>Object.prototype.hasOwnProperty</code>",
@@ -999,7 +999,7 @@
             "Tierney Cyren"
         ],
         "meeting": "2021-04-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-04/apr-20.md#objecthas-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-04/apr-20.md#objecthas-for-stage-1"
     },
     {
         "titleHtml": "Symbols as WeakMap keys",
@@ -1022,7 +1022,7 @@
             "Caridy Patiño"
         ],
         "meeting": "2021-04-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-04/apr-21.md#symbols-as-weakmap-keys-for-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-04/apr-21.md#symbols-as-weakmap-keys-for-stage-2"
     },
     {
         "titleHtml": "<code>export v from &quot;mod&quot;;</code> statements",
@@ -1036,7 +1036,7 @@
             "John-David Dalton"
         ],
         "meeting": "2017-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2017-07/jul-27.md#export-default-from"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2017-07/jul-27.md#export-default-from"
     },
     {
         "titleHtml": "Observable",
@@ -1050,7 +1050,7 @@
             "Mark Miller"
         ],
         "meeting": "2017-05-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2017-05/may-25.md#17iiia-observable-proposal-to-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2017-05/may-25.md#17iiia-observable-proposal-to-stage-2"
     },
     {
         "titleHtml": "SES (Secure EcmaScript)",
@@ -1067,7 +1067,7 @@
             "Caridy Patiño"
         ],
         "meeting": "2020-02-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-02/february-6.md#ses-compartments"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-02/february-6.md#ses-compartments"
     },
     {
         "titleHtml": "<code>Math</code> Extensions",
@@ -1080,7 +1080,7 @@
             "Rick Waldron"
         ],
         "meeting": "2016-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2016-07/jul-26.md#9iie-math-extensions"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2016-07/jul-26.md#9iie-math-extensions"
     },
     {
         "titleHtml": "<code>of</code> and <code>from</code> on collection constructors",
@@ -1093,7 +1093,7 @@
             "Leo Balter"
         ],
         "meeting": "2016-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2016-09/sept-29.md#11iic-set-map-weakset-and-weakmap-of-and-from-methods"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2016-09/sept-29.md#11iic-set-map-weakset-and-weakmap-of-and-from-methods"
     },
     {
         "titleHtml": "Generator arrow functions",
@@ -1106,7 +1106,7 @@
             "Brendan Eich"
         ],
         "meeting": "2016-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2016-09/sept-27.md#11ic-generator-arrow-functions"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2016-09/sept-27.md#11ic-generator-arrow-functions"
     },
     {
         "titleHtml": "<code>Promise.try</code>",
@@ -1119,7 +1119,7 @@
             "Jordan Harband"
         ],
         "meeting": "2016-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2016-11/nov-29.md#11iib-promisetry"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2016-11/nov-29.md#11iib-promisetry"
     },
     {
         "titleHtml": "<code>Math.signbit</code>: IEEE-754 sign bit",
@@ -1132,7 +1132,7 @@
             "JF Bastien"
         ],
         "meeting": "2017-05-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2017-05/may-23.md#16ib-mathsignbit-proposal"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2017-05/may-23.md#16ib-mathsignbit-proposal"
     },
     {
         "titleHtml": "Error stacks",
@@ -1145,7 +1145,7 @@
             "Jordan Harband"
         ],
         "meeting": "2017-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2017-01/jan-25.md#15iiia-error-stacks-seeking-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2017-01/jan-25.md#15iiia-error-stacks-seeking-stage-1"
     },
     {
         "titleHtml": "<code>do</code> expressions",
@@ -1158,7 +1158,7 @@
             "Kevin Gibbons"
         ],
         "meeting": "2020-06-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-06/june-1.md#do-expressions-for-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-06/june-1.md#do-expressions-for-stage-2"
     },
     {
         "titleHtml": "Float16 on TypedArrays, DataView, <code>Math.hfround</code>",
@@ -1171,7 +1171,7 @@
             "Leo Balter"
         ],
         "meeting": "2017-05-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2017-05/may-23.md#16ig-float16-on-typedarrays-dataview-mathhfround-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2017-05/may-23.md#16ig-float16-on-typedarrays-dataview-mathhfround-for-stage-1"
     },
     {
         "titleHtml": "Change <code>Number.parseInt</code>/<code>parseFloat</code> to not coerce <code>null</code>/<code>undefined</code>/<code>NaN</code> (repo link TBD)",
@@ -1181,7 +1181,7 @@
             "Brendan Eich"
         ],
         "meeting": "2017-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2017-07/jul-26.md#13iib-consider-changing-numberparseint-and-numberparsefloat"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2017-07/jul-26.md#13iib-consider-changing-numberparseint-and-numberparsefloat"
     },
     {
         "titleHtml": "Binary AST",
@@ -1194,7 +1194,7 @@
             "Shu-yu Guo"
         ],
         "meeting": "2018-05-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-05/may-24.md#binary-ast"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-05/may-24.md#binary-ast"
     },
     {
         "titleHtml": "Pipeline Operator",
@@ -1207,7 +1207,7 @@
             "Daniel Ehrenberg"
         ],
         "meeting": "2018-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-03/mar-22.md#10ive-pipeline-operator"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-03/mar-22.md#10ive-pipeline-operator"
     },
     {
         "titleHtml": "Extensible numeric literals",
@@ -1220,7 +1220,7 @@
             "Daniel Ehrenberg"
         ],
         "meeting": "2020-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-21.md#numeric-literal-suffixes-update-separate-namespace-version"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-09/sept-21.md#numeric-literal-suffixes-update-separate-namespace-version"
     },
     {
         "titleHtml": "First-class protocols",
@@ -1233,7 +1233,7 @@
             "Michael Ficarra"
         ],
         "meeting": "2018-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-07/july-25.md#updates-on-first-class-protocols"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-07/july-25.md#updates-on-first-class-protocols"
     },
     {
         "titleHtml": "Partial application",
@@ -1246,7 +1246,7 @@
             "Ron Buckton"
         ],
         "meeting": "2018-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-07/july-25.md#partial-application"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-07/july-25.md#partial-application"
     },
     {
         "titleHtml": "Cancellation API",
@@ -1260,7 +1260,7 @@
             "Brian Terlson"
         ],
         "meeting": "2018-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-07/july-25.md#cancellation-update"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-07/july-25.md#cancellation-update"
     },
     {
         "titleHtml": "<code>String.prototype.codePoints</code>",
@@ -1273,7 +1273,7 @@
             "Mathias Bynens"
         ],
         "meeting": "2018-05-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-05/may-22.md#stringprototypecodepoints-for-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-05/may-22.md#stringprototypecodepoints-for-stage-2"
     },
     {
         "titleHtml": "<code>Object.freeze</code> + <code>Object.seal</code> syntax",
@@ -1299,7 +1299,7 @@
             "Sam Goto"
         ],
         "meeting": "2017-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2017-11/nov-30.md#9iiia-block-params-to-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2017-11/nov-30.md#9iiia-block-params-to-stage-1"
     },
     {
         "titleHtml": "<code>{BigInt,Number}.fromString</code>",
@@ -1312,7 +1312,7 @@
             "Mathias Bynens"
         ],
         "meeting": "2018-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-01/jan-23.md#13iic-bigintnumberfromstring-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-01/jan-23.md#13iic-bigintnumberfromstring-for-stage-1"
     },
     {
         "titleHtml": "<code>Math.seededRandoms()</code>",
@@ -1325,7 +1325,7 @@
             "Tab Atkins"
         ],
         "meeting": "2018-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-01/jan-23.md#13iif-mathseededrandoms-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-01/jan-23.md#13iif-mathseededrandoms-for-stage-1"
     },
     {
         "titleHtml": "Maximally minimal mixins",
@@ -1338,7 +1338,7 @@
             "Justin Fagnani"
         ],
         "meeting": "2018-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-01/jan-23.md#13iiie-maximally-minimal-mixins-proposal"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-01/jan-23.md#13iiie-maximally-minimal-mixins-proposal"
     },
     {
         "titleHtml": "Getting last element of Array",
@@ -1351,7 +1351,7 @@
             "Keith Cirkel"
         ],
         "meeting": "2018-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-01/jan-24.md#13iiim-getting-last-item-from-array-for-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-01/jan-24.md#13iiim-getting-last-item-from-array-for-stage-2"
     },
     {
         "titleHtml": "Collection methods",
@@ -1364,7 +1364,7 @@
             "Sathya Gunasekaran"
         ],
         "meeting": "2018-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-01/jan-23.md#13iiik-new-set-builtin-methods-for-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-01/jan-23.md#13iiik-new-set-builtin-methods-for-stage-2"
     },
     {
         "titleHtml": "Richer Keys",
@@ -1377,7 +1377,7 @@
             "Bradley Farias"
         ],
         "meeting": "2019-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-01/jan-30.md#richer-keys-for-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-01/jan-30.md#richer-keys-for-stage-2"
     },
     {
         "titleHtml": "Slice notation",
@@ -1390,7 +1390,7 @@
             "Sathya Gunasekaran"
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-21.md#slice-notation-for-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-07/july-21.md#slice-notation-for-stage-2"
     },
     {
         "titleHtml": "Module Keys",
@@ -1403,7 +1403,7 @@
             "Mike Samuel"
         ],
         "meeting": "2018-05-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-05/may-23.md#module-keys-strawman-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-05/may-23.md#module-keys-strawman-for-stage-1"
     },
     {
         "titleHtml": "class Access Expressions",
@@ -1416,7 +1416,7 @@
             "Ron Buckton"
         ],
         "meeting": "2020-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-22.md#class-access-expressions-for-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-09/sept-22.md#class-access-expressions-for-stage-2"
     },
     {
         "titleHtml": "Pattern Matching",
@@ -1441,7 +1441,7 @@
             "Ross Kirsling"
         ],
         "meeting": "2021-04-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-04/apr-20.md#pattern-matching-update"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-04/apr-20.md#pattern-matching-update"
     },
     {
         "titleHtml": "Dynamic Modules",
@@ -1454,7 +1454,7 @@
             "Bradley Farias"
         ],
         "meeting": "2018-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-07/july-25.md#dynamic-modules"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-07/july-25.md#dynamic-modules"
     },
     {
         "titleHtml": "Built In Modules (aka JS Standard Library)",
@@ -1470,7 +1470,7 @@
             "Mark Miller"
         ],
         "meeting": "2020-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-24.md#builtin-modules-for-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-09/sept-24.md#builtin-modules-for-stage-2"
     },
     {
         "titleHtml": "<code>&quot;use module&quot;</code>",
@@ -1483,7 +1483,7 @@
             "Dave Herman"
         ],
         "meeting": "2017-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2017-07/jul-26.md#9ivb-modulescript-pragma-for-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2017-07/jul-26.md#9ivb-modulescript-pragma-for-stage-2"
     },
     {
         "titleHtml": "uniform parsing of quasi-standard <code>Date.parse</code> input",
@@ -1496,7 +1496,7 @@
             "Richard Gibson"
         ],
         "meeting": "2018-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-09/sept-26.md#uniform-parsing-of-quasi-standard-dateparse-input"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-09/sept-26.md#uniform-parsing-of-quasi-standard-dateparse-input"
     },
     {
         "titleHtml": "IDL for ECMAScript",
@@ -1509,7 +1509,7 @@
             "Daniel Ehrenberg"
         ],
         "meeting": "2018-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-09/sept-27.md#idl-for-javascript"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-09/sept-27.md#idl-for-javascript"
     },
     {
         "titleHtml": "Asset References",
@@ -1522,7 +1522,7 @@
             "Sebastian Markbage"
         ],
         "meeting": "2018-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2018-11/nov-28.md#asset-references-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2018-11/nov-28.md#asset-references-for-stage-1"
     },
     {
         "titleHtml": "Freezing prototypes",
@@ -1535,7 +1535,7 @@
             "Kevin Gibbons"
         ],
         "meeting": "2019-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-01/jan-31.md#freezing-prototypes-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-01/jan-31.md#freezing-prototypes-for-stage-1"
     },
     {
         "titleHtml": "<code>new.initialize</code>",
@@ -1548,7 +1548,7 @@
             "Daniel Ehrenberg"
         ],
         "meeting": "2019-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-01/jan-31.md#newinitialize-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-01/jan-31.md#newinitialize-for-stage-1"
     },
     {
         "titleHtml": "Private declarations",
@@ -1561,7 +1561,7 @@
             "Justin Ridgewell"
         ],
         "meeting": "2019-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-03/mar-28.md#private-declarations-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-03/mar-28.md#private-declarations-for-stage-1"
     },
     {
         "titleHtml": "Emitter",
@@ -1576,7 +1576,7 @@
             "Pedram Emrouznejad"
         ],
         "meeting": "2019-06-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-06/june-5.md#emitter-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-06/june-5.md#emitter-for-stage-1"
     },
     {
         "titleHtml": "Dynamic Code Brand Checks",
@@ -1590,7 +1590,7 @@
             "Krzysztof Kotowicz"
         ],
         "meeting": "2019-12-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-5.md#dynamic-code-brand-checks-for-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-12/december-5.md#dynamic-code-brand-checks-for-stage-2"
     },
     {
         "titleHtml": "Reverse iteration",
@@ -1605,7 +1605,7 @@
             "Jordan Harband"
         ],
         "meeting": "2019-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-07/july-23.md#symbolreverse"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-07/july-23.md#symbolreverse"
     },
     {
         "titleHtml": "Declarations in Conditionals",
@@ -1618,7 +1618,7 @@
             "Devin Rousso"
         ],
         "meeting": "2019-10-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-10/october-2.md#declarations-in-conditionals"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-10/october-2.md#declarations-in-conditionals"
     },
     {
         "titleHtml": "UUID",
@@ -1633,7 +1633,7 @@
             "Benjamin Coe"
         ],
         "meeting": "2019-10-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-10/october-3.md#uuid-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-10/october-3.md#uuid-for-stage-1"
     },
     {
         "titleHtml": "Readonly Collections",
@@ -1648,7 +1648,7 @@
             "Peter Hoddie"
         ],
         "meeting": "2019-10-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-10/october-3.md#readonly-collections-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-10/october-3.md#readonly-collections-for-stage-1"
     },
     {
         "titleHtml": "Support for Distributed Promise Pipelining",
@@ -1665,7 +1665,7 @@
             "Michael Fig"
         ],
         "meeting": "2019-10-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-10/october-3.md#eventual-send-support-for-distributed-promise-pipelining"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-10/october-3.md#eventual-send-support-for-distributed-promise-pipelining"
     },
     {
         "titleHtml": "Wavy Dot: Syntactic Support for Promise Pipelining",
@@ -1682,7 +1682,7 @@
             "Michael Fig"
         ],
         "meeting": "2019-12-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-5.md#update-on-promise-pipelining"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-12/december-5.md#update-on-promise-pipelining"
     },
     {
         "titleHtml": "OOM Fails Fast",
@@ -1695,7 +1695,7 @@
             "Mark Miller"
         ],
         "meeting": "2019-12-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-5.md#update-on-oom-must-fail-fast"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-12/december-5.md#update-on-oom-must-fail-fast"
     },
     {
         "titleHtml": "Array filtering",
@@ -1708,7 +1708,7 @@
             "Justin Ridgewell"
         ],
         "meeting": "2020-02-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-02/february-5.md#status-update-on-array-filtering"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-02/february-5.md#status-update-on-array-filtering"
     },
     {
         "titleHtml": "Operator overloading",
@@ -1721,7 +1721,7 @@
             "Daniel Ehrenberg"
         ],
         "meeting": "2019-12-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-5.md#operator-overloading-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2019-12/december-5.md#operator-overloading-for-stage-1"
     },
     {
         "titleHtml": "Async initialization",
@@ -1734,7 +1734,7 @@
             "Bradley Farias"
         ],
         "meeting": "2020-02-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-02/february-4.md#async-initialization-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-02/february-4.md#async-initialization-for-stage-1"
     },
     {
         "titleHtml": "Decimal",
@@ -1749,7 +1749,7 @@
             "Andrew Paprocki"
         ],
         "meeting": "2020-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-03/march-31.md#decimal-update"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-03/march-31.md#decimal-update"
     },
     {
         "titleHtml": "Preserve Host Virtualizability",
@@ -1770,7 +1770,7 @@
             "Alan Schmitt"
         ],
         "meeting": "2020-02-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-02/february-4.md#preserve-host-virtualizability"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-02/february-4.md#preserve-host-virtualizability"
     },
     {
         "titleHtml": "Legacy reflection features for functions in JavaScript",
@@ -1787,7 +1787,7 @@
             "Jack Works"
         ],
         "meeting": "2020-02-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-02/february-5.md#legacy-reflection-features-for-functions-in-javascript-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-02/february-5.md#legacy-reflection-features-for-functions-in-javascript-for-stage-1"
     },
     {
         "titleHtml": "Cryptographically Secure Random Number Generation",
@@ -1800,7 +1800,7 @@
             "Ron Buckton"
         ],
         "meeting": "2020-02-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-02/february-5.md#arraybufferfillrandom-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-02/february-5.md#arraybufferfillrandom-for-stage-1"
     },
     {
         "titleHtml": "Number.range &amp; BigInt.range",
@@ -1813,7 +1813,7 @@
             "Jack Works"
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-22.md#numberrange-for-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-07/july-22.md#numberrange-for-stage-2"
     },
     {
         "titleHtml": "Compartments",
@@ -1831,7 +1831,7 @@
             "Kris Kowal"
         ],
         "meeting": "2020-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-03/april-1.md#compartments-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-03/april-1.md#compartments-for-stage-1"
     },
     {
         "titleHtml": "Deep Path Properties in Record Literals",
@@ -1844,7 +1844,7 @@
             "Rick Button"
         ],
         "meeting": "2020-06-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-06/june-3.md#deep-path-properties"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-06/june-3.md#deep-path-properties"
     },
     {
         "titleHtml": "Restrict subclassing support in built-in methods",
@@ -1859,7 +1859,7 @@
             "Shu-yu Guo"
         ],
         "meeting": "2020-06-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-06/june-3.md#restrict-subclassing-support-for-built-in-methods-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-06/june-3.md#restrict-subclassing-support-for-built-in-methods-stage-1"
     },
     {
         "titleHtml": "Array Equality",
@@ -1874,7 +1874,7 @@
             "Jordan Harband"
         ],
         "meeting": "2020-06-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-06/june-4.md#generic-comparison"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-06/june-4.md#generic-comparison"
     },
     {
         "titleHtml": "await operations",
@@ -1888,7 +1888,7 @@
             "Jordan Harband"
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-22.md#await-operations-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-07/july-22.md#await-operations-for-stage-1"
     },
     {
         "titleHtml": "<code>Array.prototype.unique()</code>",
@@ -1901,7 +1901,7 @@
             "Jack Works"
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-22.md#arrayprototypeunique-proposal-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-07/july-22.md#arrayprototypeunique-proposal-for-stage-1"
     },
     {
         "titleHtml": "String.dedent",
@@ -1917,7 +1917,7 @@
             "Justin Ridgewell"
         ],
         "meeting": "2020-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-23.md#stringdedent-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-09/sept-23.md#stringdedent-for-stage-1"
     },
     {
         "titleHtml": "Double-Ended Iterator and Destructuring",
@@ -1930,7 +1930,7 @@
             "HE Shi-Jun"
         ],
         "meeting": "2020-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-24.md#double-ended-iterator-and-destructuring-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-09/sept-24.md#double-ended-iterator-and-destructuring-for-stage-1"
     },
     {
         "titleHtml": "Standardized Debug",
@@ -1943,7 +1943,7 @@
             "Gus Caplan"
         ],
         "meeting": "2021-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-11/nov-17.md#standardized-debug-for-stage-2"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-11/nov-17.md#standardized-debug-for-stage-2"
     },
     {
         "titleHtml": "Modulus and Additional Integer Math",
@@ -1956,7 +1956,7 @@
             "Peter Hoddie"
         ],
         "meeting": "2020-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-24.md#modulus-and-additional-integer-math-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-09/sept-24.md#modulus-and-additional-integer-math-for-stage-1"
     },
     {
         "titleHtml": "Extensions",
@@ -1969,7 +1969,7 @@
             "HE Shi-Jun"
         ],
         "meeting": "2020-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-11/nov-19.md#extensions-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-11/nov-19.md#extensions-for-stage-1"
     },
     {
         "titleHtml": "Grouped Accessors and Auto-Accessors",
@@ -1982,7 +1982,7 @@
             "Ron Buckton"
         ],
         "meeting": "2020-11-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-11/nov-19.md#continuation-grouped-accessors-and-auto-accessors"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-11/nov-19.md#continuation-grouped-accessors-and-auto-accessors"
     },
     {
         "titleHtml": "<code>async do</code> expressions",
@@ -1995,7 +1995,7 @@
             "Kevin Gibbons"
         ],
         "meeting": "2021-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-01/jan-27.md#async-do-expressions"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-01/jan-27.md#async-do-expressions"
     },
     {
         "titleHtml": "Class Brand Checks",
@@ -2008,7 +2008,7 @@
             "HE Shi-Jun"
         ],
         "meeting": "2021-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-01/jan-27.md#class-brand-checks"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-01/jan-27.md#class-brand-checks"
     },
     {
         "titleHtml": "Adopting Unicode behavior for set notation in regular expressions",
@@ -2022,7 +2022,7 @@
             "Mathias Bynens"
         ],
         "meeting": "2021-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-01/jan-28.md#regexp-set-notation-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-01/jan-28.md#regexp-set-notation-for-stage-1"
     },
     {
         "titleHtml": "Escaping Strings for RegExps",
@@ -2037,7 +2037,7 @@
             "Jordan Harband"
         ],
         "meeting": "2021-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-01/jan-28.md#revisiting-regexp-escape"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-01/jan-28.md#revisiting-regexp-escape"
     },
     {
         "titleHtml": "defer module import eval",
@@ -2050,7 +2050,7 @@
             "Yulia Startsev"
         ],
         "meeting": "2021-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-01/jan-28.md#defer-module-import-eval"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-01/jan-28.md#defer-module-import-eval"
     },
     {
         "titleHtml": "JavaScript module fragments",
@@ -2064,7 +2064,7 @@
             "Mark Miller"
         ],
         "meeting": "2021-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-03/mar-9.md#module-fragments-for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-03/mar-9.md#module-fragments-for-stage-1"
     },
     {
         "titleHtml": "Change Array by copy",
@@ -2077,11 +2077,24 @@
             "Robin Ricard"
         ],
         "meeting": "2021-04-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2021-04/apr-20.md#change-array-by-copy"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-04/apr-20.md#change-array-by-copy"
+    },
+    {
+        "titleHtml": "Limited ArrayBuffer",
+        "href": "https://github.com/Jack-Works/proposal-limited-arraybuffer",
+        "stage": 1,
+        "authors": [
+            "Jack Works"
+        ],
+        "champions": [
+            "Jack Works"
+        ],
+        "meeting": "2021-04-01T00:00:00.000Z",
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-04/apr-21.md#read-only-arraybuffer-and-fixed-view-of-arraybuffer-for-stage-1"
     },
     {
         "titleHtml": "Additional metaproperties",
-        "href": "https://github.com/allenwb/ESideas/blob/master/ES7MetaProps.md",
+        "href": "https://github.com/allenwb/ESideas/blob/HEAD/ES7MetaProps.md",
         "stage": 0,
         "authors": [
             "Allen Wirfs-Brock"
@@ -2117,7 +2130,7 @@
             "Matthew Podwysocki"
         ],
         "meeting": "2015-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2015-03/mar-25.md#6vi-function-bind-and-private-fields-redux-kevin-smith"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2015-03/mar-25.md#6vi-function-bind-and-private-fields-redux-kevin-smith"
     },
     {
         "titleHtml": "Function expression decorators",
@@ -2145,7 +2158,7 @@
     },
     {
         "titleHtml": "Nested <code>import</code> declarations",
-        "href": "https://github.com/benjamn/reify/blob/master/PROPOSAL.md",
+        "href": "https://github.com/benjamn/reify/blob/HEAD/PROPOSAL.md",
         "stage": 0,
         "authors": [
             "Ben Newman"
@@ -2154,7 +2167,7 @@
             "Ben Newman"
         ],
         "meeting": "2016-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2016-07/jul-27.md#10iiic-nested-import-declaration"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2016-07/jul-27.md#10iiic-nested-import-declaration"
     },
     {
         "titleHtml": "Orthogonal Classes",
@@ -2169,11 +2182,11 @@
             "Allen Wirfs-Brock"
         ],
         "meeting": "2017-03-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2017-03/mar-22.md#10iiia-orthogonal-classes"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2017-03/mar-22.md#10iiia-orthogonal-classes"
     },
     {
         "titleHtml": "<code>Reflect.{isCallable,isConstructor}</code>",
-        "href": "https://github.com/caitp/TC39-Proposals/blob/master/tc39-reflect-isconstructor-iscallable.md",
+        "href": "https://github.com/caitp/TC39-Proposals/blob/HEAD/tc39-reflect-isconstructor-iscallable.md",
         "stage": 0,
         "authors": [
             "Caitlin Potter"
@@ -2208,7 +2221,7 @@
             "Dmitry Lomov"
         ],
         "meeting": "2014-01-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2014-01/jan-30.md#structured-clone"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2014-01/jan-30.md#structured-clone"
     },
     {
         "titleHtml": "WHATWG URL",
@@ -2233,7 +2246,7 @@
             "Ron Buckton"
         ],
         "meeting": "2017-09-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2017-09/sept-28.md#13i-object-shorthand-improvements"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2017-09/sept-28.md#13i-object-shorthand-improvements"
     },
     {
         "titleHtml": "<code>deprecated</code>",
@@ -2284,6 +2297,6 @@
             "Chengzhong Wu"
         ],
         "meeting": "2020-07-01T00:00:00.000Z",
-        "meetingHref": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-23.md#async-context-updates--for-stage-1"
+        "meetingHref": "https://github.com/tc39/notes/blob/HEAD/meetings/2020-07/july-23.md#async-context-updates--for-stage-1"
     }
 ]
