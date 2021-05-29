@@ -76,6 +76,9 @@ await Promise.all(items.map(async (filePath) => {
             }
         ] : [],
             pushed_at: `${fileName}T00:00:00.000Z`,
+            "tags": [
+                "ECMA-262"
+            ],
             "_format": "old-2021-05-29"
         }
     });

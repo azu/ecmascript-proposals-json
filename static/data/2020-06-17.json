@@ -18,7 +18,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Exponentiation operator",
@@ -38,7 +41,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>Object.values</code>/<code>Object.entries</code>",
@@ -58,7 +64,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "String padding",
@@ -79,7 +88,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>Object.getOwnPropertyDescriptors</code>",
@@ -101,7 +113,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Trailing commas in function parameter lists and calls",
@@ -121,7 +136,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Async functions",
@@ -141,7 +159,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Shared memory and atomics",
@@ -161,7 +182,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Lifting template literal restriction",
@@ -181,7 +205,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>s</code> (<code>dotAll</code>) flag for regular expressions",
@@ -202,7 +229,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "RegExp named capture groups",
@@ -225,7 +255,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Rest/Spread Properties",
@@ -245,7 +278,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "RegExp Lookbehind Assertions",
@@ -268,7 +304,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "RegExp Unicode Property Escapes",
@@ -290,7 +329,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>Promise.prototype.finally</code>",
@@ -310,7 +352,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Asynchronous Iteration",
@@ -330,7 +375,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Optional <code>catch</code> binding",
@@ -350,7 +398,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "JSON superset",
@@ -371,7 +422,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>Symbol.prototype.description</code>",
@@ -391,7 +445,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>Function.prototype.toString</code> revision",
@@ -411,7 +468,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>Object.fromEntries</code>",
@@ -432,7 +492,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Well-formed <code>JSON.stringify</code>",
@@ -452,7 +515,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>String.prototype.{trimStart,trimEnd}</code>",
@@ -473,7 +539,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>Array.prototype.{flat,flatMap}</code>",
@@ -496,7 +565,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>String.prototype.matchAll</code>",
@@ -516,7 +588,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>import()</code>",
@@ -536,7 +611,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>BigInt</code>",
@@ -556,7 +634,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>Promise.allSettled</code>",
@@ -578,7 +659,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>globalThis</code>",
@@ -598,7 +682,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>for-in</code> mechanics",
@@ -618,7 +705,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Optional Chaining",
@@ -643,7 +733,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Nullish coalescing Operator",
@@ -665,7 +758,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>import.meta</code>",
@@ -685,7 +781,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>String.prototype.replaceAll</code>",
@@ -706,7 +805,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Additional metaproperties",
@@ -721,7 +823,10 @@
         ],
         "notes": [],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Defensible Classes",
@@ -738,7 +843,10 @@
         ],
         "notes": [],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Function bind syntax",
@@ -759,7 +867,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Function expression decorators",
@@ -774,7 +885,10 @@
         ],
         "notes": [],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Method parameter decorators",
@@ -789,7 +903,10 @@
         ],
         "notes": [],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Nested <code>import</code> declarations",
@@ -809,7 +926,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Orthogonal Classes",
@@ -831,7 +951,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>Reflect.{isCallable,isConstructor}</code>",
@@ -846,7 +969,10 @@
         ],
         "notes": [],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Relationships",
@@ -863,7 +989,10 @@
         ],
         "notes": [],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>String.prototype.at</code>",
@@ -879,7 +1008,10 @@
         ],
         "notes": [],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Structured Clone",
@@ -899,7 +1031,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "WHATWG URL",
@@ -914,7 +1049,10 @@
         ],
         "notes": [],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Object Shorthand Improvements",
@@ -934,7 +1072,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>deprecated</code>",
@@ -949,7 +1090,10 @@
         ],
         "notes": [],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>as</code> destructuring patterns",
@@ -964,7 +1108,10 @@
         ],
         "notes": [],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "<code>Symbol.thenable</code>",
@@ -985,7 +1132,10 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     },
     {
         "name": "Async Context",
@@ -1004,6 +1154,9 @@
             }
         ],
         "pushed_at": "2020-06-17T00:00:00.000Z",
-        "_format": "old-2021-05-29"
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
     }
 ]
