@@ -48,7 +48,7 @@ const tablemark = require("tablemark");
 export default {
   data() {
     return {
-      startDate: dateToYYYYMMHH(beforeMonthDateFromToday(2)),
+      startDate: dateToYYYYMMHH(beforeMonthDateFromToday(1)),
       endDate: dateToYYYYMMHH(new Date()),
       diffMarkdown: "",
       compiledHTML: "",
