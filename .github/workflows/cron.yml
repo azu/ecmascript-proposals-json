@@ -1,4 +1,4 @@
-name: cron
+name: update-data
 on:
   push:
     branches:
