@@ -8,7 +8,7 @@ const { createDiff, createStalledDiff } = require("./lib/create-diff.js");
 const cli = meow(
     `
 	Usage
-	  $ diff --before a.json --after b.json
+	  $ node diff --before a.json --after b.json
 `,
     {
         flags: {
