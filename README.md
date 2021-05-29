@@ -1,6 +1,7 @@
 # ecmascript-proposals-json [![Build Status](https://travis-ci.org/azu/ecmascript-proposals-json.svg?branch=master)](https://travis-ci.org/azu/ecmascript-proposals-json)
 
-- Get ECMAScript proposal list at date
+- Get ECMAScript proposal list
+    - https://github.com/tc39/dataset (2021-05-29+)
 - Save the proposal list as json file to [static/data](static/data)
 - Show diff between proposals
 
