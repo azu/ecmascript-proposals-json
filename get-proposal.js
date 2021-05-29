@@ -9,28 +9,19 @@ const cli = meow(
     Usage
       $ node get-proposal.js [option] 
 
-    Options:
-      --date Get proposal at specific date
-
     Examples
-      $ node get-proposal.js --date 2018-01-01
+      $ node get-proposal.js
 `,
     {
-        flags: {
-            date: {
-                type: "string"
-            }
-        },
+        flags: {},
         autoVersion: true,
         autoHelp: true
     }
 );
-const momentDate = cli.flags.date ? moment(cli.flags.date) : moment();
-const ISODate = momentDate.toISOString();
-require("./proposals")
-    .fetchAll(`https://github.com/tc39/proposals/blob/HEAD@{${ISODate}}/`)
+require("./tc39-proposals")
+    .fetchTC39Proposals()
     .then(result => {
-        const fileNameByDate = momentDate.format("YYYY-MM-DD");
+        const fileNameByDate = moment().format("YYYY-MM-DD");
         const output = path.join(__dirname, "static/data", `${fileNameByDate}.json`);
         fs.writeFileSync(output, JSON.stringify(result, null, 4), "utf-8");
     });
