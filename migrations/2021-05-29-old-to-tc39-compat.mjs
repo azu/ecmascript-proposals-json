@@ -75,7 +75,8 @@ await Promise.all(items.map(async (filePath) => {
                 url: item.meetingHref
             }
         ] : [],
-            pushed_at: `${fileName}T00:00:00.000Z`
+            pushed_at: `${fileName}T00:00:00.000Z`,
+            "_format": "old-2021-05-29"
         }
     });
     return fs.writeFile(filePath, JSON.stringify(migratedJSON, null, 4), "utf-8");

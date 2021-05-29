@@ -17,7 +17,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2015-11/nov-17.md#arrayprototypeincludes"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Exponentiation operator",
@@ -36,7 +37,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2016-01/jan-28.md#5xviii-exponentiation-operator-rw"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>Object.values</code>/<code>Object.entries</code>",
@@ -55,7 +57,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2016-03/march-29.md#objectvalues--objectentries"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "String padding",
@@ -75,7 +78,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2016-05/may-25.md#stringprototypepadstartend-jhd"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>Object.getOwnPropertyDescriptors</code>",
@@ -96,7 +100,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2016-05/may-25.md#objectgetownpropertydescriptors-jhd"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Trailing commas in function parameter lists and calls",
@@ -115,7 +120,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2016-07/jul-26.md#9ie-trailing-commas-in-functions"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Async functions",
@@ -134,7 +140,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2016-07/jul-28.md#10iv-async-functions"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Shared memory and atomics",
@@ -153,7 +160,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2017-01/jan-24.md#13if-seeking-stage-4-for-sharedarraybuffer"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Lifting template literal restriction",
@@ -172,7 +180,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2017-03/mar-21.md#10ia-template-literal-updates"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>s</code> (<code>dotAll</code>) flag for regular expressions",
@@ -192,7 +201,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2017-11/nov-28.md#9ie-regexp-dotall-status-update"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "RegExp named capture groups",
@@ -214,7 +224,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2017-11/nov-28.md#9if-regexp-named-captures-status-update"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Rest/Spread Properties",
@@ -233,7 +244,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2018-01/jan-23.md#restspread-properties-for-stage-4"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "RegExp Lookbehind Assertions",
@@ -255,7 +267,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2018-01/jan-23.md#conclusionresolution-16"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "RegExp Unicode Property Escapes",
@@ -276,7 +289,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2018-01/jan-24.md#conclusionresolution-1"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>Promise.prototype.finally</code>",
@@ -295,7 +309,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2018-01/jan-24.md#conclusionresolution-2"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Asynchronous Iteration",
@@ -314,7 +329,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2018-01/jan-25.md#conclusionresolution"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Optional <code>catch</code> binding",
@@ -333,7 +349,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2018-05/may-22.md#conclusionresolution-7"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "JSON superset",
@@ -353,7 +370,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2018-05/may-22.md#conclusionresolution-8"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>Symbol.prototype.description</code>",
@@ -372,7 +390,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2018-11/nov-27.md#conclusionresolution-12"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>Function.prototype.toString</code> revision",
@@ -391,7 +410,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2018-11/nov-27.md#conclusionresolution-13"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>Object.fromEntries</code>",
@@ -411,7 +431,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-01/jan-29.md#objectfromentries-for-stage-4"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Well-formed <code>JSON.stringify</code>",
@@ -430,7 +451,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-01/jan-29.md#well-formed-jsonstringify-for-stage-4"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>String.prototype.{trimStart,trimEnd}</code>",
@@ -450,7 +472,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-01/jan-29.md#stringprototypetrimstarttrimend-for-stage-4"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>Array.prototype.{flat,flatMap}</code>",
@@ -472,7 +495,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-01/jan-29.md#arrayprototypeflatflatmap-for-stage-4"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>String.prototype.matchAll</code>",
@@ -491,7 +515,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-03/mar-26.md#stringprototypematchall-for-stage-4"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>import()</code>",
@@ -510,7 +535,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-06/june-4.md#dynamic-import-for-stage-4"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>BigInt</code>",
@@ -529,7 +555,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-06/june-4.md#bigint-to-stage-4"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>Promise.allSettled</code>",
@@ -550,7 +577,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-07/july-24.md#promiseallsettled"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>globalThis</code>",
@@ -569,7 +597,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-10/october-1.md#globalthis-to-stage-4"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>for-in</code> mechanics",
@@ -588,7 +617,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-4.md#for-in-order-for-stage-4"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Optional Chaining",
@@ -612,7 +642,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-4.md#optional-chaining-for-stage-4"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Nullish coalescing Operator",
@@ -633,7 +664,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-4.md#nullish-coalescing-for-stage-4"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>import.meta</code>",
@@ -652,7 +684,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-03/april-1.md#importmeta-for-stage-4-continued-from-previous-day"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>String.prototype.replaceAll</code>",
@@ -673,7 +706,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-06/june-2.md#stringprototypereplaceall-for-stage-4"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>Promise.any</code>",
@@ -694,7 +728,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-21.md#promiseany--aggregateerror-for-stage-4"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "WeakRefs",
@@ -718,7 +753,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-21.md#weakrefs-for-stage-4--cleanupsome-for-stage-23"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Logical Assignment Operators",
@@ -738,7 +774,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-21.md#logical-assignment-for-stage-4"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Numeric separators",
@@ -759,7 +796,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-21.md#numericliteralseparator-for-stage-4"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Legacy RegExp features in JavaScript",
@@ -779,7 +817,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2017-05/may-25.md#15ia-regexp-legacy-features-for-stage-3"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Private instance methods and accessors",
@@ -799,7 +838,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-23.md#status-update-for-class-fields-private-methods-static-class-features"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Class Public Instance Fields &amp; Private Instance Fields",
@@ -822,7 +862,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-23.md#status-update-for-class-fields-private-methods-static-class-features"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Static class fields and private static methods",
@@ -845,7 +886,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-23.md#status-update-for-class-fields-private-methods-static-class-features"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Hashbang Grammar",
@@ -864,7 +906,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2018-11/nov-28.md#hash-bang-grammar"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Top-level <code>await</code>",
@@ -883,7 +926,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-06/june-6.md#top-level-await-for-stage-3"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "RegExp Match Indices",
@@ -902,7 +946,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-3.md#regexp-match-indices-performance-feedback"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>Atomics.waitAsync</code>",
@@ -922,7 +967,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-4.md#atomicswaitasync-for-stage-3"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>.at()</code>",
@@ -942,7 +988,8 @@
                 "data": "2020-11-01T00:00:00.000Z"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Import Assertions",
@@ -967,7 +1014,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-22.md#import-assertions-for-stage-3"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>function.sent</code> metaproperty",
@@ -986,7 +1034,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-07/july-23.md#making-functionsent-inactive"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Decorators",
@@ -1007,7 +1056,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-23.md#decorators-a-new-proposal-iteration"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>throw</code> expressions",
@@ -1026,7 +1076,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2018-01/jan-24.md#13iiii-throw-expressions-for-stage-3"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Function implementation hiding",
@@ -1046,7 +1097,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-06/june-2.md#function-implementation-hiding-for-stage-3"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "New Set methods",
@@ -1066,7 +1118,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-01/jan-29.md#update-on-set-methods"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Realms",
@@ -1088,7 +1141,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-06/june-4.md#realms-stage-2-update"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>ArrayBuffer.prototype.transfer</code>",
@@ -1107,7 +1161,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2018-07/july-24.md#arraybufferprototypetransfer"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Sequence properties in Unicode property escapes",
@@ -1126,7 +1181,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-10/october-2.md#update-on-sequence-property-escapes-in-unicode-regular-expressions"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Temporal",
@@ -1149,7 +1205,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-23.md#temporal-stage-2-update"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "collection normalization",
@@ -1168,7 +1225,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-01/jan-30.md#richer-keys-for-stage-2"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Array.isTemplateObject",
@@ -1188,7 +1246,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-4.md#arrayistemplateobject-update"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Iterator helpers",
@@ -1208,7 +1267,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-21.md#iterator-helpers-update"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Explicit Resource Management",
@@ -1227,7 +1287,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-02/february-5.md#updates-on-explicit-resource-management"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "<code>Map.prototype.emplace</code>",
@@ -1246,7 +1307,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-22.md#upsert-now-renamed-emplace-updates--for-stage-3"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Dynamic Import Host Adjustment",
@@ -1266,7 +1328,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-5.md#dynamic-import-host-adjustment-for-stage-2"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Ergonomic brand checks for Private Fields",
@@ -1285,7 +1348,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-23.md#ergonomic-brand-checks-for-private-fields-for-stage-3"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "WeakRefs <code>cleanupSome</code>",
@@ -1306,7 +1370,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-21.md#weakrefs-for-stage-4--cleanupsome-for-stage-23"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "JSON Modules",
@@ -1331,7 +1396,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-22.md#json-modules-update"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Record &amp; Tuple",
@@ -1352,7 +1418,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-22.md#records--tuples"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "JSON.parse source text access",
@@ -1371,7 +1438,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-07/july-22.md#jsonparse-source-text-access-for-stage-2"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Class Static Block",
@@ -1390,7 +1458,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-22.md#class-static-initialization-block-for-stage-2"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Resizable and growable ArrayBuffers",
@@ -1409,7 +1478,8 @@
                 "url": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-24.md#resizable-and-growable-arraybuffers-for-stage-2"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     },
     {
         "name": "Error Cause",
@@ -1428,6 +1498,7 @@
                 "data": "2020-11-01T00:00:00.000Z"
             }
         ],
-        "pushed_at": "2020-12-21T00:00:00.000Z"
+        "pushed_at": "2020-12-21T00:00:00.000Z",
+        "_format": "old-2021-05-29"
     }
 ]
