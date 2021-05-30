@@ -1,8 +1,5 @@
-name: update-data
+name: cron
 on:
-  push:
-    branches:
-      - master  # Set a branch name to trigger deployment
   schedule:
     - cron:  '0 * * * *'
 jobs:
