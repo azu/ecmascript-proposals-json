@@ -2,6 +2,8 @@ name: cron
 on:
   schedule:
     - cron:  '0 * * * *'
+permissions:
+  contents: write
 jobs:
   cron:
     name: "daily cron"

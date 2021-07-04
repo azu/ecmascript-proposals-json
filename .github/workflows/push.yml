@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - master  # Set a branch name to trigger deployment
+permissions:
+  contents: write
 jobs:
   cron:
     name: update
