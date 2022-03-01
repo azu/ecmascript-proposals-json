@@ -1,27 +1,39 @@
 [
     {
         "tags": [
-            "ECMA-262"
+            "ECMA-402"
         ],
-        "stage": 1,
-        "name": "Class Brand Checks",
-        "id": "proposal-class-brand-check",
-        "description": "JavaScript proposal to provide class brand checks",
-        "url": "https://github.com/tc39/proposal-class-brand-check",
-        "notes": [
-            {
-                "date": "2021-01-27T00:00:00.000Z",
-                "url": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-01/jan-27.md#class-brand-checks"
-            }
-        ],
+        "stage": 3,
+        "name": "Intl.NumberFormat V3",
+        "id": "proposal-intl-numberformat-v3",
+        "description": "Additional features for Intl.NumberFormat to solve key pain points.",
+        "url": "https://github.com/tc39/proposal-intl-numberformat-v3",
         "has-specification": true,
         "authors": [
-            "HE Shi-Jun"
+            "Shane Carr"
         ],
         "champions": [
-            "HE Shi-Jun"
+            "Shane Carr"
         ],
-        "pushed_at": "2022-02-27T14:27:09.000Z"
+        "pushed_at": "2022-03-01T00:05:09.000Z"
+    },
+    {
+        "tags": [
+            "ECMA-262",
+            "withdrawn"
+        ],
+        "stage": -1,
+        "name": "Callable class constructors",
+        "description": "Status, process, and documents for ECMA-262",
+        "url": "https://github.com/tc39/ecma262",
+        "has-specification": false,
+        "authors": [],
+        "champions": [
+            "Yehuda Katz",
+            "Allen Wirfs-Brock"
+        ],
+        "rationale": "Withdrawn: can be solved with decorators",
+        "pushed_at": "2022-02-28T20:39:07.000Z"
     },
     {
         "tags": [
@@ -57,25 +69,31 @@
             "Jack Works",
             "Ross Kirsling"
         ],
-        "pushed_at": "2022-02-26T23:18:04.000Z"
+        "pushed_at": "2022-02-28T05:57:18.000Z"
     },
     {
         "tags": [
-            "ECMA-262",
-            "withdrawn"
+            "ECMA-262"
         ],
-        "stage": -1,
-        "name": "Callable class constructors",
-        "description": "Status, process, and documents for ECMA-262",
-        "url": "https://github.com/tc39/ecma262",
-        "has-specification": false,
-        "authors": [],
+        "stage": 1,
+        "name": "Class Brand Checks",
+        "id": "proposal-class-brand-check",
+        "description": "JavaScript proposal to provide class brand checks",
+        "url": "https://github.com/tc39/proposal-class-brand-check",
+        "notes": [
+            {
+                "date": "2021-01-27T00:00:00.000Z",
+                "url": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-01/jan-27.md#class-brand-checks"
+            }
+        ],
+        "has-specification": true,
+        "authors": [
+            "HE Shi-Jun"
+        ],
         "champions": [
-            "Yehuda Katz",
-            "Allen Wirfs-Brock"
+            "HE Shi-Jun"
         ],
-        "rationale": "Withdrawn: can be solved with decorators",
-        "pushed_at": "2022-02-26T00:00:29.000Z"
+        "pushed_at": "2022-02-27T14:27:09.000Z"
     },
     {
         "tags": [
@@ -107,24 +125,6 @@
             "Leo Balter"
         ],
         "pushed_at": "2022-02-25T12:14:28.000Z"
-    },
-    {
-        "tags": [
-            "ECMA-402"
-        ],
-        "stage": 3,
-        "name": "Intl.NumberFormat V3",
-        "id": "proposal-intl-numberformat-v3",
-        "description": "Additional features for Intl.NumberFormat to solve key pain points.",
-        "url": "https://github.com/tc39/proposal-intl-numberformat-v3",
-        "has-specification": true,
-        "authors": [
-            "Shane Carr"
-        ],
-        "champions": [
-            "Shane Carr"
-        ],
-        "pushed_at": "2022-02-25T11:07:47.000Z"
     },
     {
         "tags": [
