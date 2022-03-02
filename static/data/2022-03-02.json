@@ -1,24 +1,6 @@
 [
     {
         "tags": [
-            "ECMA-402"
-        ],
-        "stage": 3,
-        "name": "Intl.NumberFormat V3",
-        "id": "proposal-intl-numberformat-v3",
-        "description": "Additional features for Intl.NumberFormat to solve key pain points.",
-        "url": "https://github.com/tc39/proposal-intl-numberformat-v3",
-        "has-specification": true,
-        "authors": [
-            "Shane Carr"
-        ],
-        "champions": [
-            "Shane Carr"
-        ],
-        "pushed_at": "2022-03-01T00:05:09.000Z"
-    },
-    {
-        "tags": [
             "ECMA-262",
             "withdrawn"
         ],
@@ -33,7 +15,97 @@
             "Allen Wirfs-Brock"
         ],
         "rationale": "Withdrawn: can be solved with decorators",
-        "pushed_at": "2022-02-28T20:39:07.000Z"
+        "pushed_at": "2022-03-01T16:38:39.000Z"
+    },
+    {
+        "tags": [
+            "ECMA-262"
+        ],
+        "stage": 3,
+        "name": "Temporal",
+        "id": "proposal-temporal",
+        "description": "Provides standard objects and functions for working with dates and times.",
+        "url": "https://github.com/tc39/proposal-temporal",
+        "tests": [
+            "https://github.com/tc39/test262/pulls?q=is%3Apr+is%3Amerged+temporal+in%3Atitle+"
+        ],
+        "notes": [
+            {
+                "date": "2021-12-14T00:00:00.000Z",
+                "url": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-12/dec-14.md#temporal-update"
+            }
+        ],
+        "has-specification": true,
+        "authors": [
+            "Philipp Dunkel",
+            "Maggie Johnson-Pint",
+            "Matt Johnson-Pint",
+            "Brian Terlson",
+            "Shane Carr",
+            "Ujjwal Sharma",
+            "Philip Chimento",
+            "Jason Williams",
+            "Justin Grant"
+        ],
+        "champions": [
+            "Philipp Dunkel",
+            "Maggie Johnson-Pint",
+            "Matt Johnson-Pint",
+            "Brian Terlson",
+            "Shane Carr",
+            "Ujjwal Sharma",
+            "Philip Chimento",
+            "Jason Williams",
+            "Justin Grant"
+        ],
+        "pushed_at": "2022-03-01T09:32:00.000Z"
+    },
+    {
+        "tags": [
+            "ECMA-262"
+        ],
+        "stage": 2,
+        "name": "Pipeline Operator",
+        "id": "proposal-pipeline-operator",
+        "description": "A proposal for adding a useful pipe operator to JavaScript.",
+        "url": "https://github.com/tc39/proposal-pipeline-operator",
+        "notes": [
+            {
+                "date": "2021-08-31T00:00:00.000Z",
+                "url": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-08/aug-31.md#pipeline-operator-for-stage-2"
+            }
+        ],
+        "has-specification": true,
+        "authors": [
+            "J. S. Choi",
+            "James DiGioia",
+            "Ron Buckton",
+            "Tab Atkins"
+        ],
+        "champions": [
+            "J. S. Choi",
+            "Ron Buckton",
+            "Tab Atkins"
+        ],
+        "pushed_at": "2022-03-01T09:30:44.000Z"
+    },
+    {
+        "tags": [
+            "ECMA-402"
+        ],
+        "stage": 3,
+        "name": "Intl.NumberFormat V3",
+        "id": "proposal-intl-numberformat-v3",
+        "description": "Additional features for Intl.NumberFormat to solve key pain points.",
+        "url": "https://github.com/tc39/proposal-intl-numberformat-v3",
+        "has-specification": true,
+        "authors": [
+            "Shane Carr"
+        ],
+        "champions": [
+            "Shane Carr"
+        ],
+        "pushed_at": "2022-03-01T00:06:13.000Z"
     },
     {
         "tags": [
@@ -125,49 +197,6 @@
             "Leo Balter"
         ],
         "pushed_at": "2022-02-25T12:14:28.000Z"
-    },
-    {
-        "tags": [
-            "ECMA-262"
-        ],
-        "stage": 3,
-        "name": "Temporal",
-        "id": "proposal-temporal",
-        "description": "Provides standard objects and functions for working with dates and times.",
-        "url": "https://github.com/tc39/proposal-temporal",
-        "tests": [
-            "https://github.com/tc39/test262/pulls?q=is%3Apr+is%3Amerged+temporal+in%3Atitle+"
-        ],
-        "notes": [
-            {
-                "date": "2021-12-14T00:00:00.000Z",
-                "url": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-12/dec-14.md#temporal-update"
-            }
-        ],
-        "has-specification": true,
-        "authors": [
-            "Philipp Dunkel",
-            "Maggie Johnson-Pint",
-            "Matt Johnson-Pint",
-            "Brian Terlson",
-            "Shane Carr",
-            "Ujjwal Sharma",
-            "Philip Chimento",
-            "Jason Williams",
-            "Justin Grant"
-        ],
-        "champions": [
-            "Philipp Dunkel",
-            "Maggie Johnson-Pint",
-            "Matt Johnson-Pint",
-            "Brian Terlson",
-            "Shane Carr",
-            "Ujjwal Sharma",
-            "Philip Chimento",
-            "Jason Williams",
-            "Justin Grant"
-        ],
-        "pushed_at": "2022-02-25T09:56:26.000Z"
     },
     {
         "tags": [
@@ -531,35 +560,6 @@
             "J.S. Choi"
         ],
         "pushed_at": "2022-02-11T22:02:25.000Z"
-    },
-    {
-        "tags": [
-            "ECMA-262"
-        ],
-        "stage": 2,
-        "name": "Pipeline Operator",
-        "id": "proposal-pipeline-operator",
-        "description": "A proposal for adding a useful pipe operator to JavaScript.",
-        "url": "https://github.com/tc39/proposal-pipeline-operator",
-        "notes": [
-            {
-                "date": "2021-08-31T00:00:00.000Z",
-                "url": "https://github.com/tc39/notes/blob/HEAD/meetings/2021-08/aug-31.md#pipeline-operator-for-stage-2"
-            }
-        ],
-        "has-specification": true,
-        "authors": [
-            "J. S. Choi",
-            "James DiGioia",
-            "Ron Buckton",
-            "Tab Atkins"
-        ],
-        "champions": [
-            "J. S. Choi",
-            "Ron Buckton",
-            "Tab Atkins"
-        ],
-        "pushed_at": "2022-02-11T21:21:25.000Z"
     },
     {
         "tags": [
