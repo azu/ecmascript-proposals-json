@@ -7,12 +7,12 @@ permissions:
 jobs:
   cron:
     name: "daily cron"
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: setup Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: 14
       - name: Install
