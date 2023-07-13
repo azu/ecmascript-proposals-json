@@ -15,13 +15,13 @@ jobs:
       - name: setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 14
+          node-version: 18
       - name: Install
         run: yarn install
       - name: Fetch
         run: node ./get-proposal.js
       - name: Commit
-        uses: EndBug/add-and-commit@v7.0.0
+        uses: EndBug/add-and-commit@v9
         with:
           message: "Update Data"
           add: 'static'
