@@ -14,8 +14,9 @@
   "version": "1.0.0",
   "main": "lib/ecmascript-proposals-json.js",
   "scripts": {
-    "start": "parcel serve website/index.html --out-dir build/",
-    "build": "parcel build website/index.html --out-dir build/ --public-url .",
+    "cp:static": "cp -r static/data/ build/data/",
+    "start": "npm run cp:static && parcel serve website/index.html --out-dir build/",
+    "build": "parcel build website/index.html --out-dir build/ --public-url . && npm run cp:static",
     "test": "mocha \"test/*.js\"",
     "updateSnapshot": "UPDATE_SNAPSHOT=1 npm test",
     "prettier": "prettier --write \"**/*.{js,jsx,ts,tsx,css}\""
@@ -51,8 +52,8 @@
     "lint-staged": "^8.1.1",
     "mocha": "^5.2.0",
     "node-static": "^0.7.11",
-    "parcel-bundler": "^1.11.0",
-    "parcel-plugin-static-files-copy": "^2.0.0",
+    "parcel-bundler": "^1.12.5",
+    "parcel-plugin-static-files-copy": "^2.6.0",
     "prettier": "^1.16.3",
     "vue-template-compiler": "^2.5.22"
   },
