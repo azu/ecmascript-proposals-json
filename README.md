@@ -18,7 +18,7 @@ If you notice no-data at a day, please report it.
 
 ## Install
 
-    yarn
+    npm install
 
 ## Usage
 
@@ -32,7 +32,7 @@ If you notice no-data at a day, please report it.
 
 ### Website
 
-    yarn start
+    npm start
 
 ## Changelog
 
