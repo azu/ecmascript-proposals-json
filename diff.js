@@ -1,34 +1,71 @@
 #!/usr/bin/env node
-"use strict";
+import { parseArgs } from "util";
+import tablemark from "tablemark";
+import path from "path";
+import fs from "fs";
+import { createDiff, createStalledDiff } from "./lib/create-diff.js";
 
-const meow = require("meow");
-const tablemark = require("tablemark");
-const path = require("path");
-const { createDiff, createStalledDiff } = require("./lib/create-diff.js");
-const cli = meow(
-    `
-	Usage
-	  $ node diff --before a.json --after b.json
-`,
-    {
-        flags: {
-            before: {
-                type: "string"
-            },
-            after: {
-                type: "string"
-            },
-            stalled: {
-                type: "boolean"
-            }
+// Parse command line arguments using util.parseArgs
+const { values: options } = parseArgs({
+    options: {
+        before: {
+            type: 'string',
+            short: 'b'
+        },
+        after: {
+            type: 'string',
+            short: 'a'
+        },
+        stalled: {
+            type: 'boolean',
+            short: 's'
+        },
+        help: {
+            type: 'boolean',
+            short: 'h'
         }
     }
-);
-const before = cli.flags.before;
-const after = cli.flags.after;
-const beforeData = require(path.resolve(process.cwd(), before));
-const afterData = require(path.resolve(process.cwd(), after));
-const showStalledData = cli.flags.stalled;
+});
+
+// Display help
+if (options.help) {
+    console.log(`
+Usage: node diff.js --before <file> --after <file> [--stalled]
+
+Options:
+  -b, --before <file>   JSON file as the previous state
+  -a, --after <file>    JSON file as the current state
+  -s, --stalled         Show stalled proposals
+  -h, --help            Show this help
+
+Examples:
+  node diff.js --before old.json --after new.json
+  node diff.js -b old.json -a new.json --stalled
+`);
+    process.exit(0);
+}
+
+// Validate arguments
+if (!options.before || !options.after) {
+    console.error('Error: Both --before and --after file paths are required');
+    console.error('Usage: node diff.js --before <file> --after <file> [--stalled]');
+    console.error('Help: node diff.js --help');
+    process.exit(1);
+}
+
+const before = options.before;
+const after = options.after;
+const showStalledData = options.stalled;
+
+// Load JSON files using ESM
+let beforeData, afterData;
+try {
+    beforeData = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), before), 'utf8'));
+    afterData = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), after), 'utf8'));
+} catch (error) {
+    console.error('Error reading files:', error.message);
+    process.exit(1);
+}
 const { newItems, updatedItems, stalledItems } = showStalledData
     ? createStalledDiff(beforeData, afterData)
     : createDiff(beforeData, afterData);

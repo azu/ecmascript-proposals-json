@@ -11,13 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 22
       - name: Install
-        run: yarn install
+        run: npm ci
       - name: Fetch
         run: node ./get-proposal.js
       - name: Commit
@@ -27,7 +27,7 @@ jobs:
           add: 'static'
           push: true
       - name: Build
-        run: yarn run build
+        run: npm run build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:

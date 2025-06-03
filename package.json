@@ -1,4 +1,7 @@
 {
+  "name": "ecmascript-proposals-json",
+  "version": "1.0.0",
+  "type": "module",
   "directories": {
     "lib": "lib",
     "test": "test"
@@ -10,8 +13,6 @@
     "lib/",
     "src/"
   ],
-  "name": "ecmascript-proposals-json",
-  "version": "1.0.0",
   "scripts": {
     "cp:static": "cp -r static/data/ dist/data/",
     "start": "vite --host",
@@ -33,7 +34,6 @@
   "dependencies": {
     "html2plaintext": "^2.0.1",
     "marked": "^5.1.0",
-    "meow": "^5.0.0",
     "moment": "^2.24.0",
     "node-fetch": "^2.6.1",
     "striptags": "^3.1.1",
