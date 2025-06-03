@@ -13,9 +13,10 @@
   "name": "ecmascript-proposals-json",
   "version": "1.0.0",
   "scripts": {
-    "cp:static": "cp -r static/data/ build/data/",
-    "start": "npm run cp:static && parcel serve website/index.html --dist-dir build/",
-    "build": "parcel build website/index.html --dist-dir build/ --public-url . && npm run cp:static",
+    "cp:static": "cp -r static/data/ dist/data/",
+    "start": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview",
     "test": "mocha \"test/*.js\"",
     "updateSnapshot": "UPDATE_SNAPSHOT=1 npm test",
     "prettier": "prettier --write \"**/*.{js,jsx,ts,tsx,css}\""
@@ -31,17 +32,17 @@
   "homepage": "https://github.com/azu/ecmascript-proposals-json",
   "dependencies": {
     "html2plaintext": "^2.0.1",
-    "marked": "^0.6.1",
+    "marked": "^5.1.0",
     "meow": "^5.0.0",
     "moment": "^2.24.0",
     "node-fetch": "^2.6.1",
     "striptags": "^3.1.1",
-    "tablemark": "^1.2.0",
+    "tablemark": "^3.0.0",
     "to-markdown": "^3.1.1",
     "vue": "^3.3.4"
   },
   "devDependencies": {
-    "@parcel/transformer-vue": "2.9.3",
+    "@vitejs/plugin-vue": "^4.2.3",
     "@vue/component-compiler-utils": "^2.5.2",
     "buffer": "^5.5.0||^6.0.0",
     "events": "^3.1.0",
@@ -50,32 +51,16 @@
     "mocha": "^5.2.0",
     "node-static": "^0.7.11",
     "os-browserify": "^0.3.0",
-    "parcel": "^2.9.3",
     "prettier": "^1.16.3",
     "process": "^0.11.10",
     "stream-browserify": "^3.0.0",
-    "util": "^0.12.3"
+    "util": "^0.12.3",
+    "vite": "^4.3.9"
   },
   "prettier": {
     "singleQuote": false,
     "printWidth": 120,
     "tabWidth": 4
-  },
-  "lint-staged": {
-    "*.{js,jsx,ts,tsx,css}": [
-      "prettier --write",
-      "git add"
-    ]
-  },
-  "husky": {
-    "hooks": {
-      "post-commit": "git reset",
-      "pre-commit": "lint-staged"
-    }
-  },
-  "staticFiles": {
-    "staticPath": "static",
-    "watcherGlob": false
   },
   "packageManager": "yarn@1.22.22+sha256.c17d3797fb9a9115bf375e31bfd30058cac6bc9c3b8807a3d8cb2094794b51ca"
 }

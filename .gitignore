@@ -82,5 +82,6 @@ crashlytics.properties
 crashlytics-build.properties
 
 /build/
+/dist/
 /.cache/
 /.parcel-cache/

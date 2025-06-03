@@ -42,9 +42,9 @@ const beforeMonthDateFromToday = (before) => {
   return d;
 };
 import { createDiff } from "../../lib/create-diff.js";
+import { marked } from "marked";
+import tablemark from "tablemark";
 
-const marked = require("marked");
-const tablemark = require("tablemark");
 export default {
   data() {
     return {
