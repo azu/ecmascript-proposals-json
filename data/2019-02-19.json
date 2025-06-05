@@ -1,0 +1,2731 @@
+[
+    {
+        "name": "<code>Array.prototype.includes</code>",
+        "id": "<code>Array.prototype.includes</code>",
+        "url": "https://github.com/tc39/Array.prototype.includes",
+        "stage": 4,
+        "authors": [
+            "Domenic Denicola"
+        ],
+        "champions": [
+            "Domenic Denicola",
+            "Rick Waldron"
+        ],
+        "notes": [
+            {
+                "data": "2015-11-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2015-11/nov-17.md#arrayprototypeincludes"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Exponentiation operator",
+        "id": "Exponentiation operator",
+        "url": "https://github.com/rwaldron/exponentiation-operator",
+        "stage": 4,
+        "authors": [
+            "Rick Waldron"
+        ],
+        "champions": [
+            "Rick Waldron"
+        ],
+        "notes": [
+            {
+                "data": "2016-01-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-01/2016-01-28.md#5xviii-exponentiation-operator-rw"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Object.values</code>/<code>Object.entries</code>",
+        "id": "<code>Object.values</code>/<code>Object.entries</code>",
+        "url": "https://github.com/tc39/proposal-object-values-entries",
+        "stage": 4,
+        "authors": [
+            "Jordan Harband"
+        ],
+        "champions": [
+            "Jordan Harband"
+        ],
+        "notes": [
+            {
+                "data": "2016-03-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-03/march-29.md#objectvalues--objectentries"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "String padding",
+        "id": "String padding",
+        "url": "https://github.com/tc39/proposal-string-pad-start-end",
+        "stage": 4,
+        "authors": [
+            "Jordan Harband"
+        ],
+        "champions": [
+            "Jordan Harband",
+            "Rick Waldron"
+        ],
+        "notes": [
+            {
+                "data": "2016-05-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-05/may-25.md#stringprototypepadstartend-jhd"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Object.getOwnPropertyDescriptors</code>",
+        "id": "<code>Object.getOwnPropertyDescriptors</code>",
+        "url": "https://github.com/tc39/proposal-object-getownpropertydescriptors",
+        "stage": 4,
+        "authors": [
+            "Jordan Harband",
+            "Andrea Giammarchi"
+        ],
+        "champions": [
+            "Jordan Harband",
+            "Andrea Giammarchi"
+        ],
+        "notes": [
+            {
+                "data": "2016-05-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-05/may-25.md#objectgetownpropertydescriptors-jhd"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Trailing commas in function parameter lists and calls",
+        "id": "Trailing commas in function parameter lists and calls",
+        "url": "https://github.com/tc39/proposal-trailing-function-commas",
+        "stage": 4,
+        "authors": [
+            "Jeff Morrison"
+        ],
+        "champions": [
+            "Jeff Morrison"
+        ],
+        "notes": [
+            {
+                "data": "2016-07-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-07/jul-26.md#9ie-trailing-commas-in-functions"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Async functions",
+        "id": "Async functions",
+        "url": "https://github.com/tc39/ecmascript-asyncawait",
+        "stage": 4,
+        "authors": [
+            "Brian Terlson"
+        ],
+        "champions": [
+            "Brian Terlson"
+        ],
+        "notes": [
+            {
+                "data": "2016-07-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-07/jul-28.md#10iv-async-functions"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Shared memory and atomics",
+        "id": "Shared memory and atomics",
+        "url": "https://github.com/tc39/ecmascript_sharedmem",
+        "stage": 4,
+        "authors": [
+            "Lars T Hansen"
+        ],
+        "champions": [
+            "Lars T Hansen"
+        ],
+        "notes": [
+            {
+                "data": "2017-01-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/master/es7/2017-01/jan-24.md#13if-seeking-stage-4-for-sharedarraybuffer"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Lifting template literal restriction",
+        "id": "Lifting template literal restriction",
+        "url": "https://github.com/tc39/proposal-template-literal-revision",
+        "stage": 4,
+        "authors": [
+            "Tim Disney"
+        ],
+        "champions": [
+            "Tim Disney"
+        ],
+        "notes": [
+            {
+                "data": "2017-03-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2017-03/mar-21.md#10ia-template-literal-updates"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>s</code> (<code>dotAll</code>) flag for regular expressions",
+        "id": "<code>s</code> (<code>dotAll</code>) flag for regular expressions",
+        "url": "https://github.com/tc39/proposal-regexp-dotall-flag",
+        "stage": 4,
+        "authors": [
+            "Mathias Bynens"
+        ],
+        "champions": [
+            "Brian Terlson",
+            "Mathias Bynens"
+        ],
+        "notes": [
+            {
+                "data": "2017-11-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2017-11/nov-28.md#9ie-regexp-dotall-status-update"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "RegExp named capture groups",
+        "id": "RegExp named capture groups",
+        "url": "https://github.com/tc39/proposal-regexp-named-groups",
+        "stage": 4,
+        "authors": [
+            "Gorkem Yakin",
+            "Daniel Ehrenberg"
+        ],
+        "champions": [
+            "Daniel Ehrenberg",
+            "Brian Terlson",
+            "Mathias Bynens"
+        ],
+        "notes": [
+            {
+                "data": "2017-11-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2017-11/nov-28.md#9if-regexp-named-captures-status-update"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Rest/Spread Properties",
+        "id": "Rest/Spread Properties",
+        "url": "https://github.com/tc39/proposal-object-rest-spread",
+        "stage": 4,
+        "authors": [
+            "Sebastian Markbåge"
+        ],
+        "champions": [
+            "Sebastian Markbåge"
+        ],
+        "notes": [
+            {
+                "data": "2018-01-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2018-01/jan-23.md#restspread-properties-for-stage-4"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "RegExp Lookbehind Assertions",
+        "id": "RegExp Lookbehind Assertions",
+        "url": "https://github.com/tc39/proposal-regexp-lookbehind",
+        "stage": 4,
+        "authors": [
+            "Gorkem Yakin",
+            "Nozomu Katō",
+            "Daniel Ehrenberg"
+        ],
+        "champions": [
+            "Daniel Ehrenberg",
+            "Mathias Bynens"
+        ],
+        "notes": [
+            {
+                "data": "2018-01-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2018-01/jan-23.md#conclusionresolution-16"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "RegExp Unicode Property Escapes",
+        "id": "RegExp Unicode Property Escapes",
+        "url": "https://github.com/tc39/proposal-regexp-unicode-property-escapes",
+        "stage": 4,
+        "authors": [
+            "Mathias Bynens"
+        ],
+        "champions": [
+            "Brian Terlson",
+            "Daniel Ehrenberg",
+            "Mathias Bynens"
+        ],
+        "notes": [
+            {
+                "data": "2018-01-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2018-01/jan-24.md#conclusionresolution-1"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Promise.prototype.finally</code>",
+        "id": "<code>Promise.prototype.finally</code>",
+        "url": "https://github.com/tc39/proposal-promise-finally",
+        "stage": 4,
+        "authors": [
+            "Jordan Harband"
+        ],
+        "champions": [
+            "Jordan Harband"
+        ],
+        "notes": [
+            {
+                "data": "2018-01-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2018-01/jan-24.md#conclusionresolution-2"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Asynchronous Iteration",
+        "id": "Asynchronous Iteration",
+        "url": "https://github.com/tc39/proposal-async-iteration",
+        "stage": 4,
+        "authors": [
+            "Domenic Denicola"
+        ],
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "notes": [
+            {
+                "data": "2018-01-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/master/es8/2018-01/jan-25.md#conclusionresolution"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Optional <code>catch</code> binding",
+        "id": "Optional <code>catch</code> binding",
+        "url": "https://github.com/tc39/proposal-optional-catch-binding",
+        "stage": 4,
+        "authors": [
+            "Michael Ficarra"
+        ],
+        "champions": [
+            "Michael Ficarra"
+        ],
+        "notes": [
+            {
+                "data": "2018-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-05/may-22.md#conclusionresolution-7"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "JSON superset",
+        "id": "JSON superset",
+        "url": "https://github.com/tc39/proposal-json-superset",
+        "stage": 4,
+        "authors": [
+            "Richard Gibson"
+        ],
+        "champions": [
+            "Mark Miller",
+            "Mathias Bynens"
+        ],
+        "notes": [
+            {
+                "data": "2018-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-05/may-22.md#conclusionresolution-8"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Symbol.prototype.description</code>",
+        "id": "<code>Symbol.prototype.description</code>",
+        "url": "https://github.com/tc39/proposal-Symbol-description",
+        "stage": 4,
+        "authors": [
+            "Michael Ficarra"
+        ],
+        "champions": [
+            "Michael Ficarra"
+        ],
+        "notes": [
+            {
+                "data": "2018-11-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/be8c2af6d6dcfc9630e00ea15bbabf1a415245cb/es9/2018-11/nov-27.md#conclusionresolution-12"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Function.prototype.toString</code> revision",
+        "id": "<code>Function.prototype.toString</code> revision",
+        "url": "https://github.com/tc39/Function-prototype-toString-revision",
+        "stage": 4,
+        "authors": [
+            "Michael Ficarra"
+        ],
+        "champions": [
+            "Michael Ficarra"
+        ],
+        "notes": [
+            {
+                "data": "2018-11-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/be8c2af6d6dcfc9630e00ea15bbabf1a415245cb/es9/2018-11/nov-27.md#conclusionresolution-13"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Object.fromEntries</code>",
+        "id": "<code>Object.fromEntries</code>",
+        "url": "https://github.com/tc39/proposal-object-from-entries",
+        "stage": 4,
+        "authors": [
+            "Darien Maillet Valentine"
+        ],
+        "champions": [
+            "Jordan Harband",
+            "Kevin Gibbons"
+        ],
+        "notes": [
+            {
+                "data": "2019-01-01T00:00:00.000Z"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Well-formed <code>JSON.stringify</code>",
+        "id": "Well-formed <code>JSON.stringify</code>",
+        "url": "https://github.com/tc39/proposal-well-formed-stringify",
+        "stage": 4,
+        "authors": [
+            "Richard Gibson"
+        ],
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "notes": [
+            {
+                "data": "2019-01-01T00:00:00.000Z"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>String.prototype.{trimStart,trimEnd}</code>",
+        "id": "<code>String.prototype.{trimStart,trimEnd}</code>",
+        "url": "https://github.com/tc39/proposal-string-left-right-trim",
+        "stage": 4,
+        "authors": [
+            "Sebastian Markbåge"
+        ],
+        "champions": [
+            "Sebastian Markbåge",
+            "Mathias Bynens"
+        ],
+        "notes": [
+            {
+                "data": "2019-01-01T00:00:00.000Z"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Array.prototype.{flat,flatMap}</code>",
+        "id": "<code>Array.prototype.{flat,flatMap}</code>",
+        "url": "https://github.com/tc39/proposal-flatMap",
+        "stage": 4,
+        "authors": [
+            "Brian Terlson",
+            "Michael Ficarra",
+            "Mathias Bynens"
+        ],
+        "champions": [
+            "Brian Terlson",
+            "Michael Ficarra"
+        ],
+        "notes": [
+            {
+                "data": "2019-01-01T00:00:00.000Z"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>globalThis</code>",
+        "id": "<code>globalThis</code>",
+        "url": "https://github.com/tc39/proposal-global",
+        "stage": 3,
+        "authors": [
+            "Jordan Harband"
+        ],
+        "champions": [
+            "Jordan Harband"
+        ],
+        "notes": [
+            {
+                "data": "2018-11-01T00:00:00.000Z",
+                "url": "/tc39/proposals/blob/a353765fee51581a722ca979ff0f9e15468586af/globalThis-notes"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>import()</code>",
+        "id": "<code>import()</code>",
+        "url": "https://github.com/tc39/proposal-dynamic-import",
+        "stage": 3,
+        "authors": [
+            "Domenic Denicola"
+        ],
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "notes": [
+            {
+                "data": "2016-11-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es7/2016-11/dec-1.md#14ii-import-open-issues-and-stage-3-discussion"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Legacy RegExp features in JavaScript",
+        "id": "Legacy RegExp features in JavaScript",
+        "url": "https://github.com/tc39/proposal-regexp-legacy-features",
+        "stage": 3,
+        "authors": [
+            "Claude Pache"
+        ],
+        "champions": [
+            "Mark Miller",
+            "Claude Pache"
+        ],
+        "notes": [
+            {
+                "data": "2017-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es8/2017-05/may-25.md#15ia-regexp-legacy-features-for-stage-3"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>BigInt</code>",
+        "id": "<code>BigInt</code>",
+        "url": "https://github.com/tc39/proposal-bigint",
+        "stage": 3,
+        "authors": [
+            "Daniel Ehrenberg"
+        ],
+        "champions": [
+            "Daniel Ehrenberg"
+        ],
+        "notes": [
+            {
+                "data": "2018-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-05/may-22.md#bigint-status-update"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>import.meta</code>",
+        "id": "<code>import.meta</code>",
+        "url": "https://github.com/tc39/proposal-import-meta",
+        "stage": 3,
+        "authors": [
+            "Domenic Denicola"
+        ],
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "notes": [
+            {
+                "data": "2017-09-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es8/2017-09/sep-27.md#12iiic-importmeta-for-stage-3"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Private instance methods and accessors",
+        "id": "Private instance methods and accessors",
+        "url": "https://github.com/tc39/proposal-private-methods",
+        "stage": 3,
+        "authors": [
+            "Daniel Ehrenberg"
+        ],
+        "champions": [
+            "Daniel Ehrenberg",
+            "Kevin Gibbons"
+        ],
+        "notes": [
+            {
+                "data": "2018-09-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-09/sept-26.md#class-fields-and-private-methods-stage-3-update"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Class Public Instance Fields &amp; Private Instance Fields",
+        "id": "Class Public Instance Fields &amp; Private Instance Fields",
+        "url": "https://github.com/tc39/proposal-class-fields",
+        "stage": 3,
+        "authors": [
+            "Daniel Ehrenberg",
+            "Kevin Gibbons"
+        ],
+        "champions": [
+            "Daniel Ehrenberg",
+            "Jeff Morrison",
+            "Kevin Smith",
+            "Kevin Gibbons"
+        ],
+        "notes": [
+            {
+                "data": "2018-09-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-09/sept-26.md#class-fields-and-private-methods-stage-3-update"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Static class fields and private static methods",
+        "id": "Static class fields and private static methods",
+        "url": "http://github.com/tc39/proposal-static-class-features/",
+        "stage": 3,
+        "authors": [
+            "Daniel Ehrenberg",
+            "Kevin Gibbons",
+            "Jeff Morrison",
+            "Kevin Smith"
+        ],
+        "champions": [
+            "Shu-Yu Guo",
+            "Daniel Ehrenberg"
+        ],
+        "notes": [
+            {
+                "data": "2018-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-05/may-23.md#static-class-features-for-stage-3"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>String.prototype.matchAll</code>",
+        "id": "<code>String.prototype.matchAll</code>",
+        "url": "https://github.com/tc39/String.prototype.matchAll",
+        "stage": 3,
+        "authors": [
+            "Jordan Harband"
+        ],
+        "champions": [
+            "Jordan Harband"
+        ],
+        "notes": [
+            {
+                "data": "2018-09-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-09/sept-25.md#update-on-stringprototypematchall"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Hashbang Grammar",
+        "id": "Hashbang Grammar",
+        "url": "https://github.com/bmeck/proposal-hashbang",
+        "stage": 3,
+        "authors": [
+            "Bradley Farias"
+        ],
+        "champions": [
+            "Bradley Farias"
+        ],
+        "notes": [
+            {
+                "data": "2018-11-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-11/nov-28.md#hash-bang-grammar"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Numeric separators",
+        "id": "Numeric separators",
+        "url": "https://github.com/tc39/proposal-numeric-separator",
+        "stage": 2,
+        "authors": [
+            "Sam Goto",
+            "Rick Waldron"
+        ],
+        "champions": [
+            "Sam Goto",
+            "Rick Waldron"
+        ],
+        "notes": [
+            {
+                "data": "2018-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-05/may-24.md#numeric-separators-update"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>function.sent</code> metaproperty",
+        "id": "<code>function.sent</code> metaproperty",
+        "url": "https://github.com/allenwb/ESideas/blob/master/Generator%20metaproperty.md",
+        "stage": 2,
+        "authors": [
+            "Allen Wirfs-Brock"
+        ],
+        "champions": [
+            "Allen Wirfs-Brock"
+        ],
+        "notes": [
+            {
+                "data": "2015-11-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/7b808eae2192f7e5d2abe035519583cd13d7a30c/es7/2015-11/nov-17.md#functionsent"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Decorators",
+        "id": "Decorators",
+        "url": "http://github.com/tc39/proposal-decorators",
+        "stage": 2,
+        "authors": [
+            "Daniel Ehrenberg"
+        ],
+        "champions": [
+            "Yehuda Katz",
+            "Brian Terlson",
+            "Daniel Ehrenberg"
+        ],
+        "notes": [
+            {
+                "data": "2018-11-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/927f4e98d8e0fef59fb69e52fb40ec6619a6eacb/es9/2018-11/nov-28.md#decorators-stage-2-update"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>throw</code> expressions",
+        "id": "<code>throw</code> expressions",
+        "url": "https://github.com/tc39/proposal-throw-expressions",
+        "stage": 2,
+        "authors": [
+            "Ron Buckton"
+        ],
+        "champions": [
+            "Ron Buckton"
+        ],
+        "notes": [
+            {
+                "data": "2018-01-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es8/2018-01/jan-24.md#13iiii-throw-expressions-for-stage-3"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Atomics.waitAsync</code>",
+        "id": "<code>Atomics.waitAsync</code>",
+        "url": "https://github.com/tc39/proposal-atomics-wait-async",
+        "stage": 2,
+        "authors": [
+            "Lars Hansen"
+        ],
+        "champions": [
+            "Shu-yu Guo",
+            "Lars Hansen"
+        ],
+        "notes": [
+            {
+                "data": "2017-09-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/7b7efb7b26d058dbf5ae2faeefe6cac1c5d2d2de/es8/2017-09/sept-26.md#12ig--atomicswaitasync-for-stage-2"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "WeakRefs",
+        "id": "WeakRefs",
+        "url": "https://github.com/tc39/proposal-weakrefs",
+        "stage": 2,
+        "authors": [
+            "Dean Tribble"
+        ],
+        "champions": [
+            "Dean Tribble"
+        ],
+        "notes": [
+            {
+                "data": "2018-03-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/c2aaad7ef4a348b7ab019cca9f19b07f7484478a/es9/2018-03/mar-22.md#weak-references-for-stage-2"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Top-level <code>await</code>",
+        "id": "Top-level <code>await</code>",
+        "url": "https://github.com/tc39/proposal-top-level-await",
+        "stage": 2,
+        "authors": [
+            "Myles Borins"
+        ],
+        "champions": [
+            "Myles Borins"
+        ],
+        "notes": [
+            {
+                "data": "2018-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-05/may-22.md#top-level-await"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Function.prototype.toString()</code> censorship",
+        "id": "<code>Function.prototype.toString()</code> censorship",
+        "url": "https://github.com/domenic/proposal-function-prototype-tostring-censorship",
+        "stage": 2,
+        "authors": [
+            "Domenic Denicola"
+        ],
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "notes": [
+            {
+                "data": "2018-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-05/may-24.md#functionprototypetostring-censorship-for-stage-2-continued-discussion"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "New Set methods",
+        "id": "New Set methods",
+        "url": "https://github.com/tc39/set-methods",
+        "stage": 2,
+        "authors": [
+            "Michał Wadas",
+            "Sathya Gunasekaran"
+        ],
+        "champions": [
+            "Sathya Gunasekaran"
+        ],
+        "notes": [
+            {
+                "data": "2018-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-05/may-22.md#set-methods"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Realms",
+        "id": "Realms",
+        "url": "https://github.com/tc39/proposal-realms",
+        "stage": 2,
+        "authors": [
+            "Caridy Patiño",
+            "Jean-Francois Paradis"
+        ],
+        "champions": [
+            "Dave Herman",
+            "Mark Miller",
+            "Caridy Patiño"
+        ],
+        "notes": [
+            {
+                "data": "2018-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-05/may-23.md#realms"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>ArrayBuffer.prototype.transfer</code>",
+        "id": "<code>ArrayBuffer.prototype.transfer</code>",
+        "url": "https://github.com/domenic/proposal-arraybuffer-transfer/",
+        "stage": 2,
+        "authors": [
+            "Domenic Denicola"
+        ],
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "notes": [
+            {
+                "data": "2018-07-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-07/july-24.md#arraybufferprototypetransfer"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "RegExp Match array offsets",
+        "id": "RegExp Match array offsets",
+        "url": "https://github.com/rbuckton/proposal-regexp-match-offsets",
+        "stage": 2,
+        "authors": [
+            "Ron Buckton"
+        ],
+        "champions": [
+            "Ron Buckton"
+        ],
+        "notes": [
+            {
+                "data": "2018-07-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-07/july-25.md#regexp-match-offsets"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Sequence properties in Unicode property escapes",
+        "id": "Sequence properties in Unicode property escapes",
+        "url": "https://github.com/mathiasbynens/proposal-regexp-unicode-sequence-properties",
+        "stage": 2,
+        "authors": [
+            "Mathias Bynens"
+        ],
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "notes": [
+            {
+                "data": "2018-09-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-09/sept-26.md#sequence-properties-in-unicode-property-escapes-for-stage-2"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Temporal",
+        "id": "Temporal",
+        "url": "https://github.com/tc39/proposal-temporal",
+        "stage": 2,
+        "authors": [
+            "Maggie Pint",
+            "Matt Johnson",
+            "Philipp Dunkel"
+        ],
+        "champions": [
+            "Maggie Pint",
+            "Philipp Dunkel",
+            "Brian Terlson"
+        ],
+        "notes": [
+            {
+                "data": "2018-09-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-09/sept-27.md#temporal-for-stage-2"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Promise.allSettled</code>",
+        "id": "<code>Promise.allSettled</code>",
+        "url": "https://github.com/tc39/proposal-promise-allSettled",
+        "stage": 2,
+        "authors": [
+            "Jason Williams",
+            "Robert Pamely"
+        ],
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "notes": [
+            {
+                "data": "2019-01-01T00:00:00.000Z"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "collection normalization",
+        "id": "collection normalization",
+        "url": "https://github.com/tc39-transfer/proposal-collection-normalization",
+        "stage": 2,
+        "authors": [
+            "Bradley Farias"
+        ],
+        "champions": [
+            "Bradley Farias"
+        ],
+        "notes": [
+            {
+                "data": "2019-01-01T00:00:00.000Z"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>export v from &quot;mod&quot;;</code> statements",
+        "id": "<code>export v from &quot;mod&quot;;</code> statements",
+        "url": "https://github.com/tc39/proposal-export-default-from",
+        "stage": 1,
+        "authors": [
+            "Lee Byron"
+        ],
+        "champions": [
+            "Ben Newman",
+            "John-David Dalton"
+        ],
+        "notes": [
+            {
+                "data": "2017-07-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es8/2017-07/jul-27.md#export-default-from"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Observable",
+        "id": "Observable",
+        "url": "https://github.com/tc39/proposal-observable",
+        "stage": 1,
+        "authors": [
+            "Jafar Husain"
+        ],
+        "champions": [
+            "Jafar Husain",
+            "Mark Miller"
+        ],
+        "notes": [
+            {
+                "data": "2017-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/1d2cb2c585b301732ec9e83ea41f543b38398291/es8/2017-05/may-25.md#17iiia-observable-proposal-to-stage-2"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Frozen Realms",
+        "id": "Frozen Realms",
+        "url": "https://github.com/tc39/proposal-frozen-realms",
+        "stage": 1,
+        "authors": [
+            "Mark Miller",
+            "Chip Morningstar",
+            "Caridy Patiño"
+        ],
+        "champions": [
+            "Mark Miller",
+            "Chip Morningstar",
+            "Caridy Patiño"
+        ],
+        "notes": [
+            {
+                "data": "2018-03-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/c2aaad7ef4a348b7ab019cca9f19b07f7484478a/es9/2018-03/mar-20.md#10ia-update-on-frozen-realms-in-light-of-meltdown-and-spectre"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Math</code> Extensions",
+        "id": "<code>Math</code> Extensions",
+        "url": "https://github.com/rwaldron/proposal-math-extensions",
+        "stage": 1,
+        "authors": [
+            "Rick Waldron"
+        ],
+        "champions": [
+            "Rick Waldron"
+        ],
+        "notes": [
+            {
+                "data": "2016-07-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/c2aaad7ef4a348b7ab019cca9f19b07f7484478a/es7/2016-07/jul-26.md#9iie-math-extensions"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>of</code> and <code>from</code> on collection constructors",
+        "id": "<code>of</code> and <code>from</code> on collection constructors",
+        "url": "https://github.com/leobalter/proposal-setmap-offrom",
+        "stage": 1,
+        "authors": [
+            "Leo Balter"
+        ],
+        "champions": [
+            "Leo Balter"
+        ],
+        "notes": [
+            {
+                "data": "2016-09-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/be8c2af6d6dcfc9630e00ea15bbabf1a415245cb/es7/2016-09/sept-29.md#11iic-set-map-weakset-and-weakmap-of-and-from-methods"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Generator arrow functions (<code>=&gt;*</code>)",
+        "id": "Generator arrow functions (<code>=&gt;*</code>)",
+        "stage": 1,
+        "authors": [],
+        "champions": [
+            "Brendan Eich",
+            "Domenic Denicola"
+        ],
+        "notes": [
+            {
+                "data": "2016-09-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/1d2cb2c585b301732ec9e83ea41f543b38398291/es7/2016-09/sept-27.md#11ic-generator-arrow-functions"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Promise.try</code>",
+        "id": "<code>Promise.try</code>",
+        "url": "https://github.com/tc39/proposal-promise-try",
+        "stage": 1,
+        "authors": [
+            "Jordan Harband"
+        ],
+        "champions": [
+            "Jordan Harband"
+        ],
+        "notes": [
+            {
+                "data": "2016-11-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/be8c2af6d6dcfc9630e00ea15bbabf1a415245cb/es7/2016-11/nov-29.md#11iib-promisetry"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Optional Chaining",
+        "id": "Optional Chaining",
+        "url": "https://github.com/tc39/proposal-optional-chaining",
+        "stage": 1,
+        "authors": [
+            "Gabriel Isenberg",
+            "Claude Pache",
+            "Dustin Savery"
+        ],
+        "champions": [
+            "Gabriel Isenberg",
+            "Dustin Savery"
+        ],
+        "notes": [
+            {
+                "data": "2018-11-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/927f4e98d8e0fef59fb69e52fb40ec6619a6eacb/es9/2018-11/nov-28.md#update-on-optional-chaining"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Math.signbit</code>: IEEE-754 sign bit",
+        "id": "<code>Math.signbit</code>: IEEE-754 sign bit",
+        "url": "http://jfbastien.github.io/papers/Math.signbit.html",
+        "stage": 1,
+        "authors": [
+            "JF Bastien"
+        ],
+        "champions": [
+            "JF Bastien"
+        ],
+        "notes": [
+            {
+                "data": "2017-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/be8c2af6d6dcfc9630e00ea15bbabf1a415245cb/es8/2017-05/may-23.md#16ib-mathsignbit-proposal"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Error stacks",
+        "id": "Error stacks",
+        "url": "https://github.com/tc39/proposal-error-stacks",
+        "stage": 1,
+        "authors": [
+            "Jordan Harband"
+        ],
+        "champions": [
+            "Jordan Harband"
+        ],
+        "notes": [
+            {
+                "data": "2017-01-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/be8c2af6d6dcfc9630e00ea15bbabf1a415245cb/es7/2017-01/jan-25.md#15iiia-error-stacks-seeking-stage-1"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>do</code> expressions",
+        "id": "<code>do</code> expressions",
+        "url": "https://github.com/tc39/proposal-do-expressions",
+        "stage": 1,
+        "authors": [
+            "Dave Herman"
+        ],
+        "champions": [
+            "Dave Herman"
+        ],
+        "notes": [
+            {
+                "data": "2018-07-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-07/july-24.md#update-on-do-expressions"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Float16 on TypedArrays, DataView, <code>Math.hfround</code>",
+        "id": "Float16 on TypedArrays, DataView, <code>Math.hfround</code>",
+        "url": "https://docs.google.com/presentation/d/1Ta_IbravBUOvu7LUhlN49SvLU-8G8bIQnsS08P3Z4vY/edit?usp=sharing",
+        "stage": 1,
+        "authors": [
+            "Leo Balter"
+        ],
+        "champions": [
+            "Leo Balter"
+        ],
+        "notes": [
+            {
+                "data": "2017-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/1d2cb2c585b301732ec9e83ea41f543b38398291/es8/2017-05/may-23.md#16ig-float16-on-typedarrays-dataview-mathhfround-for-stage-1"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Change <code>Number.parseInt</code>/<code>parseFloat</code> to not coerce <code>null</code>/<code>undefined</code>/<code>NaN</code> (repo link TBD)",
+        "id": "Change <code>Number.parseInt</code>/<code>parseFloat</code> to not coerce <code>null</code>/<code>undefined</code>/<code>NaN</code> (repo link TBD)",
+        "stage": 1,
+        "authors": [],
+        "champions": [
+            "Brendan Eich"
+        ],
+        "notes": [
+            {
+                "data": "2017-07-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/c2aaad7ef4a348b7ab019cca9f19b07f7484478a/es8/2017-07/jul-26.md#13iib-consider-changing-numberparseint-and-numberparsefloat"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Binary AST",
+        "id": "Binary AST",
+        "url": "https://github.com/tc39/proposal-binary-ast",
+        "stage": 1,
+        "authors": [
+            "Shu-yu Guo"
+        ],
+        "champions": [
+            "Shu-yu Guo"
+        ],
+        "notes": [
+            {
+                "data": "2018-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-05/may-24.md#binary-ast"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Pipeline Operator",
+        "id": "Pipeline Operator",
+        "url": "https://github.com/tc39/proposal-pipeline-operator",
+        "stage": 1,
+        "authors": [
+            "Daniel Ehrenberg"
+        ],
+        "champions": [
+            "Daniel Ehrenberg"
+        ],
+        "notes": [
+            {
+                "data": "2018-03-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-03/mar-22.md#pipeline-operator"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Extensible numeric literals",
+        "id": "Extensible numeric literals",
+        "url": "https://github.com/tc39/proposal-extended-numeric-literals",
+        "stage": 1,
+        "authors": [
+            "Daniel Ehrenberg"
+        ],
+        "champions": [
+            "Daniel Ehrenberg"
+        ],
+        "notes": [
+            {
+                "data": "2017-09-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es8/2017-09/sep-26.md#11iic-extensible-literals"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "First-class protocols",
+        "id": "First-class protocols",
+        "url": "https://github.com/michaelficarra/proposal-first-class-protocols",
+        "stage": 1,
+        "authors": [
+            "Michael Ficarra"
+        ],
+        "champions": [
+            "Michael Ficarra"
+        ],
+        "notes": [
+            {
+                "data": "2018-07-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-07/july-25.md#updates-on-first-class-protocols"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Nullish coalescing Operator",
+        "id": "Nullish coalescing Operator",
+        "url": "https://github.com/tc39/proposal-nullish-coalescing",
+        "stage": 1,
+        "authors": [
+            "Gabriel Isenberg"
+        ],
+        "champions": [
+            "Gabriel Isenberg"
+        ],
+        "notes": [
+            {
+                "data": "2018-03-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-03/mar-22.md#10iif-nullish-coalescing-for-stage-2"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Partial application",
+        "id": "Partial application",
+        "url": "https://github.com/tc39/proposal-partial-application",
+        "stage": 1,
+        "authors": [
+            "Ron Buckton"
+        ],
+        "champions": [
+            "Ron Buckton"
+        ],
+        "notes": [
+            {
+                "data": "2018-07-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-07/july-25.md#partial-application"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Cancellation API",
+        "id": "Cancellation API",
+        "url": "https://github.com/tc39/proposal-cancellation",
+        "stage": 1,
+        "authors": [
+            "Ron Buckton"
+        ],
+        "champions": [
+            "Ron Buckton",
+            "Brian Terlson"
+        ],
+        "notes": [
+            {
+                "data": "2018-07-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-07/july-25.md#cancellation-update"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>String.prototype.replaceAll</code>",
+        "id": "<code>String.prototype.replaceAll</code>",
+        "url": "https://github.com/psmarshall/string-replace-all-proposal",
+        "stage": 1,
+        "authors": [
+            "Peter Marshall",
+            "Jakob Gruber",
+            "Mathias Bynens"
+        ],
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "notes": [
+            {
+                "data": "2017-11-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es8/2017-11/nov-28.md#10ih-stringprototypereplaceall-for-stage-1"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>String.prototype.codePoints</code>",
+        "id": "<code>String.prototype.codePoints</code>",
+        "url": "https://github.com/tc39/proposal-string-prototype-codepoints",
+        "stage": 1,
+        "authors": [
+            "Ingvar Stepanyan"
+        ],
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "notes": [
+            {
+                "data": "2018-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-05/may-22.md#stringprototypecodepoints-for-stage-2"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Object.freeze</code> + <code>Object.seal</code> syntax",
+        "id": "<code>Object.freeze</code> + <code>Object.seal</code> syntax",
+        "url": "https://github.com/keithamus/object-freeze-seal-syntax",
+        "stage": 1,
+        "authors": [
+            "Keith Cirkel"
+        ],
+        "champions": [
+            "Keith Cirkel"
+        ],
+        "notes": [
+            {
+                "data": "2017-11-01T00:00:00.000Z",
+                "url": "https://github.com/keithamus/object-freeze-seal-syntax"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Block Params",
+        "id": "Block Params",
+        "url": "https://github.com/samuelgoto/proposal-block-params",
+        "stage": 1,
+        "authors": [
+            "Sam Goto"
+        ],
+        "champions": [
+            "Sam Goto"
+        ],
+        "notes": [
+            {
+                "data": "2017-11-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/be8c2af6d6dcfc9630e00ea15bbabf1a415245cb/es8/2017-11/nov-30.md#9iiia-block-params-to-stage-1"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>{BigInt,Number}.fromString</code>",
+        "id": "<code>{BigInt,Number}.fromString</code>",
+        "url": "https://github.com/mathiasbynens/proposal-number-fromstring",
+        "stage": 1,
+        "authors": [
+            "Mathias Bynens"
+        ],
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "notes": [
+            {
+                "data": "2018-01-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es8/2018-01/jan-23.md#13iic-bigintnumberfromstring-for-stage-1"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Math.seededRandoms()</code>",
+        "id": "<code>Math.seededRandoms()</code>",
+        "url": "https://github.com/tabatkins/js-seeded-random",
+        "stage": 1,
+        "authors": [
+            "Tab Atkins"
+        ],
+        "champions": [
+            "Tab Atkins"
+        ],
+        "notes": [
+            {
+                "data": "2018-01-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es8/2018-01/jan-23.md#13iif-mathseededrandoms-for-stage-1"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Maximally minimal mixins",
+        "id": "Maximally minimal mixins",
+        "url": "https://github.com/justinfagnani/proposal-mixins",
+        "stage": 1,
+        "authors": [
+            "Justin Fagnani"
+        ],
+        "champions": [
+            "Justin Fagnani"
+        ],
+        "notes": [
+            {
+                "data": "2018-01-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es8/2018-01/jan-23.md#13iiie-maximally-minimal-mixins-proposal"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Getting last element of Array",
+        "id": "Getting last element of Array",
+        "url": "https://github.com/keithamus/proposal-array-last",
+        "stage": 1,
+        "authors": [
+            "Keith Cirkel"
+        ],
+        "champions": [
+            "Keith Cirkel"
+        ],
+        "notes": [
+            {
+                "data": "2018-01-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es8/2018-01/jan-24.md#13iiim-getting-last-item-from-array-for-stage-2"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Collection methods",
+        "id": "Collection methods",
+        "url": "https://github.com/tc39/collection-methods",
+        "stage": 1,
+        "authors": [
+            "Michał Wadas"
+        ],
+        "champions": [
+            "Sathya Gunasekaran"
+        ],
+        "notes": [
+            {
+                "data": "2018-01-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/be8c2af6d6dcfc9630e00ea15bbabf1a415245cb/es8/2018-01/jan-23.md#13iiik-new-set-builtin-methods-for-stage-2"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Richer Keys",
+        "id": "Richer Keys",
+        "url": "https://github.com/tc39/proposal-richer-keys",
+        "stage": 1,
+        "authors": [
+            "Bradley Farias"
+        ],
+        "champions": [
+            "Bradley Farias"
+        ],
+        "notes": [
+            {
+                "data": "2018-03-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-03/mar-21.md#10iib-richer-keys-for-stage-1"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Slice notation",
+        "id": "Slice notation",
+        "url": "https://github.com/gsathya/proposal-slice-notation/",
+        "stage": 1,
+        "authors": [
+            "Sathya Gunasekaran"
+        ],
+        "champions": [
+            "Sathya Gunasekaran"
+        ],
+        "notes": [
+            {
+                "data": "2018-03-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-03/mar-22.md#slice-notation-for-stage-1"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Logical Assignment Operators",
+        "id": "Logical Assignment Operators",
+        "url": "https://github.com/jridgewell/proposal-logical-assignment",
+        "stage": 1,
+        "authors": [
+            "Justin Ridgewell"
+        ],
+        "champions": [
+            "Justin Ridgewell"
+        ],
+        "notes": [
+            {
+                "data": "2018-03-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-03/mar-22.md#10ie-logical-assignment-operators-for-stage-1-cont"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Module Keys",
+        "id": "Module Keys",
+        "url": "https://github.com/mikesamuel/tc39-module-keys",
+        "stage": 1,
+        "authors": [
+            "Mike Samuel"
+        ],
+        "champions": [
+            "Mike Samuel"
+        ],
+        "notes": [
+            {
+                "data": "2018-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-05/may-23.md#module-keys-strawman-for-stage-1"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Class Static Block",
+        "id": "Class Static Block",
+        "url": "https://github.com/rbuckton/proposal-class-static-block#readme",
+        "stage": 1,
+        "authors": [
+            "Ron Buckton"
+        ],
+        "champions": [
+            "Ron Buckton"
+        ],
+        "notes": [
+            {
+                "data": "2018-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-05/may-23.md#class-static-block"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "class Access Expressions",
+        "id": "class Access Expressions",
+        "url": "https://github.com/rbuckton/proposal-class-access-expressions",
+        "stage": 1,
+        "authors": [
+            "Ron Buckton"
+        ],
+        "champions": [
+            "Ron Buckton"
+        ],
+        "notes": [
+            {
+                "data": "2018-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-05/may-23.md#class-access-expressions"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Pattern Matching",
+        "id": "Pattern Matching",
+        "url": "https://github.com/tc39/proposal-pattern-matching",
+        "stage": 1,
+        "authors": [
+            "Kat Marchán",
+            "Brian Terlson"
+        ],
+        "champions": [
+            "Kat Marchán",
+            "Brian Terlson",
+            "Sebastian Markbåge"
+        ],
+        "notes": [
+            {
+                "data": "2018-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-05/may-24.md#pattern-matching-for-stage-1"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Explicit Resource Management",
+        "id": "Explicit Resource Management",
+        "url": "https://github.com/rbuckton/proposal-using-statement",
+        "stage": 1,
+        "authors": [
+            "Ron Buckton"
+        ],
+        "champions": [
+            "Ron Buckton"
+        ],
+        "notes": [
+            {
+                "data": "2018-07-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-07/july-24.md#explicit-resource-management"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Dynamic Modules",
+        "id": "Dynamic Modules",
+        "url": "https://github.com/guybedford/proposal-dynamic-modules",
+        "stage": 1,
+        "authors": [
+            "Bradley Farias"
+        ],
+        "champions": [
+            "Bradley Farias"
+        ],
+        "notes": [
+            {
+                "data": "2018-07-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-07/july-25.md#dynamic-modules"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "JavaScript Standard Library",
+        "id": "JavaScript Standard Library",
+        "url": "https://github.com/msaboff/JavaScript-Standard-Library",
+        "stage": 1,
+        "authors": [
+            "Michael Saboff",
+            "Mattijs Hoitink"
+        ],
+        "champions": [
+            "Michael Saboff",
+            "Mattijs Hoitink"
+        ],
+        "notes": [
+            {
+                "data": "2018-07-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-07/july-26.md#javascript-standard-library"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>&quot;use module&quot;</code>",
+        "id": "<code>&quot;use module&quot;</code>",
+        "url": "https://github.com/tc39/proposal-modules-pragma",
+        "stage": 1,
+        "authors": [
+            "Dave Herman"
+        ],
+        "champions": [
+            "Dave Herman"
+        ],
+        "notes": [
+            {
+                "data": "2017-07-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es8/2017-07/jul-26.md#9ivb-modulescript-pragma-for-stage-2"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>for-in</code> mechanics",
+        "id": "<code>for-in</code> mechanics",
+        "url": "https://github.com/bakkot/for-in-exploration",
+        "stage": 1,
+        "authors": [
+            "Kevin Gibbons"
+        ],
+        "champions": [
+            "Kevin Gibbons"
+        ],
+        "notes": [
+            {
+                "data": "2018-09-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-09/sept-25.md#for-in-mechanics"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "uniform parsing of quasi-standard <code>Date.parse</code> input",
+        "id": "uniform parsing of quasi-standard <code>Date.parse</code> input",
+        "url": "https://github.com/gibson042/ecma262-proposal-uniform-interchange-date-parsing",
+        "stage": 1,
+        "authors": [
+            "Richard Gibson"
+        ],
+        "champions": [
+            "Richard Gibson"
+        ],
+        "notes": [
+            {
+                "data": "2018-09-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-09/sept-26.md#uniform-parsing-of-quasi-standard-dateparse-input"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "JSON.parse source text access",
+        "id": "JSON.parse source text access",
+        "url": "https://github.com/gibson042/ecma262-proposal-JSON-parse-with-source",
+        "stage": 1,
+        "authors": [
+            "Richard Gibson"
+        ],
+        "champions": [
+            "Richard Gibson"
+        ],
+        "notes": [
+            {
+                "data": "2018-09-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-09/sept-27.md#jsonparse-source-text-access"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "IDL for ECMAScript",
+        "id": "IDL for ECMAScript",
+        "url": "https://github.com/littledan/proposal-idl",
+        "stage": 1,
+        "authors": [
+            "Daniel Ehrenberg"
+        ],
+        "champions": [
+            "Daniel Ehrenberg"
+        ],
+        "notes": [
+            {
+                "data": "2018-09-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es9/2018-09/sept-27.md#idl-for-javascript"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Asset References",
+        "id": "Asset References",
+        "url": "https://github.com/sebmarkbage/ecmascript-asset-references",
+        "stage": 1,
+        "authors": [
+            "Sebastian Markbage"
+        ],
+        "champions": [
+            "Sebastian Markbage"
+        ],
+        "notes": [
+            {
+                "data": "2018-11-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/927f4e98d8e0fef59fb69e52fb40ec6619a6eacb/es9/2018-11/nov-28.md#asset-references-for-stage-1"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Freezing prototypes",
+        "id": "Freezing prototypes",
+        "url": "https://github.com/bakkot/proposal-freeze-prototype",
+        "stage": 1,
+        "authors": [
+            "Kevin Gibbons"
+        ],
+        "champions": [
+            "Kevin Gibbons"
+        ],
+        "notes": [
+            {
+                "data": "2019-01-01T00:00:00.000Z"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>new.initialize</code>",
+        "id": "<code>new.initialize</code>",
+        "url": "https://github.com/littledan/proposal-new-initialize",
+        "stage": 1,
+        "authors": [
+            "Daniel Ehrenberg"
+        ],
+        "champions": [
+            "Daniel Ehrenberg"
+        ],
+        "notes": [
+            {
+                "data": "2019-01-01T00:00:00.000Z"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Iterator helpers",
+        "id": "Iterator helpers",
+        "url": "https://github.com/devsnek/proposal-iterator-helpers",
+        "stage": 1,
+        "authors": [
+            "Gus Caplan"
+        ],
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "notes": [
+            {
+                "data": "2019-01-01T00:00:00.000Z"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Additional metaproperties",
+        "id": "Additional metaproperties",
+        "url": "https://github.com/allenwb/ESideas/blob/master/ES7MetaProps.md",
+        "stage": 0,
+        "authors": [
+            "Allen Wirfs-Brock"
+        ],
+        "champions": [
+            "Allen Wirfs-Brock"
+        ],
+        "notes": [],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Annex B &#x2014; HTML Attribute Event Handlers",
+        "id": "Annex B &#x2014; HTML Attribute Event Handlers",
+        "stage": 0,
+        "authors": [
+            "Allen Wirfs-Brock"
+        ],
+        "champions": [
+            "Allen Wirfs-Brock"
+        ],
+        "notes": [],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Defensible Classes",
+        "id": "Defensible Classes",
+        "url": "https://web.archive.org/web/20160804042547/http://wiki.ecmascript.org/doku.php?id=strawman:defensible_classes",
+        "stage": 0,
+        "authors": [
+            "Mark Miller",
+            "Doug Crockford"
+        ],
+        "champions": [
+            "Mark Miller",
+            "Doug Crockford"
+        ],
+        "notes": [],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Function bind syntax",
+        "id": "Function bind syntax",
+        "url": "https://github.com/zenparsing/es-function-bind",
+        "stage": 0,
+        "authors": [
+            "Kevin Smith"
+        ],
+        "champions": [
+            "Brian Terlson",
+            "Matthew Podwysocki"
+        ],
+        "notes": [
+            {
+                "data": "2015-03-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/b8da60318b564f136cbe8385f17f42abc0666cdd/es6/2015-03/mar-25.md#6vi-function-bind-and-private-fields-redux-kevin-smith"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Function expression decorators",
+        "id": "Function expression decorators",
+        "url": "https://goo.gl/8MmCMG",
+        "stage": 0,
+        "authors": [
+            "Igor Minar"
+        ],
+        "champions": [
+            "Igor Minar"
+        ],
+        "notes": [],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Method parameter decorators",
+        "id": "Method parameter decorators",
+        "url": "https://goo.gl/r1XT9b",
+        "stage": 0,
+        "authors": [
+            "Igor Minar"
+        ],
+        "champions": [
+            "Igor Minar"
+        ],
+        "notes": [],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Nested <code>import</code> declarations",
+        "id": "Nested <code>import</code> declarations",
+        "url": "https://github.com/benjamn/reify/blob/master/PROPOSAL.md",
+        "stage": 0,
+        "authors": [
+            "Ben Newman"
+        ],
+        "champions": [
+            "Ben Newman"
+        ],
+        "notes": [
+            {
+                "data": "2016-07-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/b8da60318b564f136cbe8385f17f42abc0666cdd/es7/2016-07/jul-27.md#10iiic-nested-import-declaration"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Normative ICU Reference",
+        "id": "Normative ICU Reference",
+        "url": "https://github.com/tc39/tc39-notes/blob/master/es8/2017-05/may-23.md#normative-icu-reference",
+        "stage": 0,
+        "authors": [
+            "Domenic Denicola"
+        ],
+        "champions": [
+            "Domenic Denicola"
+        ],
+        "notes": [
+            {
+                "data": "2017-05-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/master/es8/2017-05/may-23.md#normative-icu-reference"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Orthogonal Classes",
+        "id": "Orthogonal Classes",
+        "url": "https://github.com/erights/Orthogonal-Classes",
+        "stage": 0,
+        "authors": [
+            "Mark Miller",
+            "Allen Wirfs-Brock"
+        ],
+        "champions": [
+            "Mark Miller",
+            "Allen Wirfs-Brock"
+        ],
+        "notes": [
+            {
+                "data": "2017-03-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/61dc2f45829a0663af0b4b1d6690717dc70d30d9/es8/2017-03/mar-22.md#10iiia-orthogonal-classes"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Reflect.{isCallable,isConstructor}</code>",
+        "id": "<code>Reflect.{isCallable,isConstructor}</code>",
+        "url": "https://github.com/caitp/TC39-Proposals/blob/master/tc39-reflect-isconstructor-iscallable.md",
+        "stage": 0,
+        "authors": [
+            "Caitlin Potter"
+        ],
+        "champions": [
+            "Caitlin Potter"
+        ],
+        "notes": [],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Relationships",
+        "id": "Relationships",
+        "url": "https://web.archive.org/web/20160804042554/http://wiki.ecmascript.org/doku.php?id=strawman:relationships",
+        "stage": 0,
+        "authors": [
+            "Mark Miller",
+            "Waldemar Horwat"
+        ],
+        "champions": [
+            "Mark Miller",
+            "Waldemar Horwat"
+        ],
+        "notes": [],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>String.prototype.at</code>",
+        "id": "<code>String.prototype.at</code>",
+        "url": "https://github.com/mathiasbynens/String.prototype.at",
+        "stage": 0,
+        "authors": [
+            "Mathias Bynens"
+        ],
+        "champions": [
+            "Mathias Bynens",
+            "Rick Waldron"
+        ],
+        "notes": [],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Structured Clone",
+        "id": "Structured Clone",
+        "url": "https://github.com/dslomov-chromium/ecmascript-structured-clone",
+        "stage": 0,
+        "authors": [
+            "Dmitry Lomov"
+        ],
+        "champions": [
+            "Dmitry Lomov"
+        ],
+        "notes": [
+            {
+                "data": "2014-01-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/b8da60318b564f136cbe8385f17f42abc0666cdd/es6/2014-01/jan-30.md#structured-clone"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "WHATWG URL",
+        "id": "WHATWG URL",
+        "url": "https://github.com/jasnell/proposal-url",
+        "stage": 0,
+        "authors": [
+            "James M Snell"
+        ],
+        "champions": [
+            "James M Snell"
+        ],
+        "notes": [],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Zones",
+        "id": "Zones",
+        "url": "https://github.com/domenic/zones",
+        "stage": 0,
+        "authors": [
+            "Domenic Denicola"
+        ],
+        "champions": [
+            "Domenic Denicola",
+            "Miško Hevery"
+        ],
+        "notes": [
+            {
+                "data": "2016-03-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/61dc2f45829a0663af0b4b1d6690717dc70d30d9/es7/2016-03/march-29.md#zones-update"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Object Shorthand Improvements",
+        "id": "Object Shorthand Improvements",
+        "url": "https://github.com/rbuckton/proposal-shorthand-improvements",
+        "stage": 0,
+        "authors": [
+            "Ron Buckton"
+        ],
+        "champions": [
+            "Ron Buckton"
+        ],
+        "notes": [
+            {
+                "data": "2017-09-01T00:00:00.000Z",
+                "url": "https://github.com/tc39/tc39-notes/blob/61dc2f45829a0663af0b4b1d6690717dc70d30d9/es8/2017-09/sep-28.md#13i-object-shorthand-improvements"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "Decimal",
+        "id": "Decimal",
+        "url": "https://docs.google.com/presentation/d/1jPsw7EGsS6BW59_BDRu9o0o3UwSXQeUhi38QG55ZoPI/edit?pli=1#slide=id.p",
+        "stage": 0,
+        "authors": [
+            "Andrew Paprocki",
+            "Daniel Ehrenberg"
+        ],
+        "champions": [
+            "Andrew Paprocki",
+            "Daniel Ehrenberg"
+        ],
+        "notes": [
+            {
+                "data": "2017-11-01T00:00:00.000Z",
+                "url": "https://github.com/rwaldron/tc39-notes/blob/b8da60318b564f136cbe8385f17f42abc0666cdd/es8/2017-11/nov-29.md#9ivb-decimal-for-stage-0"
+            }
+        ],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>deprecated</code>",
+        "id": "<code>deprecated</code>",
+        "url": "https://github.com/jasnell/proposal-deprecated",
+        "stage": 0,
+        "authors": [
+            "James M Snell"
+        ],
+        "champions": [
+            "James M Snell"
+        ],
+        "notes": [],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>as</code> destructuring patterns",
+        "id": "<code>as</code> destructuring patterns",
+        "url": "https://github.com/zkat/proposal-as-patterns",
+        "stage": 0,
+        "authors": [
+            "Kat Marchán"
+        ],
+        "champions": [
+            "Kat Marchán"
+        ],
+        "notes": [],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Symbol.thenable</code>",
+        "id": "<code>Symbol.thenable</code>",
+        "url": "https://github.com/devsnek/proposal-symbol-thenable",
+        "stage": 0,
+        "authors": [
+            "Gus Caplan"
+        ],
+        "champions": [
+            "Jordan Harband",
+            "Myles Borins"
+        ],
+        "notes": [],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    },
+    {
+        "name": "<code>Promise.any</code>",
+        "id": "<code>Promise.any</code>",
+        "url": "https://github.com/tc39/proposal-promise-any",
+        "stage": 0,
+        "authors": [
+            "Mathias Bynens"
+        ],
+        "champions": [
+            "Mathias Bynens"
+        ],
+        "notes": [],
+        "pushed_at": "2019-02-19T00:00:00.000Z",
+        "_format": "old-2021-05-29",
+        "tags": [
+            "ECMA-262"
+        ]
+    }
+]
